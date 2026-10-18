@@ -28,6 +28,7 @@ for p in json.load(open(os.path.join(HERE,"phrases.json"))):
     v=p.get("video") or find(s,[".mp4"]); a=p.get("audio") or find(s,[".mp3",".m4a"])
     segs=[find(f"{s}-{i}",[".mp3",".m4a"]) for i in (1,2,3)]; segs=[x for x in segs if x]
     e["audios"]=[copy(x) for x in segs]
+    e["transcripts"]=[(open(os.path.splitext(x)[0]+".txt").read().strip() if os.path.isfile(os.path.splitext(x)[0]+".txt") else "") for x in segs]
     if segs: v=None; a=None
     e["video"]=copy(v) if v else None
     e["audio"]=copy(a) if (a and not v) else None
