@@ -40,7 +40,7 @@ function card(p){let m="";
 function render(){const q=document.getElementById("q").value.trim().toLowerCase(),f=document.getElementById("f").value;
  const r=D.filter(p=>(!f||p[f])&&(!q||JSON.stringify(p).toLowerCase().includes(q)));
  document.getElementById("cnt").textContent=`共 ${r.length} 条`;document.getElementById("list").innerHTML=r.map(card).join("")}
-fetch("data.json").then(r=>r.json()).then(d=>{D=d.reverse();render();go()});
+fetch("data.json?t="+Date.now()).then(r=>r.json()).then(d=>{D=d.reverse();render();go()});
 function go(){const h=decodeURIComponent(location.hash.slice(1));if(!h)return;let e=document.getElementById(h);if(!e){document.getElementById("q").value="";document.getElementById("f").value="";render();e=document.getElementById(h)}if(e){e.scrollIntoView({block:"center"});e.style.outline="3px solid #f5a623";setTimeout(()=>e.style.outline="",3000)}}
 window.addEventListener("hashchange",go);
 q.oninput=render;f.onchange=render;
