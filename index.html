@@ -31,7 +31,7 @@ function card(p){let m="";
  else if(p.audio)m=`<audio controls preload="none" src="${p.audio}"></audio>`;
  const src=p.link?`<div class="src">${m?"素材来源":"学习链接"}：<a href="${esc(p.link)}" target="_blank" rel="noopener">${esc(p.link_title||p.link)}</a></div>`:"";
  const b=p.video?'<span class="badge">视频</span>':p.audio?'<span class="badge">音频</span>':"";
- return `<div class="card"><span class="date">${esc(p.sent_at)}</span><p class="en">${esc(p.phrase)}${b}</p>
+ return `<div class="card" id="${esc(p.slug)}"><span class="date">${esc(p.sent_at)}</span><p class="en">${esc(p.phrase)}${b}</p>
  <div class="row"><span class="lab">字面</span>${esc(p.literal)}</div>
  <div class="row"><span class="lab">实际</span><b>${esc(p.meaning)}</b></div>
  <div class="dlg">${p.dialog.map(d=>`<div><b>${d.who}:</b> ${esc(d.en)}</div>`).join("")}<div class="zh">${esc(p.dialog_zh)}</div></div>
@@ -39,6 +39,8 @@ function card(p){let m="";
 function render(){const q=document.getElementById("q").value.trim().toLowerCase(),f=document.getElementById("f").value;
  const r=D.filter(p=>(!f||p[f])&&(!q||JSON.stringify(p).toLowerCase().includes(q)));
  document.getElementById("cnt").textContent=`共 ${r.length} 条`;document.getElementById("list").innerHTML=r.map(card).join("")}
-fetch("data.json").then(r=>r.json()).then(d=>{D=d.reverse();render()});
+fetch("data.json").then(r=>r.json()).then(d=>{D=d.reverse();render();go()});
+function go(){const h=decodeURIComponent(location.hash.slice(1));if(!h)return;let e=document.getElementById(h);if(!e){document.getElementById("q").value="";document.getElementById("f").value="";render();e=document.getElementById(h)}if(e){e.scrollIntoView({block:"center"});e.style.outline="3px solid #f5a623";setTimeout(()=>e.style.outline="",3000)}}
+window.addEventListener("hashchange",go);
 q.oninput=render;f.onchange=render;
 </script></body></html>
