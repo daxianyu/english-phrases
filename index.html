@@ -20,17 +20,18 @@ video,audio{width:100%;margin-top:12px;border-radius:10px;background:#000}audio{
 .src{font-size:.8rem;color:var(--mut);margin-top:6px;word-break:break-all}.src a{color:var(--acc)}
 .badge{font-size:.7rem;padding:1px 6px;border-radius:6px;background:#dcfce7;color:#166534;margin-left:6px;vertical-align:middle}
 .count{color:var(--mut);font-size:.85rem;margin:0 0 10px}
-</style></head><body>
+.seg{display:flex;align-items:center;gap:8px;margin-top:6px}.seg audio{flex:1;min-width:0}</style></head><body>
 <header><h1>英语地道表达</h1><p>字面意思 · 实际意思 · 对话例句 · 视频/音频</p></header>
 <div class="bar"><input id="q" placeholder="搜索英文或中文…"><select id="f"><option value="">全部</option><option value="video">有视频</option><option value="audio">有音频</option></select></div>
 <main><p class="count" id="cnt"></p><div id="list"></div></main>
 <script>
 let D=[];const esc=s=>(s||"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 function card(p){let m="";
- if(p.video)m=`<video controls preload="none" playsinline src="${p.video}"></video>`;
+ if(p.audios&&p.audios.length)m=`<div class="segs">${p.audios.map((a,i)=>`<div class="seg"><span class="lab">第${i+1}段</span><audio controls preload="none" src="${a}"></audio></div>`).join("")}</div>`;
+ else if(p.video)m=`<video controls preload="none" playsinline src="${p.video}"></video>`;
  else if(p.audio)m=`<audio controls preload="none" src="${p.audio}"></audio>`;
  const src=p.link?`<div class="src">${m?"素材来源":"学习链接"}：<a href="${esc(p.link)}" target="_blank" rel="noopener">${esc(p.link_title||p.link)}</a></div>`:"";
- const b=p.video?'<span class="badge">视频</span>':p.audio?'<span class="badge">音频</span>':"";
+ const b=(p.audios&&p.audios.length)?`<span class="badge">音频×${p.audios.length}</span>`:p.video?'<span class="badge">视频</span>':p.audio?'<span class="badge">音频</span>':"";
  return `<div class="card" id="${esc(p.slug)}"><span class="date">${esc(p.sent_at)}</span><p class="en">${esc(p.phrase)}${b}</p>
  <div class="row"><span class="lab">字面</span>${esc(p.literal)}</div>
  <div class="row"><span class="lab">实际</span><b>${esc(p.meaning)}</b></div>
