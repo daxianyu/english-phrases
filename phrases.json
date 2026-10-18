@@ -1,0 +1,1161 @@
+[
+ {
+  "phrase": "Beats me.",
+  "slug": "beats-me",
+  "sent_at": "2026-10-17 18:10",
+  "literal": "打败我了",
+  "meaning": "我也不知道；考倒我了",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Where's the remote?"
+   },
+   {
+    "who": "B",
+    "en": "Beats me. Check the couch."
+   }
+  ],
+  "dialog_zh": "遥控器在哪？——我也不知道，看看沙发。",
+  "tip": "口语随意，正式场合用 I'm not sure。"
+ },
+ {
+  "phrase": "I'll take a rain check.",
+  "slug": "rain-check",
+  "sent_at": "2026-10-17 18:10",
+  "literal": "我拿一张雨票",
+  "meaning": "这次不了，改天吧",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Want to grab a drink tonight?"
+   },
+   {
+    "who": "B",
+    "en": "I'll take a rain check — I'm swamped."
+   }
+  ],
+  "dialog_zh": "今晚喝一杯？——改天吧，我忙疯了。",
+  "tip": "礼貌拒绝且暗示以后愿意；也说 Can I take a rain check?"
+ },
+ {
+  "phrase": "Break a leg!",
+  "slug": "break-a-leg",
+  "sent_at": "2026-10-17 18:10",
+  "literal": "摔断一条腿",
+  "meaning": "祝你好运（演出/面试前）",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "My audition is in ten minutes."
+   },
+   {
+    "who": "B",
+    "en": "Break a leg!"
+   }
+  ],
+  "dialog_zh": "我十分钟后试镜。——祝你好运！",
+  "tip": "不是诅咒！多用于表演、上台前。"
+ },
+ {
+  "phrase": "Don't sweat it.",
+  "slug": "dont-sweat-it",
+  "sent_at": "2026-10-17 18:10",
+  "literal": "别为它出汗",
+  "meaning": "别担心；没关系",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Sorry I'm late."
+   },
+   {
+    "who": "B",
+    "en": "Don't sweat it, we just started."
+   }
+  ],
+  "dialog_zh": "抱歉迟到了。——没事，我们刚开始。",
+  "tip": "回应道歉或安慰；比 No problem 更随意。"
+ },
+ {
+  "phrase": "Tell me about it.",
+  "slug": "tell-me-about-it",
+  "sent_at": "2026-10-17 18:12",
+  "literal": "给我讲讲",
+  "meaning": "可不是嘛（我深有同感）",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "This traffic is killing me."
+   },
+   {
+    "who": "B",
+    "en": "Tell me about it. I've been stuck for an hour."
+   }
+  ],
+  "dialog_zh": "堵车要命了。——可不是嘛，我堵了一小时。",
+  "tip": "语调下降表示同感，并不是真让对方讲。"
+ },
+ {
+  "phrase": "I'm all ears.",
+  "slug": "Im-all-ears",
+  "sent_at": "2026-10-17 18:12",
+  "literal": "我全身都是耳朵",
+  "meaning": "我洗耳恭听",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "I have an idea for the trip."
+   },
+   {
+    "who": "B",
+    "en": "I'm all ears."
+   }
+  ],
+  "dialog_zh": "我对旅行有个主意。——洗耳恭听。",
+  "tip": "表示很想听；语气可真诚也可略带调侃。"
+ },
+ {
+  "phrase": "Get out of here!",
+  "slug": "get-out-of-here",
+  "sent_at": "2026-10-17 18:12",
+  "literal": "从这里出去",
+  "meaning": "不会吧！别逗了！（表示惊讶）",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "I won the lottery!"
+   },
+   {
+    "who": "B",
+    "en": "Get out of here! Seriously?"
+   }
+  ],
+  "dialog_zh": "我中彩票了！——不会吧！真的？",
+  "tip": "语气惊喜时是“不敢相信”，严肃说才是“滚出去”。"
+ },
+ {
+  "phrase": "Hang in there.",
+  "slug": "hang-in-there",
+  "sent_at": "2026-10-17 18:12",
+  "literal": "挂在那儿",
+  "meaning": "坚持住；挺住",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Finals week is brutal."
+   },
+   {
+    "who": "B",
+    "en": "Hang in there, it's almost over."
+   }
+  ],
+  "dialog_zh": "期末周太惨了。——坚持住，快结束了。",
+  "tip": "用来鼓励处境艰难的人。"
+ },
+ {
+  "phrase": "Cut it out!",
+  "slug": "cut-it-out",
+  "sent_at": "2026-10-17 18:24",
+  "literal": "把它剪掉",
+  "meaning": "别闹了；住手",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "*keeps poking*"
+   },
+   {
+    "who": "B",
+    "en": "Cut it out! I'm trying to work."
+   }
+  ],
+  "dialog_zh": "（一直戳）——别闹了！我在工作。",
+  "tip": "语气较冲，对熟人用；正式说 Please stop。"
+ },
+ {
+  "phrase": "I'm game.",
+  "slug": "Im-game",
+  "sent_at": "2026-10-17 18:24",
+  "literal": "我是游戏",
+  "meaning": "我愿意参加；算我一个",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Anyone up for hiking Saturday?"
+   },
+   {
+    "who": "B",
+    "en": "I'm game!"
+   }
+  ],
+  "dialog_zh": "周六有人去徒步吗？——算我一个！",
+  "tip": "game 这里是形容词“乐意的”；也说 I'm game for it。"
+ },
+ {
+  "phrase": "Let me sleep on it.",
+  "slug": "let-me-sleep-on-it",
+  "sent_at": "2026-10-17 18:24",
+  "literal": "让我睡在上面",
+  "meaning": "让我考虑一晚再决定",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "So, will you take the offer?"
+   },
+   {
+    "who": "B",
+    "en": "Let me sleep on it."
+   }
+  ],
+  "dialog_zh": "你接受这个offer吗？——让我考虑一晚。",
+  "tip": "委婉争取时间，商务中也常用。"
+ },
+ {
+  "phrase": "Spill the beans.",
+  "slug": "spill-the-beans",
+  "sent_at": "2026-10-17 18:24",
+  "literal": "把豆子撒出来",
+  "meaning": "泄露秘密；说漏嘴",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Who told her about the party?"
+   },
+   {
+    "who": "B",
+    "en": "Tom spilled the beans."
+   }
+  ],
+  "dialog_zh": "谁告诉她派对的事？——Tom 说漏嘴了。",
+  "tip": "也可催人坦白：Come on, spill the beans!"
+ },
+ {
+  "phrase": "Hold your horses!",
+  "slug": "hold-your-horses",
+  "sent_at": "2026-10-17 18:36",
+  "literal": "勒住你的马",
+  "meaning": "别急；等一下",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Let's sign it now!"
+   },
+   {
+    "who": "B",
+    "en": "Hold your horses, read it first."
+   }
+  ],
+  "dialog_zh": "现在就签吧！——别急，先读一遍。",
+  "tip": "劝人冷静、别冲动；语气略带调侃。"
+ },
+ {
+  "phrase": "Let's call it a day.",
+  "slug": "lets-call-it-a-day",
+  "sent_at": "2026-10-17 18:36",
+  "literal": "我们把它叫做一天",
+  "meaning": "今天就到这儿吧",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "It's 7pm already."
+   },
+   {
+    "who": "B",
+    "en": "Yeah, let's call it a day."
+   }
+  ],
+  "dialog_zh": "都七点了。——是啊，今天就到这吧。",
+  "tip": "晚上也可说 call it a night。"
+ },
+ {
+  "phrase": "Cut me some slack.",
+  "slug": "cut-me-some-slack",
+  "sent_at": "2026-10-17 18:36",
+  "literal": "给我剪点松绳",
+  "meaning": "别对我那么苛刻；体谅一下",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "You forgot again?"
+   },
+   {
+    "who": "B",
+    "en": "Cut me some slack, I've been sick."
+   }
+  ],
+  "dialog_zh": "你又忘了？——体谅一下嘛，我病了。",
+  "tip": "slack 是“松弛”，请求宽容。"
+ },
+ {
+  "phrase": "It's on me.",
+  "slug": "its-on-me",
+  "sent_at": "2026-10-17 18:36",
+  "literal": "它在我身上",
+  "meaning": "我请客",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Let's split the bill."
+   },
+   {
+    "who": "B",
+    "en": "No, it's on me tonight."
+   }
+  ],
+  "dialog_zh": "我们AA吧。——不，今晚我请。",
+  "tip": "也说 It's my treat；on the house 是店家请。"
+ },
+ {
+  "phrase": "You bet!",
+  "slug": "you-bet",
+  "sent_at": "2026-10-17 18:46",
+  "literal": "你打赌",
+  "meaning": "当然！没问题！",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Can you help me move?"
+   },
+   {
+    "who": "B",
+    "en": "You bet!"
+   }
+  ],
+  "dialog_zh": "能帮我搬家吗？——当然！",
+  "tip": "热情肯定；美式口语。"
+ },
+ {
+  "phrase": "I'm beat.",
+  "slug": "Im-beat",
+  "sent_at": "2026-10-17 18:46",
+  "literal": "我被打了",
+  "meaning": "我累坏了",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Want to go out?"
+   },
+   {
+    "who": "B",
+    "en": "Nah, I'm beat."
+   }
+  ],
+  "dialog_zh": "出去玩吗？——不了，累死了。",
+  "tip": "不是被打；= exhausted。"
+ },
+ {
+  "phrase": "Hit the sack.",
+  "slug": "hit-the-sack",
+  "sent_at": "2026-10-17 18:46",
+  "literal": "打袋子",
+  "meaning": "上床睡觉",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "It's late."
+   },
+   {
+    "who": "B",
+    "en": "Yeah, I'm gonna hit the sack."
+   }
+  ],
+  "dialog_zh": "很晚了。——嗯，我去睡了。",
+  "tip": "同义 hit the hay；很口语。"
+ },
+ {
+  "phrase": "It's not my cup of tea.",
+  "slug": "its-not-my-cup-of-tea",
+  "sent_at": "2026-10-17 18:46",
+  "literal": "不是我的那杯茶",
+  "meaning": "不是我喜欢的类型",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Do you like jazz?"
+   },
+   {
+    "who": "B",
+    "en": "Honestly, it's not my cup of tea."
+   }
+  ],
+  "dialog_zh": "你喜欢爵士吗？——说实话不太是我的菜。",
+  "tip": "委婉表达不喜欢；通常用否定。"
+ },
+ {
+  "phrase": "Piece of cake.",
+  "slug": "piece-of-cake",
+  "sent_at": "2026-10-17 18:55",
+  "literal": "一块蛋糕",
+  "meaning": "小菜一碟；很容易",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "How was the test?"
+   },
+   {
+    "who": "B",
+    "en": "Piece of cake!"
+   }
+  ],
+  "dialog_zh": "考试怎么样？——小菜一碟！",
+  "tip": "形容事情简单。"
+ },
+ {
+  "phrase": "I'm under the weather.",
+  "slug": "Im-under-the-weather",
+  "sent_at": "2026-10-17 18:55",
+  "literal": "我在天气下面",
+  "meaning": "我不太舒服",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "You look pale."
+   },
+   {
+    "who": "B",
+    "en": "Yeah, I'm a bit under the weather."
+   }
+  ],
+  "dialog_zh": "你脸色好差。——嗯，有点不舒服。",
+  "tip": "指小病不适，不用于重病。"
+ },
+ {
+  "phrase": "My bad.",
+  "slug": "my-bad",
+  "sent_at": "2026-10-17 18:55",
+  "literal": "我的坏",
+  "meaning": "我的错",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "You took my seat."
+   },
+   {
+    "who": "B",
+    "en": "Oh, my bad!"
+   }
+  ],
+  "dialog_zh": "你坐了我的位置。——哦，我的错！",
+  "tip": "很随意的道歉，正式场合用 I apologize。"
+ },
+ {
+  "phrase": "It's a steal!",
+  "slug": "its-a-steal",
+  "sent_at": "2026-10-17 18:55",
+  "literal": "这是偷来的",
+  "meaning": "太划算了！",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Only $20 for these shoes?"
+   },
+   {
+    "who": "B",
+    "en": "It's a steal!"
+   }
+  ],
+  "dialog_zh": "这鞋才20刀？——太值了！",
+  "tip": "形容价格极便宜，不是真偷。"
+ },
+ {
+  "phrase": "That rings a bell.",
+  "slug": "that-rings-a-bell",
+  "sent_at": "2026-10-17 19:00",
+  "literal": "那敲响了铃",
+  "meaning": "听着耳熟；有点印象",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Do you know Mark Lee?"
+   },
+   {
+    "who": "B",
+    "en": "Hmm, that name rings a bell."
+   }
+  ],
+  "dialog_zh": "你认识 Mark Lee 吗？——嗯，名字有点耳熟。",
+  "tip": "表示模糊记得；否定 doesn't ring a bell。"
+ },
+ {
+  "phrase": "Speak of the devil!",
+  "slug": "speak-of-the-devil",
+  "sent_at": "2026-10-17 19:00",
+  "literal": "说到魔鬼",
+  "meaning": "说曹操曹操到",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Where's Amy?"
+   },
+   {
+    "who": "B",
+    "en": "Speak of the devil, here she comes!"
+   }
+  ],
+  "dialog_zh": "Amy 呢？——说曹操曹操到，她来了！",
+  "tip": "完整版 ...and he shall appear；语气轻松。"
+ },
+ {
+  "phrase": "Keep me posted.",
+  "slug": "keep-me-posted",
+  "sent_at": "2026-10-17 19:00",
+  "literal": "让我保持被张贴",
+  "meaning": "随时告诉我进展",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "I'll hear back next week."
+   },
+   {
+    "who": "B",
+    "en": "Great, keep me posted."
+   }
+  ],
+  "dialog_zh": "下周有回音。——好，有消息告诉我。",
+  "tip": "职场常用；= keep me updated。"
+ },
+ {
+  "phrase": "Don't push your luck.",
+  "slug": "dont-push-your-luck",
+  "sent_at": "2026-10-17 19:00",
+  "literal": "别推你的运气",
+  "meaning": "别得寸进尺；见好就收",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Can I leave early again?"
+   },
+   {
+    "who": "B",
+    "en": "Don't push your luck."
+   }
+  ],
+  "dialog_zh": "我能再早走吗？——别得寸进尺。",
+  "tip": "警告对方别太过分。"
+ },
+ {
+  "phrase": "No sweat.",
+  "slug": "no-sweat",
+  "sent_at": "2026-10-17 19:20",
+  "literal": "没有汗",
+  "meaning": "没问题；小事一桩",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Thanks for fixing my bike!"
+   },
+   {
+    "who": "B",
+    "en": "No sweat."
+   }
+  ],
+  "dialog_zh": "谢谢帮我修车！——小事一桩。",
+  "tip": "回应感谢或请求；口语随意。"
+ },
+ {
+  "phrase": "I'm sold.",
+  "slug": "Im-sold",
+  "sent_at": "2026-10-17 19:20",
+  "literal": "我被卖了",
+  "meaning": "我被说服了",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "And it comes with free delivery."
+   },
+   {
+    "who": "B",
+    "en": "Okay, I'm sold!"
+   }
+  ],
+  "dialog_zh": "而且还免费送货。——好吧，我被说服了！",
+  "tip": "不是被卖掉；表示接受提议。"
+ },
+ {
+  "phrase": "Off the top of my head.",
+  "slug": "off-the-top-of-my-head",
+  "sent_at": "2026-10-17 19:20",
+  "literal": "从我头顶上",
+  "meaning": "凭印象随口一说（未经查证）",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "How many people came?"
+   },
+   {
+    "who": "B",
+    "en": "Off the top of my head, about fifty."
+   }
+  ],
+  "dialog_zh": "来了多少人？——凭印象大概五十个。",
+  "tip": "表示答案可能不精确。"
+ },
+ {
+  "phrase": "Fair enough.",
+  "slug": "fair-enough",
+  "sent_at": "2026-10-17 19:38",
+  "literal": "足够公平",
+  "meaning": "有道理；行吧",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "I can't come, I have work."
+   },
+   {
+    "who": "B",
+    "en": "Fair enough."
+   }
+  ],
+  "dialog_zh": "我来不了，要上班。——行吧，理解。",
+  "tip": "接受对方理由，有时略带勉强。"
+ },
+ {
+  "phrase": "Long story short.",
+  "slug": "long-story-short",
+  "sent_at": "2026-10-17 19:38",
+  "literal": "长故事短说",
+  "meaning": "长话短说",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "What happened with the car?"
+   },
+   {
+    "who": "B",
+    "en": "Long story short, I need a new one."
+   }
+  ],
+  "dialog_zh": "车怎么了？——长话短说，得换辆新的。",
+  "tip": "放在句首，引出结论。"
+ },
+ {
+  "phrase": "So far so good.",
+  "slug": "so-far-so-good",
+  "sent_at": "2026-10-17 19:38",
+  "literal": "到目前好到目前",
+  "meaning": "到目前为止还不错",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "How's the new job?"
+   },
+   {
+    "who": "B",
+    "en": "So far so good."
+   }
+  ],
+  "dialog_zh": "新工作怎么样？——目前还不错。",
+  "tip": "暗含“后面还不确定”。"
+ },
+ {
+  "phrase": "Jump the gun.",
+  "slug": "jump-the-gun",
+  "sent_at": "2026-10-17 19:46",
+  "literal": "抢枪",
+  "meaning": "操之过急；抢跑",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "They announced it before approval."
+   },
+   {
+    "who": "B",
+    "en": "They jumped the gun."
+   }
+  ],
+  "dialog_zh": "还没批就宣布了。——他们太心急了。",
+  "tip": "源自赛跑发令枪前抢跑。"
+ },
+ {
+  "phrase": "Play it by ear.",
+  "slug": "play-it-by-ear",
+  "sent_at": "2026-10-17 19:46",
+  "literal": "用耳朵演奏",
+  "meaning": "见机行事；到时再说",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "What's the plan for tomorrow?"
+   },
+   {
+    "who": "B",
+    "en": "Let's play it by ear."
+   }
+  ],
+  "dialog_zh": "明天什么安排？——到时看情况吧。",
+  "tip": "表示不做固定计划。"
+ },
+ {
+  "phrase": "Bite the bullet.",
+  "slug": "bite-the-bullet",
+  "sent_at": "2026-10-17 19:46",
+  "literal": "咬子弹",
+  "meaning": "硬着头皮做（不愿做但必须做）",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "I hate the dentist."
+   },
+   {
+    "who": "B",
+    "en": "Just bite the bullet and go."
+   }
+  ],
+  "dialog_zh": "我讨厌看牙。——硬着头皮去吧。",
+  "tip": "用于面对不愉快但必要的事。"
+ },
+ {
+  "phrase": "Out of the blue.",
+  "slug": "out-of-the-blue",
+  "sent_at": "2026-10-17 19:55",
+  "literal": "从蓝色中出来",
+  "meaning": "突然；毫无预兆",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "She called me out of the blue."
+   },
+   {
+    "who": "B",
+    "en": "After ten years?"
+   }
+  ],
+  "dialog_zh": "她突然给我打电话。——十年后？",
+  "tip": "强调意外，常放句末。"
+ },
+ {
+  "phrase": "Hit the nail on the head.",
+  "slug": "hit-the-nail-on-the-head",
+  "sent_at": "2026-10-17 19:55",
+  "literal": "打中钉子头",
+  "meaning": "一针见血；说到点子上",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "The problem is communication."
+   },
+   {
+    "who": "B",
+    "en": "You hit the nail on the head."
+   }
+  ],
+  "dialog_zh": "问题在沟通。——你说到点子上了。",
+  "tip": "称赞对方说得准确。"
+ },
+ {
+  "phrase": "I'll pass.",
+  "slug": "ill-pass",
+  "sent_at": "2026-10-17 19:55",
+  "literal": "我会经过",
+  "meaning": "我就不了（婉拒）",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Want some durian?"
+   },
+   {
+    "who": "B",
+    "en": "Thanks, but I'll pass."
+   }
+  ],
+  "dialog_zh": "要来点榴莲吗？——谢谢，我就不了。",
+  "tip": "简洁礼貌的拒绝。"
+ },
+ {
+  "phrase": "Give it a shot.",
+  "slug": "give-it-a-shot",
+  "sent_at": "2026-10-17 20:37",
+  "literal": "给它一枪",
+  "meaning": "试一试",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "I've never surfed."
+   },
+   {
+    "who": "B",
+    "en": "Give it a shot!"
+   }
+  ],
+  "dialog_zh": "我从没冲过浪。——试试看！",
+  "tip": "= give it a try / have a go。"
+ },
+ {
+  "phrase": "You're pulling my leg.",
+  "slug": "youre-pulling-my-leg",
+  "sent_at": "2026-10-17 20:37",
+  "literal": "你在拉我的腿",
+  "meaning": "你在逗我吧",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "I'm moving to Mars."
+   },
+   {
+    "who": "B",
+    "en": "You're pulling my leg."
+   }
+  ],
+  "dialog_zh": "我要搬去火星。——你逗我呢。",
+  "tip": "指善意开玩笑，不是恶意骗人。"
+ },
+ {
+  "phrase": "On the same page.",
+  "slug": "on-the-same-page",
+  "sent_at": "2026-10-17 20:37",
+  "literal": "在同一页",
+  "meaning": "想法一致；达成共识",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Let's review the plan."
+   },
+   {
+    "who": "B",
+    "en": "Good, so we're on the same page."
+   }
+  ],
+  "dialog_zh": "我们过一下计划。——好，确保大家想法一致。",
+  "tip": "职场高频；常说 get on the same page。"
+ },
+ {
+  "phrase": "Once in a blue moon.",
+  "slug": "once-in-a-blue-moon",
+  "sent_at": "2026-10-17 21:22",
+  "literal": "蓝月亮出现一次",
+  "meaning": "很少；难得一次",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Do you still see your college roommate?"
+   },
+   {
+    "who": "B",
+    "en": "Once in a blue moon — maybe once every couple of years."
+   }
+  ],
+  "dialog_zh": "你还见大学室友吗？——难得一次，大概隔好几年才见。",
+  "tip": "强调频率极低；语气轻松日常。"
+ },
+ {
+  "phrase": "Get cold feet.",
+  "slug": "get-cold-feet",
+  "sent_at": "2026-10-17 21:22",
+  "literal": "脚变冷了",
+  "meaning": "临阵退缩",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "I thought you were going to ask for the raise today."
+   },
+   {
+    "who": "B",
+    "en": "I was, but I got cold feet in the hallway."
+   }
+  ],
+  "dialog_zh": "我以为你今天去谈加薪。——本来要去，在走廊里又怂了。",
+  "tip": "常见 get/got cold feet；婚礼场景高频。"
+ },
+ {
+  "phrase": "Beat around the bush.",
+  "slug": "beat-around-the-bush",
+  "sent_at": "2026-10-17 21:22",
+  "literal": "在灌木丛周围敲打",
+  "meaning": "说话拐弯抹角",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "So… about this weekend… maybe if you're free…"
+   },
+   {
+    "who": "B",
+    "en": "Stop beating around the bush — do you want to go or not?"
+   }
+  ],
+  "dialog_zh": "那个……周末……如果你有空……——别拐弯抹角了，你去不去？",
+  "tip": "常与 stop/don't 连用；英式 beat about the bush。"
+ },
+ {
+  "phrase": "Break the ice.",
+  "slug": "break-the-ice",
+  "sent_at": "2026-10-17 21:34",
+  "literal": "打破冰",
+  "meaning": "打破僵局；活跃气氛",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Nobody's talking at this meeting."
+   },
+   {
+    "who": "B",
+    "en": "Let's play a game to break the ice."
+   }
+  ],
+  "dialog_zh": "会上没人说话。——玩个游戏破破冰吧。",
+  "tip": "icebreaker 指破冰活动。"
+ },
+ {
+  "phrase": "Back to square one.",
+  "slug": "back-to-square-one",
+  "sent_at": "2026-10-17 21:34",
+  "literal": "回到第一格",
+  "meaning": "从头再来；回到原点",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "The client rejected the design."
+   },
+   {
+    "who": "B",
+    "en": "So we're back to square one."
+   }
+  ],
+  "dialog_zh": "客户否了设计。——那我们又回到原点了。",
+  "tip": "带有挫败感。"
+ },
+ {
+  "phrase": "Cost an arm and a leg.",
+  "slug": "cost-an-arm-and-a-leg",
+  "sent_at": "2026-10-17 21:34",
+  "literal": "花掉一条胳膊一条腿",
+  "meaning": "非常贵",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Nice watch!"
+   },
+   {
+    "who": "B",
+    "en": "Thanks, it cost an arm and a leg."
+   }
+  ],
+  "dialog_zh": "表真好看！——谢谢，贵死了。",
+  "tip": "夸张说法；主语是物品。"
+ },
+ {
+  "phrase": "Kill two birds with one stone.",
+  "slug": "kill-two-birds-with-one-stone",
+  "sent_at": "2026-10-17 21:47",
+  "literal": "一石二鸟",
+  "meaning": "一举两得",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "I'll visit Mom and shop downtown."
+   },
+   {
+    "who": "B",
+    "en": "Nice, kill two birds with one stone."
+   }
+  ],
+  "dialog_zh": "我去看妈妈顺便市中心购物。——不错，一举两得。",
+  "tip": "与中文成语几乎完全对应。"
+ },
+ {
+  "phrase": "Off the hook.",
+  "slug": "off-the-hook",
+  "sent_at": "2026-10-17 21:47",
+  "literal": "离开钩子",
+  "meaning": "脱身；免于责任",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "The meeting got cancelled."
+   },
+   {
+    "who": "B",
+    "en": "Great, I'm off the hook!"
+   }
+  ],
+  "dialog_zh": "会取消了。——太好了，我解脱了！",
+  "tip": "let sb off the hook = 放过某人。"
+ },
+ {
+  "phrase": "See eye to eye.",
+  "slug": "see-eye-to-eye",
+  "sent_at": "2026-10-17 21:47",
+  "literal": "眼对眼看",
+  "meaning": "看法一致",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Do you get along with your boss?"
+   },
+   {
+    "who": "B",
+    "en": "We don't always see eye to eye."
+   }
+  ],
+  "dialog_zh": "你和老板合得来吗？——我们看法不总一致。",
+  "tip": "多用于否定句。"
+ },
+ {
+  "phrase": "Miss the boat.",
+  "slug": "miss-the-boat",
+  "sent_at": "2026-10-17 22:02",
+  "literal": "错过船",
+  "meaning": "错失良机",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Tickets sold out in an hour."
+   },
+   {
+    "who": "B",
+    "en": "Oh no, I missed the boat."
+   }
+  ],
+  "dialog_zh": "票一小时就卖光了。——啊，我错过了。",
+  "tip": "强调机会已过。"
+ },
+ {
+  "phrase": "Shoot the breeze.",
+  "slug": "shoot-the-breeze",
+  "sent_at": "2026-10-17 22:02",
+  "literal": "射微风",
+  "meaning": "闲聊；瞎扯",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "What did you do at lunch?"
+   },
+   {
+    "who": "B",
+    "en": "Just shot the breeze with coworkers."
+   }
+  ],
+  "dialog_zh": "午饭干嘛了？——就跟同事闲聊。",
+  "tip": "指没目的的轻松聊天。"
+ },
+ {
+  "phrase": "Keep your chin up.",
+  "slug": "keep-your-chin-up",
+  "sent_at": "2026-10-17 22:02",
+  "literal": "抬起下巴",
+  "meaning": "别灰心；振作起来",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "I didn't get the job."
+   },
+   {
+    "who": "B",
+    "en": "Keep your chin up, something better will come."
+   }
+  ],
+  "dialog_zh": "我没拿到那份工作。——别灰心，会有更好的。",
+  "tip": "安慰鼓励用语。"
+ },
+ {
+  "phrase": "Make sense.",
+  "slug": "make-sense",
+  "sent_at": "2026-10-18 08:05",
+  "literal": "制造意义",
+  "meaning": "讲得通；合理；理解",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Does that make sense?"
+   },
+   {
+    "who": "B",
+    "en": "Yes, that makes sense."
+   }
+  ],
+  "dialog_zh": "这样讲明白吗？——明白，讲得通。",
+  "tip": "注意第三人称 makes sense；make sense of = 弄懂。"
+ },
+ {
+  "phrase": "In other words.",
+  "slug": "in-other-words",
+  "sent_at": "2026-10-18 08:05",
+  "literal": "用别的话",
+  "meaning": "换句话说；也就是说",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "The budget is limited this year."
+   },
+   {
+    "who": "B",
+    "en": "In other words, no raises?"
+   }
+  ],
+  "dialog_zh": "今年预算有限。——也就是说没有涨薪？",
+  "tip": "用于换个说法或总结。"
+ },
+ {
+  "phrase": "Keep in mind.",
+  "slug": "keep-in-mind",
+  "sent_at": "2026-10-18 08:05",
+  "literal": "保持在脑中",
+  "meaning": "记住；别忘了",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Keep in mind the store closes at 9."
+   },
+   {
+    "who": "B",
+    "en": "Thanks, I'll hurry."
+   }
+  ],
+  "dialog_zh": "记住商店九点关门。——谢谢，我抓紧。",
+  "tip": "keep sth in mind / keep in mind that…"
+ },
+ {
+  "phrase": "On the other hand.",
+  "slug": "on-the-other-hand",
+  "sent_at": "2026-10-18 15:45",
+  "literal": "在另一只手上",
+  "meaning": "另一方面",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "The city is exciting."
+   },
+   {
+    "who": "B",
+    "en": "On the other hand, it's expensive."
+   }
+  ],
+  "dialog_zh": "城市很刺激。——另一方面也很贵。",
+  "tip": "常与 on the one hand 对比使用。"
+ },
+ {
+  "phrase": "All of a sudden.",
+  "slug": "all-of-a-sudden",
+  "sent_at": "2026-10-18 15:45",
+  "literal": "全部突然",
+  "meaning": "突然",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "We were talking, and all of a sudden the lights went out."
+   },
+   {
+    "who": "B",
+    "en": "That's scary!"
+   }
+  ],
+  "dialog_zh": "我们正聊着，突然灯灭了。——好吓人！",
+  "tip": "= suddenly，语气更口语。"
+ },
+ {
+  "phrase": "More or less.",
+  "slug": "more-or-less",
+  "sent_at": "2026-10-18 15:45",
+  "literal": "多或少",
+  "meaning": "差不多；大致",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Are you done?"
+   },
+   {
+    "who": "B",
+    "en": "More or less, just a few edits left."
+   }
+  ],
+  "dialog_zh": "做完了吗？——差不多，还剩点修改。",
+  "tip": "表示大致如此，不完全精确。"
+ }
+]

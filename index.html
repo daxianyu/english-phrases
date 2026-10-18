@@ -1,0 +1,44 @@
+<!doctype html><html lang="zh-CN"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>英语地道表达 · 每日卡片</title>
+<style>
+:root{--bg:#f5f6fa;--card:#fff;--ink:#1f2330;--mut:#6b7280;--acc:#4f46e5;--soft:#eef2ff}
+*{box-sizing:border-box}body{margin:0;font-family:-apple-system,"PingFang SC","Microsoft YaHei",sans-serif;background:var(--bg);color:var(--ink);line-height:1.6}
+header{background:linear-gradient(135deg,#4f46e5,#7c3aed);color:#fff;padding:28px 16px 56px;text-align:center}
+header h1{margin:0;font-size:1.6rem}header p{margin:6px 0 0;opacity:.85;font-size:.9rem}
+.bar{max-width:760px;margin:-34px auto 0;padding:0 14px;display:flex;gap:8px;flex-wrap:wrap}
+.bar input{flex:1;min-width:200px;padding:12px 14px;border:0;border-radius:12px;font-size:1rem;box-shadow:0 4px 14px #0002}
+.bar select{padding:12px;border:0;border-radius:12px;box-shadow:0 4px 14px #0002;font-size:.95rem}
+main{max-width:760px;margin:18px auto;padding:0 14px 40px}
+.card{background:var(--card);border-radius:16px;padding:18px;margin-bottom:16px;box-shadow:0 2px 10px #0000000f}
+.en{font-size:1.35rem;font-weight:700;margin:0}.date{color:var(--mut);font-size:.78rem;float:right}
+.row{margin:6px 0}.lab{display:inline-block;background:var(--soft);color:var(--acc);font-size:.75rem;padding:1px 8px;border-radius:99px;margin-right:6px}
+.dlg{background:#fafafa;border-left:3px solid var(--acc);padding:8px 12px;border-radius:8px;margin:10px 0}
+.dlg div b{color:var(--acc)}.zh{color:var(--mut);font-size:.9rem}
+.tip{background:#fff7ed;color:#9a3412;padding:8px 12px;border-radius:8px;font-size:.9rem}
+video,audio{width:100%;margin-top:12px;border-radius:10px;background:#000}audio{background:none}
+.src{font-size:.8rem;color:var(--mut);margin-top:6px;word-break:break-all}.src a{color:var(--acc)}
+.badge{font-size:.7rem;padding:1px 6px;border-radius:6px;background:#dcfce7;color:#166534;margin-left:6px;vertical-align:middle}
+.count{color:var(--mut);font-size:.85rem;margin:0 0 10px}
+</style></head><body>
+<header><h1>英语地道表达</h1><p>字面意思 · 实际意思 · 对话例句 · 视频/音频</p></header>
+<div class="bar"><input id="q" placeholder="搜索英文或中文…"><select id="f"><option value="">全部</option><option value="video">有视频</option><option value="audio">有音频</option></select></div>
+<main><p class="count" id="cnt"></p><div id="list"></div></main>
+<script>
+let D=[];const esc=s=>(s||"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+function card(p){let m="";
+ if(p.video)m=`<video controls preload="none" playsinline src="${p.video}"></video>`;
+ else if(p.audio)m=`<audio controls preload="none" src="${p.audio}"></audio>`;
+ const src=p.link?`<div class="src">${m?"素材来源":"学习链接"}：<a href="${esc(p.link)}" target="_blank" rel="noopener">${esc(p.link_title||p.link)}</a></div>`:"";
+ const b=p.video?'<span class="badge">视频</span>':p.audio?'<span class="badge">音频</span>':"";
+ return `<div class="card"><span class="date">${esc(p.sent_at)}</span><p class="en">${esc(p.phrase)}${b}</p>
+ <div class="row"><span class="lab">字面</span>${esc(p.literal)}</div>
+ <div class="row"><span class="lab">实际</span><b>${esc(p.meaning)}</b></div>
+ <div class="dlg">${p.dialog.map(d=>`<div><b>${d.who}:</b> ${esc(d.en)}</div>`).join("")}<div class="zh">${esc(p.dialog_zh)}</div></div>
+ <div class="tip">💡 ${esc(p.tip)}</div>${m}${src}</div>`}
+function render(){const q=document.getElementById("q").value.trim().toLowerCase(),f=document.getElementById("f").value;
+ const r=D.filter(p=>(!f||p[f])&&(!q||JSON.stringify(p).toLowerCase().includes(q)));
+ document.getElementById("cnt").textContent=`共 ${r.length} 条`;document.getElementById("list").innerHTML=r.map(card).join("")}
+fetch("data.json").then(r=>r.json()).then(d=>{D=d.reverse();render()});
+q.oninput=render;f.onchange=render;
+</script></body></html>
