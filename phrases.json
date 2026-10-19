@@ -1214,5 +1214,62 @@
   ],
   "dialog_zh": "新工作你决定了吗？——还没，我一直犹豫不定。",
   "tip": "固定语序是 back and forth，不说 forth and back；go back and forth on/about sth 表示反复犹豫，也可指邮件、消息来回往来。"
+ },
+ {
+  "phrase": "You can say that again.",
+  "slug": "you-can-say-that-again",
+  "sent_at": "2026-10-19 15:35",
+  "literal": "你可以再说一遍那句话",
+  "meaning": "说得太对了；我完全同意",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "This summer has been so hot."
+   },
+   {
+    "who": "B",
+    "en": "You can say that again. I can't sleep without the AC."
+   }
+  ],
+  "dialog_zh": "今年夏天也太热了。——可不是嘛，不开空调我都睡不着。",
+  "tip": "表示强烈赞同，口语里很常见，语气随意热情；不是真让对方重复，若想让人再说一遍应说 Could you say that again?，同义说法有 You said it. / Tell me about it.（后者多用于抱怨）。"
+ },
+ {
+  "phrase": "Break a leg.",
+  "slug": "break-a-leg",
+  "sent_at": "2026-10-19 15:35",
+  "literal": "摔断一条腿",
+  "meaning": "祝你好运；祝演出（表现）顺利",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "I'm so nervous. My big presentation is in ten minutes."
+   },
+   {
+    "who": "B",
+    "en": "You'll be great. Break a leg!"
+   }
+  ],
+  "dialog_zh": "我好紧张，十分钟后就要做重要报告了。——你没问题的，祝你好运！",
+  "tip": "源自剧场，演员间忌讳直接说 good luck，所以反着说；现在也可用于演讲、面试等场合，但别对舞者或运动员说，以免对方听着不吉利。"
+ },
+ {
+  "phrase": "Speak of the devil.",
+  "slug": "speak-of-the-devil",
+  "sent_at": "2026-10-19 15:35",
+  "literal": "说到魔鬼",
+  "meaning": "说曹操，曹操就到",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Have you seen Tom lately? I haven't heard from him in weeks."
+   },
+   {
+    "who": "B",
+    "en": "Speak of the devil! He just walked in."
+   }
+  ],
+  "dialog_zh": "你最近见过汤姆吗？我好几周没他消息了。——说曹操曹操到！他刚进来。",
+  "tip": "只是说时机巧，并不说对方是坏人，语气轻松幽默；完整说法是 Speak of the devil (and he shall appear)，英式英语也常说 Talk of the devil。"
  }
 ]

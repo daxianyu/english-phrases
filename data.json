@@ -67,12 +67,20 @@
   ],
   "dialog_zh": "我十分钟后试镜。——祝你好运！",
   "tip": "不是诅咒！多用于表演、上台前。",
-  "audios": [],
-  "transcripts": [],
-  "video": "media/break-a-leg.mp4",
+  "audios": [
+   "media/break-a-leg-1.mp3",
+   "media/break-a-leg-2.mp3",
+   "media/break-a-leg-3.mp3"
+  ],
+  "transcripts": [
+   "I'm so nervous. Tonight is the first night of the play. Is it? Well, go out there and break a leg. [Korean narration] I'm so nervous.",
+   "strange customs. Instead, you should say to them, break a leg. But why? It hardly seems like a nice thing.",
+   "or perhaps not getting ready. Saying break a leg to someone performing on stage is the same as saying good luck."
+  ],
+  "video": null,
   "audio": null,
-  "link": null,
-  "link_title": null
+  "link": "https://www.voakorea.com/a/1731387.html",
+  "link_title": "Break a leg (VOA Korea English lesson)"
  },
  {
   "phrase": "Don't sweat it.",
@@ -642,12 +650,20 @@
   ],
   "dialog_zh": "Amy 呢？——说曹操曹操到，她来了！",
   "tip": "完整版 ...and he shall appear；语气轻松。",
-  "audios": [],
-  "transcripts": [],
+  "audios": [
+   "media/speak-of-the-devil-1.mp3",
+   "media/speak-of-the-devil-2.mp3",
+   "media/speak-of-the-devil-3.mp3"
+  ],
+  "transcripts": [
+   "Did you get the answer? No, he's not in yet. Oh, speak of the devil. I can see him in the hallway now.",
+   "Lewis for weeks. Look, here comes Lewis right now. Ah, speak of the devil. Hello, I was just talking about you.",
+   "John and I are going to the movies tonight and... Hey, speak of the devil, here comes John now. Hey John, we were just talking about you."
+  ],
   "video": null,
   "audio": null,
-  "link": null,
-  "link_title": null
+  "link": "https://www.voakorea.com/a/6460441.html",
+  "link_title": "[VOA 매일영어] 호랑이도 제말하면 온다 speak of the devil"
  },
  {
   "phrase": "Keep me posted.",
@@ -1646,5 +1662,104 @@
   "audio": null,
   "link": "https://learningenglish.voanews.com/a/lets-learn-english-level-2-lesson-4-run-away-with-the-circus/4034187.html",
   "link_title": "Let's Learn English Level 2, Lesson 4: Run Away With the Circus!"
+ },
+ {
+  "phrase": "You can say that again.",
+  "slug": "you-can-say-that-again",
+  "sent_at": "2026-10-19 15:35",
+  "literal": "你可以再说一遍那句话",
+  "meaning": "说得太对了；我完全同意",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "This summer has been so hot."
+   },
+   {
+    "who": "B",
+    "en": "You can say that again. I can't sleep without the AC."
+   }
+  ],
+  "dialog_zh": "今年夏天也太热了。——可不是嘛，不开空调我都睡不着。",
+  "tip": "表示强烈赞同，口语里很常见，语气随意热情；不是真让对方重复，若想让人再说一遍应说 Could you say that again?，同义说法有 You said it. / Tell me about it.（后者多用于抱怨）。",
+  "audios": [
+   "media/you-can-say-that-again-1.mp3",
+   "media/you-can-say-that-again-2.mp3",
+   "media/you-can-say-that-again-3.mp3"
+  ],
+  "transcripts": [
+   "...no room to breathe. Economy class is not for tall people like you. Hey, you can say that again.",
+   "...kidney stones leading to kidney failure. We need to be more careful when buying food items. You can say that again.",
+   "...so delicious! And I have to say that your wife is an amazing cook! You can say that again! [Korean narration]"
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://www.voakorea.com/a/1969823.html",
+  "link_title": "There was not enough legroom for me. (VOA Korea English lesson)"
+ },
+ {
+  "phrase": "Break a leg.",
+  "slug": "break-a-leg",
+  "sent_at": "2026-10-19 15:35",
+  "literal": "摔断一条腿",
+  "meaning": "祝你好运；祝演出（表现）顺利",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "I'm so nervous. My big presentation is in ten minutes."
+   },
+   {
+    "who": "B",
+    "en": "You'll be great. Break a leg!"
+   }
+  ],
+  "dialog_zh": "我好紧张，十分钟后就要做重要报告了。——你没问题的，祝你好运！",
+  "tip": "源自剧场，演员间忌讳直接说 good luck，所以反着说；现在也可用于演讲、面试等场合，但别对舞者或运动员说，以免对方听着不吉利。",
+  "audios": [
+   "media/break-a-leg-1.mp3",
+   "media/break-a-leg-2.mp3",
+   "media/break-a-leg-3.mp3"
+  ],
+  "transcripts": [
+   "I'm so nervous. Tonight is the first night of the play. Is it? Well, go out there and break a leg. [Korean narration] I'm so nervous.",
+   "strange customs. Instead, you should say to them, break a leg. But why? It hardly seems like a nice thing.",
+   "or perhaps not getting ready. Saying break a leg to someone performing on stage is the same as saying good luck."
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://www.voakorea.com/a/1731387.html",
+  "link_title": "Break a leg (VOA Korea English lesson)"
+ },
+ {
+  "phrase": "Speak of the devil.",
+  "slug": "speak-of-the-devil",
+  "sent_at": "2026-10-19 15:35",
+  "literal": "说到魔鬼",
+  "meaning": "说曹操，曹操就到",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Have you seen Tom lately? I haven't heard from him in weeks."
+   },
+   {
+    "who": "B",
+    "en": "Speak of the devil! He just walked in."
+   }
+  ],
+  "dialog_zh": "你最近见过汤姆吗？我好几周没他消息了。——说曹操曹操到！他刚进来。",
+  "tip": "只是说时机巧，并不说对方是坏人，语气轻松幽默；完整说法是 Speak of the devil (and he shall appear)，英式英语也常说 Talk of the devil。",
+  "audios": [
+   "media/speak-of-the-devil-1.mp3",
+   "media/speak-of-the-devil-2.mp3",
+   "media/speak-of-the-devil-3.mp3"
+  ],
+  "transcripts": [
+   "Did you get the answer? No, he's not in yet. Oh, speak of the devil. I can see him in the hallway now.",
+   "Lewis for weeks. Look, here comes Lewis right now. Ah, speak of the devil. Hello, I was just talking about you.",
+   "John and I are going to the movies tonight and... Hey, speak of the devil, here comes John now. Hey John, we were just talking about you."
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://www.voakorea.com/a/6460441.html",
+  "link_title": "[VOA 매일영어] 호랑이도 제말하면 온다 speak of the devil"
  }
 ]
