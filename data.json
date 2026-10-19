@@ -1547,5 +1547,104 @@
   "audio": null,
   "link": null,
   "link_title": null
+ },
+ {
+  "phrase": "Keep in touch.",
+  "slug": "keep-in-touch",
+  "sent_at": "2026-10-19 08:04",
+  "literal": "保持在接触中",
+  "meaning": "保持联系",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "I'm moving to Shanghai next month."
+   },
+   {
+    "who": "B",
+    "en": "I'll miss you! Keep in touch, okay?"
+   }
+  ],
+  "dialog_zh": "我下个月要搬去上海了。——我会想你的！记得保持联系哦。",
+  "tip": "常用于道别，语气亲切；也可说 stay in touch。注意别说成 keep in contact with touch，“和某人保持联系”是 keep in touch with sb。",
+  "audios": [
+   "media/keep-in-touch-1.mp3",
+   "media/keep-in-touch-2.mp3",
+   "media/keep-in-touch-3.mp3"
+  ],
+  "transcripts": [
+   "future, you can use these. Don't be a stranger. Keep in touch. If someone is leaving you on a trip, you can wish them a",
+   "in the music. They became friends. Now they keep in touch, Uprasert said. I felt really happy to see that happen.",
+   "I rode my bicycle to visit students at their homes and keep in touch with their parents. I was a local authority in the village at that"
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://learningenglish.voanews.com/a/ways-to-say-goodbye/7476793.html",
+  "link_title": "Ways to Say 'Goodbye'"
+ },
+ {
+  "phrase": "Make a difference.",
+  "slug": "make-a-difference",
+  "sent_at": "2026-10-19 08:04",
+  "literal": "制造一个差别",
+  "meaning": "产生影响；起作用（多指积极的改变）",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Do you think volunteering one day a week really helps?"
+   },
+   {
+    "who": "B",
+    "en": "Absolutely. Every little bit makes a difference."
+   }
+  ],
+  "dialog_zh": "你觉得每周做一天志愿者真有用吗？——当然，每一点努力都会带来改变。",
+  "tip": "多为正面含义；“影响很大”说 make a big difference，“没什么区别”说 It doesn't make any difference。注意用 make 不用 do。",
+  "audios": [
+   "media/make-a-difference-1.mp3",
+   "media/make-a-difference-2.mp3",
+   "media/make-a-difference-3.mp3"
+  ],
+  "transcripts": [
+   "Shall we tell about some unusual young people who work to make a difference in the world?",
+   "through their involvement in the festival, students learned that they can make a difference in the world, no matter their age.",
+   "She said the world needs to slow climate warming to really make a difference. I'm Anna Matteo."
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://learningenglish.voanews.com/a/teenagers-live-extraordinary-lives-to-make-a-difference-/1915636.html",
+  "link_title": "American Teenagers Making a Difference"
+ },
+ {
+  "phrase": "Back and forth.",
+  "slug": "back-and-forth",
+  "sent_at": "2026-10-19 08:04",
+  "literal": "来回往返",
+  "meaning": "来来回回；反复（犹豫、来回沟通）",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Have you decided on the new job?"
+   },
+   {
+    "who": "B",
+    "en": "Not yet. I keep going back and forth about it."
+   }
+  ],
+  "dialog_zh": "新工作你决定了吗？——还没，我一直犹豫不定。",
+  "tip": "固定语序是 back and forth，不说 forth and back；go back and forth on/about sth 表示反复犹豫，也可指邮件、消息来回往来。",
+  "audios": [
+   "media/back-and-forth-1.mp3",
+   "media/back-and-forth-2.mp3",
+   "media/back-and-forth-3.mp3"
+  ],
+  "transcripts": [
+   "special skill. But are they artists? No. They're just throwing things back and forth. Kind of like you and me Pete, we're going back and forth on this issue. I don't think we'll ever agree on this one. No, but we can't.",
+   "When boats are on calm water, the water moves it back and forth, back and forth, back and forth. This can cause many people to get seasick.",
+   "In the case of a love-hate relationship, a couple just keeps going back and forth between the two feelings. One day they fight like cat and..."
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://learningenglish.voanews.com/a/lets-learn-english-level-2-lesson-4-run-away-with-the-circus/4034187.html",
+  "link_title": "Let's Learn English Level 2, Lesson 4: Run Away With the Circus!"
  }
 ]
