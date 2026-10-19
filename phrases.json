@@ -1216,60 +1216,60 @@
   "tip": "固定语序是 back and forth，不说 forth and back；go back and forth on/about sth 表示反复犹豫，也可指邮件、消息来回往来。"
  },
  {
-  "phrase": "You can say that again.",
-  "slug": "you-can-say-that-again",
+  "phrase": "Get out of hand.",
+  "slug": "get-out-of-hand",
   "sent_at": "2026-10-19 15:35",
-  "literal": "你可以再说一遍那句话",
-  "meaning": "说得太对了；我完全同意",
+  "literal": "脱离了手（的掌控）",
+  "meaning": "失控；变得难以控制",
   "dialog": [
    {
     "who": "A",
-    "en": "This summer has been so hot."
+    "en": "The party next door is getting really loud."
    },
    {
     "who": "B",
-    "en": "You can say that again. I can't sleep without the AC."
+    "en": "Yeah, if it gets out of hand, I'll call the building manager."
    }
   ],
-  "dialog_zh": "今年夏天也太热了。——可不是嘛，不开空调我都睡不着。",
-  "tip": "表示强烈赞同，口语里很常见，语气随意热情；不是真让对方重复，若想让人再说一遍应说 Could you say that again?，同义说法有 You said it. / Tell me about it.（后者多用于抱怨）。"
+  "dialog_zh": "隔壁的派对越来越吵了。——是啊，要是闹得不可收拾，我就给物业打电话。",
+  "tip": "常用 get / got / getting out of hand，主语多是局面、情绪、花销、派对等；也说 things got out of hand（事情闹大了）。注意 out of hand 中间没有 the。"
  },
  {
-  "phrase": "Break a leg.",
-  "slug": "break-a-leg",
+  "phrase": "On the ball.",
+  "slug": "on-the-ball",
   "sent_at": "2026-10-19 15:35",
-  "literal": "摔断一条腿",
-  "meaning": "祝你好运；祝演出（表现）顺利",
+  "literal": "在球上",
+  "meaning": "反应快、机灵；做事麻利靠谱",
   "dialog": [
    {
     "who": "A",
-    "en": "I'm so nervous. My big presentation is in ten minutes."
+    "en": "I've already booked the meeting room and sent the agenda."
    },
    {
     "who": "B",
-    "en": "You'll be great. Break a leg!"
+    "en": "Wow, you're really on the ball today!"
    }
   ],
-  "dialog_zh": "我好紧张，十分钟后就要做重要报告了。——你没问题的，祝你好运！",
-  "tip": "源自剧场，演员间忌讳直接说 good luck，所以反着说；现在也可用于演讲、面试等场合，但别对舞者或运动员说，以免对方听着不吉利。"
+  "dialog_zh": "我已经订好会议室，也把议程发出去了。——哇，你今天效率真高！",
+  "tip": "常说 be on the ball（表扬人机灵、做事到位）；催人抓紧可说 Get on the ball!；否定 I wasn't on the ball today 表示今天状态不好、反应慢。"
  },
  {
-  "phrase": "Speak of the devil.",
-  "slug": "speak-of-the-devil",
+  "phrase": "It's not rocket science.",
+  "slug": "its-not-rocket-science",
   "sent_at": "2026-10-19 15:35",
-  "literal": "说到魔鬼",
-  "meaning": "说曹操，曹操就到",
+  "literal": "这不是火箭科学",
+  "meaning": "这没那么难；简单得很",
   "dialog": [
    {
     "who": "A",
-    "en": "Have you seen Tom lately? I haven't heard from him in weeks."
+    "en": "I have no idea how to set up this printer."
    },
    {
     "who": "B",
-    "en": "Speak of the devil! He just walked in."
+    "en": "Come on, it's not rocket science. Just plug it in and follow the steps."
    }
   ],
-  "dialog_zh": "你最近见过汤姆吗？我好几周没他消息了。——说曹操曹操到！他刚进来。",
-  "tip": "只是说时机巧，并不说对方是坏人，语气轻松幽默；完整说法是 Speak of the devil (and he shall appear)，英式英语也常说 Talk of the devil。"
+  "dialog_zh": "我完全不知道这台打印机怎么装。——拜托，这又不难，插上电按步骤来就行。",
+  "tip": "用来安慰或鼓励对方“没那么难”，语气重时也可能带点不耐烦；类似说法 It's not brain surgery。"
  }
 ]
