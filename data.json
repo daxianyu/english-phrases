@@ -1745,5 +1745,104 @@
   "audio": null,
   "link": "https://learningenglish.voanews.com/a/u-s-health-agency-cancels-alcohol-study-financed-by-alcohol-industry/5026992.html",
   "link_title": "US Health Agency Cancels Alcohol Study Financed by Alcohol Industry"
+ },
+ {
+  "phrase": "Wrap your head around something.",
+  "slug": "wrap-your-head-around-something",
+  "sent_at": "2026-10-20 08:26",
+  "literal": "用脑袋把某事包起来",
+  "meaning": "弄懂、想明白（某个复杂或难以接受的事）",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "So the new system tracks everything automatically?"
+   },
+   {
+    "who": "B",
+    "en": "Yeah, it took me a week to wrap my head around it."
+   }
+  ],
+  "dialog_zh": "所以新系统会自动记录所有东西？——对，我花了一周才搞明白。",
+  "tip": "多用于否定或“花了好久才”：I can't wrap my head around it.（我实在想不通）；注意 head 跟着主语变：my/his/their head(s)。",
+  "audios": [
+   "media/wrap-your-head-around-something-1.mp3",
+   "media/wrap-your-head-around-something-2.mp3",
+   "media/wrap-your-head-around-something-3.mp3"
+  ],
+  "transcripts": [
+   "Driving a luxury car and living in a fancy condo, I cannot wrap my head around it. Maybe he invested in something that took off or he got a h…",
+   "I'm still processing. I'm still digesting the information. I'm still wrapping my head around it. I'm still trying to absorb everything. I'm still mulling it over.",
+   "And that was really helpful for me to kind of wrap my head around the different ways you can make movies. Before being nominated for a..."
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://www.voakorea.com/a/7330057.html",
+  "link_title": "[VOA 매일 영어] Your guess is as good as mine. (모르긴 나도 마찬가지입니다)"
+ },
+ {
+  "phrase": "Go back to the drawing board.",
+  "slug": "go-back-to-the-drawing-board",
+  "sent_at": "2026-10-20 08:26",
+  "literal": "回到绘图板前",
+  "meaning": "（计划失败后）推倒重来，从头再想办法",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "The client rejected all three designs."
+   },
+   {
+    "who": "B",
+    "en": "Well, back to the drawing board, then."
+   }
+  ],
+  "dialog_zh": "客户把三个方案全否了。——那好吧，只能从头再来了。",
+  "tip": "常省略成 Back to the drawing board. 带点无奈但不气馁的语气；别说成 go back to the draw board。",
+  "audios": [
+   "media/go-back-to-the-drawing-board-1.mp3",
+   "media/go-back-to-the-drawing-board-2.mp3",
+   "media/go-back-to-the-drawing-board-3.mp3"
+  ],
+  "transcripts": [
+   "Listen carefully. Hey, we need to go back to the drawing board. What do you mean? Our original plan went terribly wrong, and it was unsuccessful.",
+   "are not working out at all, you may have to go back to the drawing board. This means that your plan or method is not working.",
+   "material coming out of it. To be honest, we are really going back to the drawing-board with this,\" said study co-writer Darach Watson of the Cosmic…"
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://www.voakorea.com/a/3014173.html",
+  "link_title": "[English with Yoo] Back to the drawing board"
+ },
+ {
+  "phrase": "Cut corners.",
+  "slug": "cut-corners",
+  "sent_at": "2026-10-20 08:26",
+  "literal": "抄近路切过拐角",
+  "meaning": "偷工减料；图省事走捷径（常导致质量变差）",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "We could skip the testing to finish by Friday."
+   },
+   {
+    "who": "B",
+    "en": "No way. We can't cut corners on safety."
+   }
+  ],
+  "dialog_zh": "我们可以跳过测试，赶在周五前完成。——不行，安全方面不能偷工减料。",
+  "tip": "多含贬义，常见搭配 cut corners on sth；corners 必须用复数，也可说 cut a few corners。",
+  "audios": [
+   "media/cut-corners-1.mp3",
+   "media/cut-corners-2.mp3",
+   "media/cut-corners-3.mp3"
+  ],
+  "transcripts": [
+   "Have you finished planning for your vacation? Not quite yet. I'm still looking for ways to cut corners and save money on this vacation. It's a vacation! Don't cut corners, just... ...",
+   "that you can, at least in conversation. When you cut corners, you do something in a cheaper or easier way.",
+   "seven days a week trying to grow the company. I never cut corners or tried to save on expenses. I made many..."
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://www.voakorea.com/a/6748879.html",
+  "link_title": "[VOA 매일 영어] 원칙이나 절차를 무시하다 cut corners"
  }
 ]
