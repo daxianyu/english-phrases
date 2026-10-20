@@ -1328,5 +1328,62 @@
   ],
   "dialog_zh": "我们可以跳过测试，赶在周五前完成。——不行，安全方面不能偷工减料。",
   "tip": "多含贬义，常见搭配 cut corners on sth；corners 必须用复数，也可说 cut a few corners。"
+ },
+ {
+  "phrase": "Give someone the benefit of the doubt.",
+  "slug": "give-someone-the-benefit-of-the-doubt",
+  "sent_at": "2026-10-20 15:56",
+  "literal": "把“存疑”的好处让给某人",
+  "meaning": "在没有确凿证据时，姑且相信某人（往好的方面想），不先怀疑他",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "He says he missed the meeting because his train was late."
+   },
+   {
+    "who": "B",
+    "en": "He's never late, so let's give him the benefit of the doubt."
+   }
+  ],
+  "dialog_zh": "他说是因为火车晚点才没来开会。——他从来不迟到，咱们就姑且相信他吧。",
+  "tip": "常用 I'll give you the benefit of the doubt.（这次先信你一回）；doubt 用单数，别说成 doubts；被动可说 be given the benefit of the doubt。"
+ },
+ {
+  "phrase": "That's the last straw.",
+  "slug": "thats-the-last-straw",
+  "sent_at": "2026-10-20 15:56",
+  "literal": "那是最后一根稻草",
+  "meaning": "忍无可忍了；（一连串糟心事中）最后让人爆发的那件事",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "The neighbors are playing loud music at 2 a.m. again."
+   },
+   {
+    "who": "B",
+    "en": "That's the last straw. I'm calling the landlord."
+   }
+  ],
+  "dialog_zh": "邻居凌晨两点又在放很吵的音乐。——这下真忍不了了，我要给房东打电话。",
+  "tip": "带明显的恼火、要采取行动的语气；常说 That was the last straw.，完整说法是 the straw that broke the camel's back（压垮骆驼的最后一根稻草）。"
+ },
+ {
+  "phrase": "We'll cross that bridge when we come to it.",
+  "slug": "well-cross-that-bridge-when-we-come-to-it",
+  "sent_at": "2026-10-20 15:56",
+  "literal": "等我们走到桥边再过桥",
+  "meaning": "到时候再说；问题真出现了再想办法，现在不必提前担心",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "What if the client wants even more changes next month?"
+   },
+   {
+    "who": "B",
+    "en": "We'll cross that bridge when we come to it."
+   }
+  ],
+  "dialog_zh": "要是客户下个月还要改更多怎么办？——到时候再说吧。",
+  "tip": "语气轻松、劝人别杞人忧天；主语可换成 I'll，固定用 that bridge 和 come to it，别说成 go to it 或 arrive it。"
  }
 ]

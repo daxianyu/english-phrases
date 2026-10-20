@@ -1844,5 +1844,104 @@
   "audio": null,
   "link": "https://www.voakorea.com/a/6748879.html",
   "link_title": "[VOA 매일 영어] 원칙이나 절차를 무시하다 cut corners"
+ },
+ {
+  "phrase": "Give someone the benefit of the doubt.",
+  "slug": "give-someone-the-benefit-of-the-doubt",
+  "sent_at": "2026-10-20 15:56",
+  "literal": "把“存疑”的好处让给某人",
+  "meaning": "在没有确凿证据时，姑且相信某人（往好的方面想），不先怀疑他",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "He says he missed the meeting because his train was late."
+   },
+   {
+    "who": "B",
+    "en": "He's never late, so let's give him the benefit of the doubt."
+   }
+  ],
+  "dialog_zh": "他说是因为火车晚点才没来开会。——他从来不迟到，咱们就姑且相信他吧。",
+  "tip": "常用 I'll give you the benefit of the doubt.（这次先信你一回）；doubt 用单数，别说成 doubts；被动可说 be given the benefit of the doubt。",
+  "audios": [
+   "media/give-someone-the-benefit-of-the-doubt-1.mp3",
+   "media/give-someone-the-benefit-of-the-doubt-2.mp3",
+   "media/give-someone-the-benefit-of-the-doubt-3.mp3"
+  ],
+  "transcripts": [
+   "...law says that if someone could be a refugee, you basically have to give them the benefit of the doubt and not send them back. The experts say the way to reduce the...",
+   "Cream will reduce your wrinkles in no time. You should give it a try. I'll give you the benefit of the doubt. But you know, if something goes wrong with my skin, you'll hear from my lawyer.",
+   "Kreuz wrote that professors suspected of plagiarism may be given the benefit of the doubt by their schools. They may also be given the chance to make corrections"
+  ],
+  "video": null,
+  "audio": null,
+  "link": null,
+  "link_title": null
+ },
+ {
+  "phrase": "That's the last straw.",
+  "slug": "thats-the-last-straw",
+  "sent_at": "2026-10-20 15:56",
+  "literal": "那是最后一根稻草",
+  "meaning": "忍无可忍了；（一连串糟心事中）最后让人爆发的那件事",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "The neighbors are playing loud music at 2 a.m. again."
+   },
+   {
+    "who": "B",
+    "en": "That's the last straw. I'm calling the landlord."
+   }
+  ],
+  "dialog_zh": "邻居凌晨两点又在放很吵的音乐。——这下真忍不了了，我要给房东打电话。",
+  "tip": "带明显的恼火、要采取行动的语气；常说 That was the last straw.，完整说法是 the straw that broke the camel's back（压垮骆驼的最后一根稻草）。",
+  "audios": [
+   "media/thats-the-last-straw-1.mp3",
+   "media/thats-the-last-straw-2.mp3",
+   "media/thats-the-last-straw-3.mp3"
+  ],
+  "transcripts": [
+   "Okay. And all the food is going to be vegetarian. That's the last straw. I'm just staying home and watching TV tonight.",
+   "The price almost doubled. That was the last straw. I decided just to do yoga at home with a",
+   "all kinds of strange people to the apartment. That was the last straw. I had had enough. I told her she had to..."
+  ],
+  "video": null,
+  "audio": null,
+  "link": null,
+  "link_title": null
+ },
+ {
+  "phrase": "We'll cross that bridge when we come to it.",
+  "slug": "well-cross-that-bridge-when-we-come-to-it",
+  "sent_at": "2026-10-20 15:56",
+  "literal": "等我们走到桥边再过桥",
+  "meaning": "到时候再说；问题真出现了再想办法，现在不必提前担心",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "What if the client wants even more changes next month?"
+   },
+   {
+    "who": "B",
+    "en": "We'll cross that bridge when we come to it."
+   }
+  ],
+  "dialog_zh": "要是客户下个月还要改更多怎么办？——到时候再说吧。",
+  "tip": "语气轻松、劝人别杞人忧天；主语可换成 I'll，固定用 that bridge 和 come to it，别说成 go to it 或 arrive it。",
+  "audios": [
+   "media/well-cross-that-bridge-when-we-come-to-it-1.mp3",
+   "media/well-cross-that-bridge-when-we-come-to-it-2.mp3",
+   "media/well-cross-that-bridge-when-we-come-to-it-3.mp3"
+  ],
+  "transcripts": [
+   "This brings us to another common expression using bridge. I will cross that bridge when I come to it. This expression means to not worry.",
+   "Your flight. It'll be alright. If I miss my flight, I miss my flight. I'll cross that bridge when I come to it. Let's review.",
+   "might happen in the future. We could tell them, do not cross that bridge until you come to it. It is usually much better..."
+  ],
+  "video": null,
+  "audio": null,
+  "link": null,
+  "link_title": null
  }
 ]
