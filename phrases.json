@@ -1442,5 +1442,62 @@
   ],
   "dialog_zh": "很遗憾你错过了那份工作。——说实话，这是因祸得福，一周后我找到了一份好得多的。",
   "tip": "通常说 It was / turned out to be a blessing in disguise，多用于事后回头看；别漏掉 a，也别说成 a blessing in disguised。"
+ },
+ {
+  "phrase": "A dime a dozen.",
+  "slug": "a-dime-a-dozen",
+  "sent_at": "2026-10-21 16:11",
+  "literal": "一角钱一打",
+  "meaning": "多得很、到处都是、很普通不稀罕",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Should I buy this phone case? It's only five dollars."
+   },
+   {
+    "who": "B",
+    "en": "Don't bother. Cases like that are a dime a dozen online."
+   }
+  ],
+  "dialog_zh": "我该买这个手机壳吗？才五美元。——别买了，那种壳网上一抓一大把。",
+  "tip": "带点贬义，暗示「不值钱、不特别」；常用 be a dime a dozen 作表语，主语通常是复数（Good ideas are a dime a dozen.）；别说成 a dime of dozen。"
+ },
+ {
+  "phrase": "Better late than never.",
+  "slug": "better-late-than-never",
+  "sent_at": "2026-10-21 16:11",
+  "literal": "晚一点总比永远不做好",
+  "meaning": "迟做总比不做强；虽然晚了，但总算来了／做了",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Sorry, I finally sent you that birthday card. It's two weeks late."
+   },
+   {
+    "who": "B",
+    "en": "Hey, better late than never. Thanks!"
+   }
+  ],
+  "dialog_zh": "抱歉，我终于把生日贺卡寄给你了，晚了两周。——嘿，迟到总比不到好，谢谢！",
+  "tip": "多用来宽慰或自嘲，语气轻松；对别人迟到时说可能带点调侃。固定顺序是 better late than never，别说成 late is better than never。"
+ },
+ {
+  "phrase": "Easy does it.",
+  "slug": "easy-does-it",
+  "sent_at": "2026-10-21 16:11",
+  "literal": "轻松地做才行",
+  "meaning": "慢点、小心点、别急、别用力过猛（提醒动作要轻、要稳，也可劝人冷静）",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Okay, let's lift the TV onto the stand."
+   },
+   {
+    "who": "B",
+    "en": "Easy does it... slowly... perfect."
+   }
+  ],
+  "dialog_zh": "好，我们把电视抬到架子上。——慢点、小心……慢慢来……好了。",
+  "tip": "是固定说法，不随人称变化（不说 Easy do it）；常在搬东西、扶人、倒车时说，也可用来让激动的人冷静下来，相当于 Take it easy / Careful."
  }
 ]
