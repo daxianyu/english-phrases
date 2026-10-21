@@ -1943,5 +1943,104 @@
   "audio": null,
   "link": null,
   "link_title": null
+ },
+ {
+  "phrase": "To make matters worse.",
+  "slug": "to-make-matters-worse",
+  "sent_at": "2026-10-21 08:32",
+  "literal": "让事情变得更糟",
+  "meaning": "更糟糕的是；雪上加霜的是（引出又一件坏事）",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "How was your trip?"
+   },
+   {
+    "who": "B",
+    "en": "Awful. Our flight was delayed, and to make matters worse, they lost my bag."
+   }
+  ],
+  "dialog_zh": "旅行怎么样？——糟透了。航班延误了，更糟的是，他们还把我的行李弄丢了。",
+  "tip": "放在句首、后面加逗号，用来接着讲第二件坏事；matters 必须用复数，别说成 to make matter worse 或 to make things worser。",
+  "audios": [
+   "media/to-make-matters-worse-1.mp3",
+   "media/to-make-matters-worse-2.mp3",
+   "media/to-make-matters-worse-3.mp3"
+  ],
+  "transcripts": [
+   "Gorman's home is downhill from the bonds home. To make matters worse, the chemical began to spread into a neighboring park and the",
+   "or houses because snow drifts block doorways. To make matters worse, high winds and heavy snow can break limbs off trees.",
+   "and not on less serious cases. To make matters worse, everybody is telling everybody about it."
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://learningenglish.voanews.com/a/summer-visitors-poison-trees-to-see-ocean-better/7664556.html",
+  "link_title": "Summer Visitors Poison Trees to See Ocean Better"
+ },
+ {
+  "phrase": "Get bent out of shape.",
+  "slug": "get-bent-out-of-shape",
+  "sent_at": "2026-10-21 08:32",
+  "literal": "被弄弯、变了形",
+  "meaning": "（为小事）生气、恼火、心烦",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Sorry I'm five minutes late."
+   },
+   {
+    "who": "B",
+    "en": "Relax, I'm not going to get bent out of shape over five minutes."
+   }
+  ],
+  "dialog_zh": "抱歉我迟到了五分钟。——放松，我不会为五分钟就不高兴的。",
+  "tip": "口语、偏随意，常用于劝人别为小事生气：Don't get bent out of shape about it.；搭配 about/over sth，也常说 all bent out of shape（气得不行）。",
+  "audios": [
+   "media/get-bent-out-of-shape-1.mp3",
+   "media/get-bent-out-of-shape-2.mp3",
+   "media/get-bent-out-of-shape-3.mp3"
+  ],
+  "transcripts": [
+   "Yeah, I did. I thought he was invited. Well, now he's all bent out of shape because I didn't invite him. I'm sorry. Can you invite him now?",
+   "juice jobs in America,\" he said. Some people are bent out of shape about his comments, Livingston said. That includes a few...",
+   "it because some idiot crashed his car into mine last night on the way over here. I'm still pretty bent out of shape about it."
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://learningenglish.voanews.com/a/english-in-a-minute-bent-out-of-shape/3390599.html",
+  "link_title": "English in a Minute: Bent out of Shape"
+ },
+ {
+  "phrase": "A blessing in disguise.",
+  "slug": "a-blessing-in-disguise",
+  "sent_at": "2026-10-21 08:32",
+  "literal": "伪装起来的福气",
+  "meaning": "因祸得福；坏事变好事（当时看似坏事，后来证明是好事）",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "I'm sorry you missed that job offer."
+   },
+   {
+    "who": "B",
+    "en": "Honestly, it was a blessing in disguise. I found a much better one a week later."
+   }
+  ],
+  "dialog_zh": "很遗憾你错过了那份工作。——说实话，这是因祸得福，一周后我找到了一份好得多的。",
+  "tip": "通常说 It was / turned out to be a blessing in disguise，多用于事后回头看；别漏掉 a，也别说成 a blessing in disguised。",
+  "audios": [
+   "media/a-blessing-in-disguise-1.mp3",
+   "media/a-blessing-in-disguise-2.mp3",
+   "media/a-blessing-in-disguise-3.mp3"
+  ],
+  "transcripts": [
+   "Oh, I got sick and couldn't go. Oh, I'm sorry to hear that. Actually, it was a blessing in disguise. It turns out my two best friends from high school couldn't go either. So, we're...",
+   "A trip to New York City was canceled. However, the cancellation was a blessing in disguise. A big snowstorm hit and shut down all the airports.",
+   "Wow! Congratulations! Losing your job was definitely a blessing in disguise. It sure was a blessing in disguise."
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://learningenglish.voanews.com/a/take-a-moment-to-count-your-blessings-/5174083.html",
+  "link_title": "Take a Moment to 'Count Your Blessings'"
  }
 ]
