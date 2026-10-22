@@ -2232,5 +2232,102 @@
   "audio": null,
   "link": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-47-how-can-i-help/3737352.html",
   "link_title": "Let's Learn English Lesson 47: How Can I Help?"
+ },
+ {
+  "phrase": "The best of both worlds.",
+  "slug": "the-best-of-both-worlds",
+  "sent_at": "2026-10-22 15:52",
+  "literal": "两个世界中最好的",
+  "meaning": "两全其美；同时享有两种不同事物的好处",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "I work from home two days a week and go to the office the other three."
+   },
+   {
+    "who": "B",
+    "en": "Nice — you get the best of both worlds."
+   }
+  ],
+  "dialog_zh": "我一周两天在家办公，另外三天去公司。——不错啊，两全其美。",
+  "tip": "常说 get / have / enjoy the best of both worlds，几乎总带 the；语气积极。反过来说“没法两全”可以用 You can't have the best of both worlds 或 You can't have your cake and eat it too。别说成 the best of two worlds。",
+  "audios": [
+   "media/the-best-of-both-worlds-1.mp3",
+   "media/the-best-of-both-worlds-2.mp3",
+   "media/the-best-of-both-worlds-3.mp3"
+  ],
+  "transcripts": [
+   "It is, as some food experts say, the best of both worlds. While it is best known for its pork ribs,",
+   "get to work faster. Wow it seems like biking is the best of both worlds. It's fun and in a city like DC the fastest way to get around.",
+   "Is Southern California a good place to live and raise children? Yes, you get the best of both worlds, as the people there are very friendly and there are so many great schools."
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://learningenglish.voanews.com/a/tasty-travels-barbecue-american-food-tradition/3949118.html",
+  "link_title": "Barbecue: An American Food Tradition"
+ },
+ {
+  "phrase": "Let the cat out of the bag.",
+  "slug": "let-the-cat-out-of-the-bag",
+  "sent_at": "2026-10-22 15:52",
+  "literal": "把猫从袋子里放出来",
+  "meaning": "（往往是无意中）泄露秘密、说漏嘴",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Why does Jamie already know about her surprise party?"
+   },
+   {
+    "who": "B",
+    "en": "Sorry, that was me. I let the cat out of the bag at lunch."
+   }
+  ],
+  "dialog_zh": "杰米怎么已经知道她的惊喜派对了？——抱歉，是我。我午饭时说漏嘴了。",
+  "tip": "多指不小心泄密，口语里很常用，语气轻松；动词随时态变：let 的过去式还是 let，also: The cat's out of the bag（秘密已经藏不住了）。意思接近 spill the beans。别说成 let the cat out of the box。",
+  "audios": [
+   "media/let-the-cat-out-of-the-bag-1.mp3",
+   "media/let-the-cat-out-of-the-bag-2.mp3",
+   "media/let-the-cat-out-of-the-bag-3.mp3"
+  ],
+  "transcripts": [
+   "And let's say you tell it to people. You have just let the cat out of the bag. This idiom means to reveal a secret or tell...",
+   "Two co-workers use both expressions. Tony really let the cat out of the bag at work today. He told everyone that Mary found another job.",
+   "I was trying to keep the farewell party for Jamie a secret, but I let the cat out of the bag, and now she knows. Oh no! Now we have to change our plan!"
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://learningenglish.voanews.com/a/words-and-their-stories-from-monkeys-to-potatoes/4141925.html",
+  "link_title": "From Monkeys to Potatoes (Words and Their Stories)"
+ },
+ {
+  "phrase": "Add insult to injury.",
+  "slug": "add-insult-to-injury",
+  "sent_at": "2026-10-22 15:52",
+  "literal": "在伤害之上再加侮辱",
+  "meaning": "雪上加霜；伤口上撒盐，让本来就糟的情况更糟、更让人难堪",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "My flight was cancelled, and then they lost my suitcase."
+   },
+   {
+    "who": "B",
+    "en": "Ugh. And to add insult to injury, they charged you for the bag, right?"
+   }
+  ],
+  "dialog_zh": "我的航班被取消了，然后他们还把我的箱子弄丢了。——唉。更气人的是，他们还收了你的行李费，对吧？",
+  "tip": "最常见的说法是 To add insult to injury, ...（放在句首引出“更糟的是”）；也可说 That's adding insult to injury。insult 和 injury 都用单数、不加冠词，别说成 add an insult to the injury。",
+  "audios": [
+   "media/add-insult-to-injury-1.mp3",
+   "media/add-insult-to-injury-2.mp3"
+  ],
+  "transcripts": [
+   "Death, the prick of a tiny insect, see what you have done to yourself to add insult to injury? The bald man replied, I can easily make peace with myself because",
+   "think of a tiny insect with death, what will you do to yourself who have added insult to injury?\" The man made answer. I am easily reconciled to myself."
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://archive.org/details/300aesopsfables_ma_librivox",
+  "link_title": "Three Hundred Aesop's Fables (Townsend), Fables 301-312 — The Bald Man and the Fly"
  }
 ]

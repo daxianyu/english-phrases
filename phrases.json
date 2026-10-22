@@ -1556,5 +1556,62 @@
   ],
   "dialog_zh": "我做不了这个报告，我在发抖！——嘿，冷静点、振作起来。深呼吸，这些内容你都懂的。",
   "tip": "针对情绪失控（慌乱、哭泣、崩溃）时说，语气可能有点生硬，安慰时可加 Hey 或先表示理解；yourself 随人称变：pull himself / ourselves together。和 Get your act together 不同，后者偏“别散漫、把事做好”。"
+ },
+ {
+  "phrase": "The best of both worlds.",
+  "slug": "the-best-of-both-worlds",
+  "sent_at": "2026-10-22 15:52",
+  "literal": "两个世界中最好的",
+  "meaning": "两全其美；同时享有两种不同事物的好处",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "I work from home two days a week and go to the office the other three."
+   },
+   {
+    "who": "B",
+    "en": "Nice — you get the best of both worlds."
+   }
+  ],
+  "dialog_zh": "我一周两天在家办公，另外三天去公司。——不错啊，两全其美。",
+  "tip": "常说 get / have / enjoy the best of both worlds，几乎总带 the；语气积极。反过来说“没法两全”可以用 You can't have the best of both worlds 或 You can't have your cake and eat it too。别说成 the best of two worlds。"
+ },
+ {
+  "phrase": "Let the cat out of the bag.",
+  "slug": "let-the-cat-out-of-the-bag",
+  "sent_at": "2026-10-22 15:52",
+  "literal": "把猫从袋子里放出来",
+  "meaning": "（往往是无意中）泄露秘密、说漏嘴",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Why does Jamie already know about her surprise party?"
+   },
+   {
+    "who": "B",
+    "en": "Sorry, that was me. I let the cat out of the bag at lunch."
+   }
+  ],
+  "dialog_zh": "杰米怎么已经知道她的惊喜派对了？——抱歉，是我。我午饭时说漏嘴了。",
+  "tip": "多指不小心泄密，口语里很常用，语气轻松；动词随时态变：let 的过去式还是 let，also: The cat's out of the bag（秘密已经藏不住了）。意思接近 spill the beans。别说成 let the cat out of the box。"
+ },
+ {
+  "phrase": "Add insult to injury.",
+  "slug": "add-insult-to-injury",
+  "sent_at": "2026-10-22 15:52",
+  "literal": "在伤害之上再加侮辱",
+  "meaning": "雪上加霜；伤口上撒盐，让本来就糟的情况更糟、更让人难堪",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "My flight was cancelled, and then they lost my suitcase."
+   },
+   {
+    "who": "B",
+    "en": "Ugh. And to add insult to injury, they charged you for the bag, right?"
+   }
+  ],
+  "dialog_zh": "我的航班被取消了，然后他们还把我的箱子弄丢了。——唉。更气人的是，他们还收了你的行李费，对吧？",
+  "tip": "最常见的说法是 To add insult to injury, ...（放在句首引出“更糟的是”）；也可说 That's adding insult to injury。insult 和 injury 都用单数、不加冠词，别说成 add an insult to the injury。"
  }
 ]
