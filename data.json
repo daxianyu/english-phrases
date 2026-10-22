@@ -2133,5 +2133,104 @@
   "audio": null,
   "link": null,
   "link_title": null
+ },
+ {
+  "phrase": "Get your act together.",
+  "slug": "get-your-act-together",
+  "sent_at": "2026-10-22 08:29",
+  "literal": "把你的表演整理好",
+  "meaning": "振作起来、把状态调整好，别再散漫拖拉，好好把事情处理妥当",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "I missed another deadline and my room is a total mess."
+   },
+   {
+    "who": "B",
+    "en": "Come on, you need to get your act together before the exam."
+   }
+  ],
+  "dialog_zh": "我又错过了一个截止日期，房间也乱成一团。——拜托，考试前你得振作起来、把状态调整好。",
+  "tip": "语气偏直接，带点批评或催促，对上级慎用；act 随主语变：get my / his / their act together，过去式 got my act together。",
+  "audios": [
+   "media/get-your-act-together-1.mp3",
+   "media/get-your-act-together-2.mp3",
+   "media/get-your-act-together-3.mp3"
+  ],
+  "transcripts": [
+   "You can't live with us the rest of your life. It's time to get your act together. Settle down and get married and start living your own...",
+   "In college, I didn't work hard to plan for the future for several years. But finally, I got my act together and got accepted into graduate school. ...",
+   "...vessels make the most noise.\" That's a letdown. Hopefully, he will get his act together soon. ..."
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://www.voachinese.com/a/wi293/1691110.html",
+  "link_title": "美国习惯用语第293讲"
+ },
+ {
+  "phrase": "No pain, no gain.",
+  "slug": "no-pain-no-gain",
+  "sent_at": "2026-10-22 08:29",
+  "literal": "没有痛苦，就没有收获",
+  "meaning": "不吃苦就没有收获；想要成果就得付出努力（常用于健身、学习）",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "My legs are killing me after that workout."
+   },
+   {
+    "who": "B",
+    "en": "No pain, no gain! You'll feel stronger next week."
+   }
+  ],
+  "dialog_zh": "练完腿疼死了。——不吃苦哪有收获！下周你就会觉得更有劲了。",
+  "tip": "多用来给人（或自己）打气，语气积极；固定说法，中间不加 and，不要说成 No pains, no gains（那是很老的旧式说法）。",
+  "audios": [
+   "media/no-pain-no-gain-1.mp3",
+   "media/no-pain-no-gain-2.mp3",
+   "media/no-pain-no-gain-3.mp3"
+  ],
+  "transcripts": [
+   "No pain, no gain, is an old saying in English. It means that one...",
+   "...persistent and hardy. And the roses showed me \"no pain, no gain.\" What comes to your mind when you hear the...",
+   "today because it's too cold and too windy. No way. No pain. No gain. When you exercise in really cold weather, you feel alive."
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://learningenglish.voanews.com/a/how-hard-should-you-train-/7823051.html",
+  "link_title": "How Hard Should You Train?"
+ },
+ {
+  "phrase": "Pull yourself together.",
+  "slug": "pull-yourself-together",
+  "sent_at": "2026-10-22 08:29",
+  "literal": "把你自己拉到一起",
+  "meaning": "冷静下来、振作起来，控制住情绪（别慌、别哭、别乱）",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "I can't do this presentation. I'm shaking!"
+   },
+   {
+    "who": "B",
+    "en": "Hey, pull yourself together. Take a deep breath — you know this stuff."
+   }
+  ],
+  "dialog_zh": "我做不了这个报告，我在发抖！——嘿，冷静点、振作起来。深呼吸，这些内容你都懂的。",
+  "tip": "针对情绪失控（慌乱、哭泣、崩溃）时说，语气可能有点生硬，安慰时可加 Hey 或先表示理解；yourself 随人称变：pull himself / ourselves together。和 Get your act together 不同，后者偏“别散漫、把事做好”。",
+  "audios": [
+   "media/pull-yourself-together-1.mp3",
+   "media/pull-yourself-together-2.mp3",
+   "media/pull-yourself-together-3.mp3"
+  ],
+  "transcripts": [
+   "You did not help Anna. You did not help. Pete, Pete, pull yourself together man. Give me the keys. I must feel the key in the",
+   "[Korean] Get a grip on yourself. Get a grip. Pull yourself together. Pull [Korean] yourself [Korean] together [Korean]...",
+   "It should cause the rest of us, the survivors, as it were, to pull ourselves together and see that we can act together.\""
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-47-how-can-i-help/3737352.html",
+  "link_title": "Let's Learn English Lesson 47: How Can I Help?"
  }
 ]
