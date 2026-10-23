@@ -2329,5 +2329,104 @@
   "audio": null,
   "link": "https://archive.org/details/300aesopsfables_ma_librivox",
   "link_title": "Three Hundred Aesop's Fables (Townsend), Fables 301-312 — The Bald Man and the Fly"
+ },
+ {
+  "phrase": "Bite off more than you can chew.",
+  "slug": "bite-off-more-than-you-can-chew",
+  "sent_at": "2026-10-23 08:15",
+  "literal": "咬下超过你能嚼得动的量",
+  "meaning": "不自量力；揽下超过自己能力的事",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "She took on three projects at once and a night class."
+   },
+   {
+    "who": "B",
+    "en": "Yeah… she really bit off more than she can chew."
+   }
+  ],
+  "dialog_zh": "她同时接了三个项目，还报了夜校。——是啊……她真是不自量力。",
+  "tip": "常用 Don't bite off more than you can chew（别揽太多）；过去式/分词常说 bit/bitten off more than … can chew。someone/she/he 可替换主语。",
+  "audios": [
+   "media/bite-off-more-than-you-can-chew-1.mp3",
+   "media/bite-off-more-than-you-can-chew-2.mp3",
+   "media/bite-off-more-than-you-can-chew-3.mp3"
+  ],
+  "transcripts": [
+   "Besides eating. With many things, you can figuratively bite off more than you can chew. The expression biting off more than you can chew may be...",
+   "huge bite of food, it's hard to chew. In life, if you bite off more than you can chew, you try to do too much. That usually doesn't go well.",
+   "in a minute. This expression sounds like it has to do with eating. Bite off more than you can chew. But our our friends really talking about food, let's listen."
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://learningenglish.voanews.com/a/don-t-bite-off-more-than-you-can-chew-/5212592.html",
+  "link_title": "Don't Bite Off More Than You Can Chew"
+ },
+ {
+  "phrase": "Barking up the wrong tree.",
+  "slug": "barking-up-the-wrong-tree",
+  "sent_at": "2026-10-23 08:15",
+  "literal": "对着错误的树吠叫",
+  "meaning": "找错对象；搞错方向；错怪了人",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Did you delete my files?"
+   },
+   {
+    "who": "B",
+    "en": "You're barking up the wrong tree — I wasn't even here yesterday."
+   }
+  ],
+  "dialog_zh": "是你把我的文件删了吗？——你找错人了——我昨天根本不在。",
+  "tip": "常用 You're barking up the wrong tree；也可说 bark up the wrong tree（不定式/原形）。语气偏口语，带一点责备或澄清。",
+  "audios": [
+   "media/barking-up-the-wrong-tree-1.mp3",
+   "media/barking-up-the-wrong-tree-2.mp3",
+   "media/barking-up-the-wrong-tree-3.mp3"
+  ],
+  "transcripts": [
+   "a fun. And that brings us to our expression for today, to bark up the wrong tree. In fact, this expression is more like an idiom.",
+   "is trying to get a rave from his supervisor. Yes. He's barking up the wrong tree. Only the manager can give him a rave. Barking up the wrong tree.",
+   "You are not the person who spread the rumors about me. I was barking up the wrong tree. I was barking up the wrong tree. I was barking up the..."
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://learningenglish.voanews.com/a/don-t-waste-time-barking-up-the-wrong-tree-/5398064.html",
+  "link_title": "Don't Waste Time Barking up the Wrong Tree"
+ },
+ {
+  "phrase": "By the skin of your teeth.",
+  "slug": "by-the-skin-of-your-teeth",
+  "sent_at": "2026-10-23 08:15",
+  "literal": "靠着你牙齿上的那层皮",
+  "meaning": "勉强；侥幸；差一点就没做成（勉强赶上/逃脱）",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Did you catch the train?"
+   },
+   {
+    "who": "B",
+    "en": "Barely — I made it by the skin of my teeth."
+   }
+  ],
+  "dialog_zh": "赶上火车了吗？——勉强——差一点就错过了。",
+  "tip": "最常见是 by the skin of my/your/his teeth；也可说 make it / escape / pass by the skin of one's teeth。强调“险些不行”，不是轻松完成。",
+  "audios": [
+   "media/by-the-skin-of-your-teeth-1.mp3",
+   "media/by-the-skin-of-your-teeth-2.mp3",
+   "media/by-the-skin-of-your-teeth-3.mp3"
+  ],
+  "transcripts": [
+   "Some of them have just been saved by the skin of their teeth, he said. The reality is that coronavirus is-",
+   "skin of my teeth. Just as I sat down, the movie started. By the skin of my teeth means to narrowly or fairly escape something bad.",
+   "own cleaveth to my skin and to my flesh, and I am escaped with the skin of my teeth. Have pity upon me, have pity upon me, oh ye-"
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://learningenglish.voanews.com/a/southwestern-japan-takes-steps-to-deal-with-flooding-coronavirus/5494826.html",
+  "link_title": "Southwestern Japan Takes Steps to Deal with Flooding, Coronavirus"
  }
 ]
