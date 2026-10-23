@@ -2428,5 +2428,104 @@
   "audio": null,
   "link": "https://learningenglish.voanews.com/a/southwestern-japan-takes-steps-to-deal-with-flooding-coronavirus/5494826.html",
   "link_title": "Southwestern Japan Takes Steps to Deal with Flooding, Coronavirus"
+ },
+ {
+  "phrase": "At the drop of a hat.",
+  "slug": "at-the-drop-of-a-hat",
+  "sent_at": "2026-10-23 15:38",
+  "literal": "帽子一掉下来",
+  "meaning": "立刻；马上；毫不犹豫",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Would you help me move this weekend?"
+   },
+   {
+    "who": "B",
+    "en": "Sure — I'd do it at the drop of a hat."
+   }
+  ],
+  "dialog_zh": "这周末帮我搬家吗？——当然——我立刻就去。",
+  "tip": "强调愿意立刻行动，不需计划；常接 would / ready to / leave…",
+  "audios": [
+   "media/at-the-drop-of-a-hat-1.mp3",
+   "media/at-the-drop-of-a-hat-2.mp3",
+   "media/at-the-drop-of-a-hat-3.mp3"
+  ],
+  "transcripts": [
+   "the hat dropped. In our example, Jonathan says he would see that movie at the drop of a hat, and that's English in a minute.",
+   "It helped. Can I call you? Of course you can call me. I can come at the drop of a hat. Oh, that's good to know. Thanks.",
+   "Yet, when it comes to my own money, I spend it at the drop of a hat immediately without waiting. And sadly..."
+  ],
+  "video": null,
+  "audio": null,
+  "link": null,
+  "link_title": null
+ },
+ {
+  "phrase": "Don't count your chickens before they hatch.",
+  "slug": "dont-count-your-chickens-before-they-hatch",
+  "sent_at": "2026-10-23 15:38",
+  "literal": "小鸡孵出来之前别数",
+  "meaning": "别过早乐观；事未成不要先高兴",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "I'm already planning how to spend the bonus."
+   },
+   {
+    "who": "B",
+    "en": "Don't count your chickens before they hatch — we haven't gotten it yet."
+   }
+  ],
+  "dialog_zh": "我已经在计划怎么花奖金了。——别高兴太早——我们还没拿到呢。",
+  "tip": "完整谚语；口语也常缩成 Don't count your chickens。",
+  "audios": [
+   "media/dont-count-your-chickens-before-they-hatch-1.mp3",
+   "media/dont-count-your-chickens-before-they-hatch-2.mp3",
+   "media/dont-count-your-chickens-before-they-hatch-3.mp3"
+  ],
+  "transcripts": [
+   "your bank account? Well, not exactly, but... Don't count your chickens before they hatch. Don't count your chickens before they hatch means you...",
+   "feels. The friend may say to her, well, don't count your chickens before they hatch. Another way of saying this proverb is",
+   "We're not even close to finishing the game. Don't count your chickens before they hatch."
+  ],
+  "video": null,
+  "audio": null,
+  "link": null,
+  "link_title": null
+ },
+ {
+  "phrase": "Don't put all your eggs in one basket.",
+  "slug": "dont-put-all-your-eggs-in-one-basket",
+  "sent_at": "2026-10-23 15:38",
+  "literal": "别把所有鸡蛋放进同一个篮子",
+  "meaning": "别把希望/资源全押在一件事上；要分散风险",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "I'm quitting my job to invest everything in one startup."
+   },
+   {
+    "who": "B",
+    "en": "Don't put all your eggs in one basket."
+   }
+  ],
+  "dialog_zh": "我要辞职，把钱全投进一家初创公司。——别把所有鸡蛋放进同一个篮子。",
+  "tip": "投资、求职、计划都常用；也可以说 put all your eggs in one basket（陈述）。",
+  "audios": [
+   "media/dont-put-all-your-eggs-in-one-basket-1.mp3",
+   "media/dont-put-all-your-eggs-in-one-basket-2.mp3",
+   "media/dont-put-all-your-eggs-in-one-basket-3.mp3"
+  ],
+  "transcripts": [
+   "So I'm just applying to that one. You are putting all your eggs in one basket. Don't you think you should apply to more than one? Just...",
+   "Put all your eggs in one basket.",
+   "Another proverb warns, do not put all your eggs in one basket. This means you should not put all of your resources..."
+  ],
+  "video": null,
+  "audio": null,
+  "link": null,
+  "link_title": null
  }
 ]
