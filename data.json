@@ -2527,5 +2527,104 @@
   "audio": null,
   "link": null,
   "link_title": null
+ },
+ {
+  "phrase": "Every cloud has a silver lining.",
+  "slug": "every-cloud-has-a-silver-lining",
+  "sent_at": "2026-10-24 07:55",
+  "literal": "每朵云都有银边",
+  "meaning": "黑暗中总有一线光明；坏事里也有好的一面",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "I got laid off, but now I finally have time to finish my novel."
+   },
+   {
+    "who": "B",
+    "en": "Every cloud has a silver lining."
+   }
+  ],
+  "dialog_zh": "我被裁了，但终于有时间写完小说了。——塞翁失马，焉知非福。",
+  "tip": "安慰别人或自我宽心时常用；也可只说 a silver lining。",
+  "audios": [
+   "media/every-cloud-has-a-silver-lining-1.mp3",
+   "media/every-cloud-has-a-silver-lining-2.mp3",
+   "media/every-cloud-has-a-silver-lining-3.mp3"
+  ],
+  "transcripts": [
+   "They also dug up my ring! I lost it last month gardening! Well, every cloud has a silver lining. Clouds block the sun, but sometimes sunlight gets...",
+   "always hope. And that brings us to our last expression. Every cloud has a silver lining. This expression means there is always something hopeful as to the next question.",
+   "Things will be alright. Optimists might say that every cloud has a silver lining. They can find something good even in a back…"
+  ],
+  "video": null,
+  "audio": null,
+  "link": null,
+  "link_title": null
+ },
+ {
+  "phrase": "Give someone the cold shoulder.",
+  "slug": "give-someone-the-cold-shoulder",
+  "sent_at": "2026-10-24 07:55",
+  "literal": "给某人冰冷的肩膀",
+  "meaning": "冷落某人；故意不理睬",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Why is Mia ignoring me at lunch?"
+   },
+   {
+    "who": "B",
+    "en": "She's giving you the cold shoulder after you canceled on her."
+   }
+  ],
+  "dialog_zh": "米娅午饭时怎么不理我？——你放她鸽子了，她在冷落你。",
+  "tip": "带疏远、赌气的语气；也可以说 get the cold shoulder（被冷落）。",
+  "audios": [
+   "media/give-someone-the-cold-shoulder-1.mp3",
+   "media/give-someone-the-cold-shoulder-2.mp3",
+   "media/give-someone-the-cold-shoulder-3.mp3"
+  ],
+  "transcripts": [
+   "a bad feeling every time I'm around her. So you're giving her the cold shoulder? Yeah, that is the best way to deal with people like that. This expression...",
+   "Old expressions today is the shoulder. You give someone the cold shoulder when you refuse to speak to them. You ignore them.",
+   "Old can also affect your shoulder. You give someone the cold shoulder when you refuse to speak to them."
+  ],
+  "video": null,
+  "audio": null,
+  "link": null,
+  "link_title": null
+ },
+ {
+  "phrase": "Bigger fish to fry.",
+  "slug": "bigger-fish-to-fry",
+  "sent_at": "2026-10-24 07:55",
+  "literal": "有更大的鱼要煎",
+  "meaning": "有更重要的事要做；顾不上小事",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Can you help me fix this typo?"
+   },
+   {
+    "who": "B",
+    "en": "Sorry — I've got bigger fish to fry right now."
+   }
+  ],
+  "dialog_zh": "能帮我改一下这个错字吗？——抱歉，我现在有更要紧的事。",
+  "tip": "常说 have/got bigger fish to fry；语气可略不客气，注意场合。",
+  "audios": [
+   "media/bigger-fish-to-fry-1.mp3",
+   "media/bigger-fish-to-fry-2.mp3",
+   "media/bigger-fish-to-fry-3.mp3"
+  ],
+  "transcripts": [
+   "Aren't you coming to the meeting in the newsroom? No way. I have bigger fish to fry. What could be more important than the annual meeting?",
+   "The better. Funny enough, the expression to have bigger fish to fry has nothing to do with cooking fish.",
+   "John, do you have a minute to help me with this? Sorry, I have bigger fish to fry. What's keeping you so busy? I have a big project due next week, and I still have a"
+  ],
+  "video": null,
+  "audio": null,
+  "link": null,
+  "link_title": null
  }
 ]

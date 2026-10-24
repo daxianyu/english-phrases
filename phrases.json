@@ -1727,5 +1727,62 @@
   ],
   "dialog_zh": "我要辞职，把钱全投进一家初创公司。——别把所有鸡蛋放进同一个篮子。",
   "tip": "投资、求职、计划都常用；也可以说 put all your eggs in one basket（陈述）。"
+ },
+ {
+  "phrase": "Every cloud has a silver lining.",
+  "slug": "every-cloud-has-a-silver-lining",
+  "sent_at": "2026-10-24 07:55",
+  "literal": "每朵云都有银边",
+  "meaning": "黑暗中总有一线光明；坏事里也有好的一面",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "I got laid off, but now I finally have time to finish my novel."
+   },
+   {
+    "who": "B",
+    "en": "Every cloud has a silver lining."
+   }
+  ],
+  "dialog_zh": "我被裁了，但终于有时间写完小说了。——塞翁失马，焉知非福。",
+  "tip": "安慰别人或自我宽心时常用；也可只说 a silver lining。"
+ },
+ {
+  "phrase": "Give someone the cold shoulder.",
+  "slug": "give-someone-the-cold-shoulder",
+  "sent_at": "2026-10-24 07:55",
+  "literal": "给某人冰冷的肩膀",
+  "meaning": "冷落某人；故意不理睬",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Why is Mia ignoring me at lunch?"
+   },
+   {
+    "who": "B",
+    "en": "She's giving you the cold shoulder after you canceled on her."
+   }
+  ],
+  "dialog_zh": "米娅午饭时怎么不理我？——你放她鸽子了，她在冷落你。",
+  "tip": "带疏远、赌气的语气；也可以说 get the cold shoulder（被冷落）。"
+ },
+ {
+  "phrase": "Bigger fish to fry.",
+  "slug": "bigger-fish-to-fry",
+  "sent_at": "2026-10-24 07:55",
+  "literal": "有更大的鱼要煎",
+  "meaning": "有更重要的事要做；顾不上小事",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Can you help me fix this typo?"
+   },
+   {
+    "who": "B",
+    "en": "Sorry — I've got bigger fish to fry right now."
+   }
+  ],
+  "dialog_zh": "能帮我改一下这个错字吗？——抱歉，我现在有更要紧的事。",
+  "tip": "常说 have/got bigger fish to fry；语气可略不客气，注意场合。"
  }
 ]
