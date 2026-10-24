@@ -1784,5 +1784,62 @@
   ],
   "dialog_zh": "能帮我改一下这个错字吗？——抱歉，我现在有更要紧的事。",
   "tip": "常说 have/got bigger fish to fry；语气可略不客气，注意场合。"
+ },
+ {
+  "phrase": "On thin ice.",
+  "slug": "on-thin-ice",
+  "sent_at": "2026-10-24 15:31",
+  "literal": "在薄冰上",
+  "meaning": "处境危险；快惹麻烦了；如履薄冰",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "I've been late three times this week."
+   },
+   {
+    "who": "B",
+    "en": "You're on thin ice with the boss — one more and you're out."
+   }
+  ],
+  "dialog_zh": "这周我已经迟到三次了。——你在老板那儿已经如履薄冰了——再一次就完了。",
+  "tip": "常说 skating/walking on thin ice；警告别人别再冒险时很常用。"
+ },
+ {
+  "phrase": "Play devil's advocate.",
+  "slug": "play-devils-advocate",
+  "sent_at": "2026-10-24 15:31",
+  "literal": "扮演魔鬼的代言人",
+  "meaning": "故意唱反调；为了讨论更全面而提出反面意见",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Everyone loves this plan. Should we just go ahead?"
+   },
+   {
+    "who": "B",
+    "en": "Let me play devil's advocate — what if the budget runs out?"
+   }
+  ],
+  "dialog_zh": "大家都喜欢这个方案，直接推进吧？——我来唱个反调——万一预算花光了呢？",
+  "tip": "不是骂人邪恶；是为讨论故意提反对意见。也可说 playing devil's advocate。"
+ },
+ {
+  "phrase": "Put something on ice.",
+  "slug": "put-something-on-ice",
+  "sent_at": "2026-10-24 15:31",
+  "literal": "把某物放在冰上",
+  "meaning": "暂时搁置；推迟（计划/项目）",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Can we launch the new feature next week?"
+   },
+   {
+    "who": "B",
+    "en": "Let's put it on ice until after the holidays."
+   }
+  ],
+  "dialog_zh": "下周能上线新功能吗？——先搁一搁，过完节再说。",
+  "tip": "和 on thin ice（处境危险）完全不同；on ice = 暂停/冷冻待用。"
  }
 ]

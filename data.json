@@ -2626,5 +2626,104 @@
   "audio": null,
   "link": null,
   "link_title": null
+ },
+ {
+  "phrase": "On thin ice.",
+  "slug": "on-thin-ice",
+  "sent_at": "2026-10-24 15:31",
+  "literal": "在薄冰上",
+  "meaning": "处境危险；快惹麻烦了；如履薄冰",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "I've been late three times this week."
+   },
+   {
+    "who": "B",
+    "en": "You're on thin ice with the boss — one more and you're out."
+   }
+  ],
+  "dialog_zh": "这周我已经迟到三次了。——你在老板那儿已经如履薄冰了——再一次就完了。",
+  "tip": "常说 skating/walking on thin ice；警告别人别再冒险时很常用。",
+  "audios": [
+   "media/on-thin-ice-1.mp3",
+   "media/on-thin-ice-2.mp3",
+   "media/on-thin-ice-3.mp3"
+  ],
+  "transcripts": [
+   "You could even drown. So, the expression skating on thin ice serves as a warning. For example, if...",
+   "What's the do we saw? I want to know. Now keep today's expression, skating on thin ice in mind, and let's hear the conversation again. I don't...",
+   "Absolutely not. Vincent realizes that he is now on thin ice with both women. He is not really in danger."
+  ],
+  "video": null,
+  "audio": null,
+  "link": null,
+  "link_title": null
+ },
+ {
+  "phrase": "Play devil's advocate.",
+  "slug": "play-devils-advocate",
+  "sent_at": "2026-10-24 15:31",
+  "literal": "扮演魔鬼的代言人",
+  "meaning": "故意唱反调；为了讨论更全面而提出反面意见",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Everyone loves this plan. Should we just go ahead?"
+   },
+   {
+    "who": "B",
+    "en": "Let me play devil's advocate — what if the budget runs out?"
+   }
+  ],
+  "dialog_zh": "大家都喜欢这个方案，直接推进吧？——我来唱个反调——万一预算花光了呢？",
+  "tip": "不是骂人邪恶；是为讨论故意提反对意见。也可说 playing devil's advocate。",
+  "audios": [
+   "media/play-devils-advocate-1.mp3",
+   "media/play-devils-advocate-2.mp3",
+   "media/play-devils-advocate-3.mp3"
+  ],
+  "transcripts": [
+   "It has a lot of meaning in just two words. When you play devil's advocate, you say things you do not really believe, just to start an argument.",
+   "Total real-time pandemic is a great experience. Playing devil's advocate here. Total real-time pandemic is a great experience. Some people...",
+   "with you. Could you go totally with a pande uni marie right there? Playing devil's advocate. Totally with a pande uni marie jamion. You don't have to mess with me with the meat. Even a moon."
+  ],
+  "video": null,
+  "audio": null,
+  "link": null,
+  "link_title": null
+ },
+ {
+  "phrase": "Put something on ice.",
+  "slug": "put-something-on-ice",
+  "sent_at": "2026-10-24 15:31",
+  "literal": "把某物放在冰上",
+  "meaning": "暂时搁置；推迟（计划/项目）",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Can we launch the new feature next week?"
+   },
+   {
+    "who": "B",
+    "en": "Let's put it on ice until after the holidays."
+   }
+  ],
+  "dialog_zh": "下周能上线新功能吗？——先搁一搁，过完节再说。",
+  "tip": "和 on thin ice（处境危险）完全不同；on ice = 暂停/冷冻待用。",
+  "audios": [
+   "media/put-something-on-ice-1.mp3",
+   "media/put-something-on-ice-2.mp3",
+   "media/put-something-on-ice-3.mp3"
+  ],
+  "transcripts": [
+   "So you decide to put your warning on ice. To put something on ice means to suspend action on something. A temporary...",
+   "In fact, today a co-worker asked me to put my project on ice. So I would have time to help her with today's lesson.",
+   "oxygen to organs until they can be recovered and put on ice. But the new method would take hearts from medical..."
+  ],
+  "video": null,
+  "audio": null,
+  "link": null,
+  "link_title": null
  }
 ]
