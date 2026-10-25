@@ -2725,5 +2725,104 @@
   "audio": null,
   "link": null,
   "link_title": null
+ },
+ {
+  "phrase": "Rain on someone's parade.",
+  "slug": "rain-on-someones-parade",
+  "sent_at": "2026-10-25 08:00",
+  "literal": "在某人游行上下雨",
+  "meaning": "扫某人兴；泼冷水",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "I just got the internship — I'm so excited!"
+   },
+   {
+    "who": "B",
+    "en": "I hate to rain on your parade, but have you checked the pay?"
+   }
+  ],
+  "dialog_zh": "我拿到实习了，太兴奋了！——不想扫你的兴，不过你查过薪水吗？",
+  "tip": "固定搭配，一般不说 rain on my picnic；常带 I hate to… 表示不得不扫兴。",
+  "audios": [
+   "media/rain-on-someones-parade-1.mp3",
+   "media/rain-on-someones-parade-2.mp3",
+   "media/rain-on-someones-parade-3.mp3"
+  ],
+  "transcripts": [
+   "A worst thing to happen on Parade Day is rain. To rain on someone's parade is to ruin something for someone else.",
+   "That is why the expression to rain on someone's parade means we lessen someone's excitement or f-",
+   "Contest was last week. No! The expression to rain on someone's parade means to ruin someone's good time. If someone rains on you..."
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://learningenglish.voanews.com/a/indepedence-day/2846698.html",
+  "link_title": "Words and Their Stories: Independence Day"
+ },
+ {
+  "phrase": "Save for a rainy day.",
+  "slug": "save-for-a-rainy-day",
+  "sent_at": "2026-10-25 08:00",
+  "literal": "为雨天存着",
+  "meaning": "未雨绸缪；存钱备用",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Should I spend my bonus on a new phone?"
+   },
+   {
+    "who": "B",
+    "en": "Maybe save some for a rainy day — you never know."
+   }
+  ],
+  "dialog_zh": "奖金要不要花在新手机上？——留一点以备不时之需吧，谁说得准。",
+  "tip": "rainy day 这里不是字面雨天，而是紧急/困难时期；常指存钱。",
+  "audios": [
+   "media/save-for-a-rainy-day-1.mp3",
+   "media/save-for-a-rainy-day-2.mp3",
+   "media/save-for-a-rainy-day-3.mp3"
+  ],
+  "transcripts": [
+   "the weight before you can do it. In comparison, when you save something for a rainy day, you choose to put it safely away for future use.",
+   "Spend like there's no tomorrow? Or do you believe in saving for a rainy day? Use our comment section to practice some of the idioms you heard in the video.",
+   "Save something for a rainy day."
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://learningenglish.voanews.com/a/words-and-their-stories-rain-rain-go-away/3789183.html",
+  "link_title": "Words and Their Stories: Rain, Rain, Go Away"
+ },
+ {
+  "phrase": "Take it with a grain of salt.",
+  "slug": "take-it-with-a-grain-of-salt",
+  "sent_at": "2026-10-25 08:00",
+  "literal": "加一粒盐来接受",
+  "meaning": "半信半疑；别全信",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "He said the project will finish next week."
+   },
+   {
+    "who": "B",
+    "en": "I'd take that with a grain of salt — he's always optimistic."
+   }
+  ],
+  "dialog_zh": "他说项目下周就能完成。——这话我半信半疑，他一向过于乐观。",
+  "tip": "也可说 with a pinch of salt；强调保留怀疑，不是完全否定。",
+  "audios": [
+   "media/take-it-with-a-grain-of-salt-1.mp3",
+   "media/take-it-with-a-grain-of-salt-2.mp3",
+   "media/take-it-with-a-grain-of-salt-3.mp3"
+  ],
+  "transcripts": [
+   "away. But these stories about bad luck should be taken with a grain of salt. In other words, listen to a story or an explanation with",
+   "that seemed bigger than life. So we had to take it with a grain of salt. That is, we could not believe everything he told us.",
+   "city and become a poet. I take this information with a grain of salt. I've heard these kinds of plans from him before."
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://learningenglish.voanews.com/a/salt-is-more-than-a-four-letter-word/2545883.html",
+  "link_title": "Salt Is More Than a Four-Letter Word"
  }
 ]
