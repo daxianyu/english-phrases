@@ -2824,5 +2824,104 @@
   "audio": null,
   "link": "https://learningenglish.voanews.com/a/salt-is-more-than-a-four-letter-word/2545883.html",
   "link_title": "Salt Is More Than a Four-Letter Word"
+ },
+ {
+  "phrase": "The elephant in the room.",
+  "slug": "the-elephant-in-the-room",
+  "sent_at": "2026-10-25 15:35",
+  "literal": "房间里的大象",
+  "meaning": "大家都心知肚明却故意不谈的明显问题",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Everyone keeps talking about next quarter's goals."
+   },
+   {
+    "who": "B",
+    "en": "Yeah, but the elephant in the room is that we're losing customers."
+   }
+  ],
+  "dialog_zh": "大家都在谈下季度目标。——可房间里的大象是：我们正在丢客户。",
+  "tip": "不是真有大象；指明显却被回避的尴尬/重大问题。常说 the elephant in the room。",
+  "audios": [
+   "media/the-elephant-in-the-room-1.mp3",
+   "media/the-elephant-in-the-room-2.mp3",
+   "media/the-elephant-in-the-room-3.mp3"
+  ],
+  "transcripts": [
+   "Just sit there and nod your head like I do. But nobody is willing to talk about the elephant in the room. What elephant? The fact that our company has no",
+   "to continue, often used in negative statements. Elephant in the room, idiom, an obvious problem or difficult situation.",
+   "Elephant in the room."
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://learningenglish.voanews.com/a/2741426.html",
+  "link_title": "English in a Minute: Elephant in the Room"
+ },
+ {
+  "phrase": "The whole nine yards.",
+  "slug": "the-whole-nine-yards",
+  "sent_at": "2026-10-25 15:35",
+  "literal": "整整九码",
+  "meaning": "全部；一应俱全；做到极致",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "What did you get for the party?"
+   },
+   {
+    "who": "B",
+    "en": "Cake, balloons, a DJ — the whole nine yards."
+   }
+  ],
+  "dialog_zh": "派对你准备了什么？——蛋糕、气球、DJ——全套配齐。",
+  "tip": "意思是 everything / the full package；出处众说纷纭，日常当「全套」用即可。",
+  "audios": [
+   "media/the-whole-nine-yards-1.mp3",
+   "media/the-whole-nine-yards-2.mp3",
+   "media/the-whole-nine-yards-3.mp3"
+  ],
+  "transcripts": [
+   "measurement that's almost the same as a meter. But what does the whole nine yards mean? Dan, I'm going camping this weekend.",
+   "Sure, if this is the origin, the origin of the whole nine yards is even more mysterious. It could come from the military.",
+   "house and we have a dock and we have a retail store, we have a meeting space, you know, the whole nine yards. Even though we can't meet in."
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://learningenglish.voanews.com/a/6859675.html",
+  "link_title": "English in a Minute: The Whole Nine Yards"
+ },
+ {
+  "phrase": "Throw caution to the wind.",
+  "slug": "throw-caution-to-the-wind",
+  "sent_at": "2026-10-25 15:35",
+  "literal": "把谨慎扔进风里",
+  "meaning": "不顾风险；豁出去；大胆一试",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Should we stick to the safe plan?"
+   },
+   {
+    "who": "B",
+    "en": "Let's throw caution to the wind and try something new."
+   }
+  ],
+  "dialog_zh": "要不要还是走稳妥方案？——不如豁出去，试试新的。",
+  "tip": "强调不顾后果地冒险；也可说 throwing/threw caution to the wind。",
+  "audios": [
+   "media/throw-caution-to-the-wind-1.mp3",
+   "media/throw-caution-to-the-wind-2.mp3",
+   "media/throw-caution-to-the-wind-3.mp3"
+  ],
+  "transcripts": [
+   "Like these feathers, they blow away. But what happens when you throw caution to the wind? Let's listen. Dan, I heard you are fine.",
+   "with my friends and family. Now people who throw caution to the wind take a chance.",
+   "Throw caution to the wind."
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://learningenglish.voanews.com/a/6869436.html",
+  "link_title": "English in a Minute: Throw Caution to the Wind"
  }
 ]

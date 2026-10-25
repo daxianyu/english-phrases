@@ -1898,5 +1898,62 @@
     ],
     "dialog_zh": "他说项目下周就能完成。——这话我半信半疑，他一向过于乐观。",
     "tip": "也可说 with a pinch of salt；强调保留怀疑，不是完全否定。"
+  },
+  {
+    "phrase": "The elephant in the room.",
+    "slug": "the-elephant-in-the-room",
+    "sent_at": "2026-10-25 15:35",
+    "literal": "房间里的大象",
+    "meaning": "大家都心知肚明却故意不谈的明显问题",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "Everyone keeps talking about next quarter's goals."
+      },
+      {
+        "who": "B",
+        "en": "Yeah, but the elephant in the room is that we're losing customers."
+      }
+    ],
+    "dialog_zh": "大家都在谈下季度目标。——可房间里的大象是：我们正在丢客户。",
+    "tip": "不是真有大象；指明显却被回避的尴尬/重大问题。常说 the elephant in the room。"
+  },
+  {
+    "phrase": "The whole nine yards.",
+    "slug": "the-whole-nine-yards",
+    "sent_at": "2026-10-25 15:35",
+    "literal": "整整九码",
+    "meaning": "全部；一应俱全；做到极致",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "What did you get for the party?"
+      },
+      {
+        "who": "B",
+        "en": "Cake, balloons, a DJ — the whole nine yards."
+      }
+    ],
+    "dialog_zh": "派对你准备了什么？——蛋糕、气球、DJ——全套配齐。",
+    "tip": "意思是 everything / the full package；出处众说纷纭，日常当「全套」用即可。"
+  },
+  {
+    "phrase": "Throw caution to the wind.",
+    "slug": "throw-caution-to-the-wind",
+    "sent_at": "2026-10-25 15:35",
+    "literal": "把谨慎扔进风里",
+    "meaning": "不顾风险；豁出去；大胆一试",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "Should we stick to the safe plan?"
+      },
+      {
+        "who": "B",
+        "en": "Let's throw caution to the wind and try something new."
+      }
+    ],
+    "dialog_zh": "要不要还是走稳妥方案？——不如豁出去，试试新的。",
+    "tip": "强调不顾后果地冒险；也可说 throwing/threw caution to the wind。"
   }
 ]
