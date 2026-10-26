@@ -3020,5 +3020,104 @@
   "audio": null,
   "link": "https://learningenglish.voanews.com/a/words-and-their-stories-as-american-as-apple-pie/3418476.html",
   "link_title": "'As American as Apple Pie'"
+ },
+ {
+  "phrase": "Get a taste of your own medicine.",
+  "slug": "get-a-taste-of-your-own-medicine",
+  "sent_at": "2026-10-26 15:30",
+  "literal": "尝尝你自己的药",
+  "meaning": "自食其果；让某人尝尝自己惯用手段的滋味（常指以其人之道还治其人之身）",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "He always mocks people for being late — and today he missed the meeting."
+   },
+   {
+    "who": "B",
+    "en": "Good. Now he can get a taste of his own medicine."
+   }
+  ],
+  "dialog_zh": "他老是嘲笑别人迟到——结果今天他自己没赶上会。——好啊。这下他也该尝尝自己惯用的那一套了。",
+  "tip": "也常说 a taste of one's own medicine / give someone a taste of their own medicine；偏报复或反讽语气。",
+  "audios": [
+   "media/get-a-taste-of-your-own-medicine-1.mp3",
+   "media/get-a-taste-of-your-own-medicine-2.mp3",
+   "media/get-a-taste-of-your-own-medicine-3.mp3"
+  ],
+  "transcripts": [
+   "Only for that patient, no one else. Giving someone a taste of their own medicine sounds like the right thing to do.",
+   "not what this expression means. When you give someone a taste of their own medicine, you treat them as they have treated you.",
+   "Something really important to him and then never show up. Having a taste of his own medicine might help, but you know we'll never do that. I know."
+  ],
+  "video": null,
+  "audio": null,
+  "link": null,
+  "link_title": null
+ },
+ {
+  "phrase": "Go on a wild goose chase.",
+  "slug": "go-on-a-wild-goose-chase",
+  "sent_at": "2026-10-26 15:30",
+  "literal": "去追野鹅",
+  "meaning": "徒劳无功的追寻；白跑一趟、白忙一场",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "I spent three hours looking for that old warehouse downtown."
+   },
+   {
+    "who": "B",
+    "en": "Sounds like you went on a wild goose chase — it closed years ago."
+   }
+  ],
+  "dialog_zh": "我在市中心找那栋旧仓库找了三个小时。——听着像白忙一场——那地方几年前就关了。",
+  "tip": "名词短语 a wild goose chase 更常见；也可说 send someone on a wild goose chase。",
+  "audios": [
+   "media/go-on-a-wild-goose-chase-1.mp3",
+   "media/go-on-a-wild-goose-chase-2.mp3",
+   "media/go-on-a-wild-goose-chase-3.mp3"
+  ],
+  "transcripts": [
+   "That sounds fun, or maybe not. It was a wild goose chase. He wants a big place. She wants a small place. He wants city.",
+   "I wanted to buy something to eat, but that turned out to be a wild goose chase. This theater does not have any food. I thought you...",
+   "Did they find a place? No. In fact, they decided to wait. A wild goose chase is a search for the impossible. The expression comes from Shakespeare's"
+  ],
+  "video": null,
+  "audio": null,
+  "link": null,
+  "link_title": null
+ },
+ {
+  "phrase": "A perfect storm.",
+  "slug": "a-perfect-storm",
+  "sent_at": "2026-10-26 15:30",
+  "literal": "一场完美的风暴",
+  "meaning": "多种不利因素同时叠加造成的最坏局面；危机的叠加",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Why did the launch fail so badly?"
+   },
+   {
+    "who": "B",
+    "en": "Budget cuts, a key engineer quitting, and a server outage — a perfect storm."
+   }
+  ],
+  "dialog_zh": "这次上线怎么砸得这么惨？——预算砍了、核心工程师离职、再加上服务器宕机——多种倒霉事撞在一起了。",
+  "tip": "比喻用法居多；可说 create / face a perfect storm；源自多种气象条件同时出现。",
+  "audios": [
+   "media/a-perfect-storm-1.mp3",
+   "media/a-perfect-storm-2.mp3",
+   "media/a-perfect-storm-3.mp3"
+  ],
+  "transcripts": [
+   "So taking something by storm is a good thing, but a perfect storm is not. In the world of weather, a perfect storm...",
+   "on a trip and you are very excited. You have no idea that a perfect storm is building to ruin your vacation. First, the city where you're",
+   "He called the problems facing the Horn of Africa a perfect storm on top of a perfect storm, a tsunami on top of a..."
+  ],
+  "video": null,
+  "audio": null,
+  "link": null,
+  "link_title": null
  }
 ]
