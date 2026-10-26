@@ -1955,5 +1955,62 @@
     ],
     "dialog_zh": "要不要还是走稳妥方案？——不如豁出去，试试新的。",
     "tip": "强调不顾后果地冒险；也可说 throwing/threw caution to the wind。"
+  },
+  {
+    "phrase": "You can't judge a book by its cover.",
+    "slug": "you-cant-judge-a-book-by-its-cover",
+    "sent_at": "2026-10-26 08:00",
+    "literal": "你不能凭封面判断一本书",
+    "meaning": "不能只凭外表判断人或事物；别以貌取人",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "He looks messy — can he really handle this project?"
+      },
+      {
+        "who": "B",
+        "en": "You can't judge a book by its cover. He's one of our best engineers."
+      }
+    ],
+    "dialog_zh": "他看着挺邋遢——真能扛这个项目？——人不可貌相。他可是我们最强的工程师之一。",
+    "tip": "常说 You can't / Don't judge a book by its cover；指外表≠实质。"
+  },
+  {
+    "phrase": "Actions speak louder than words.",
+    "slug": "actions-speak-louder-than-words",
+    "sent_at": "2026-10-26 08:00",
+    "literal": "行动比言语更响亮",
+    "meaning": "行动胜于空谈；看你做什么比听你说什么更重要",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "He keeps promising he'll help this weekend."
+      },
+      {
+        "who": "B",
+        "en": "We'll see. Actions speak louder than words."
+      }
+    ],
+    "dialog_zh": "他一直说周末会来帮忙。——走着瞧吧。行动比嘴巴响。",
+    "tip": "强调用行动证明；也可说 Actions speak louder than words. 作整句谚语。"
+  },
+  {
+    "phrase": "Comparing apples to oranges.",
+    "slug": "comparing-apples-to-oranges",
+    "sent_at": "2026-10-26 08:00",
+    "literal": "把苹果和橙子拿来比",
+    "meaning": "把两个本质不同的事物硬作比较；毫无意义的对比",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "Our app has fewer users than that social network."
+      },
+      {
+        "who": "B",
+        "en": "That's comparing apples to oranges — we're a niche tool, not a social platform."
+      }
+    ],
+    "dialog_zh": "我们的应用用户比那个社交网络少。——这是拿苹果比橙子——我们是小众工具，不是社交平台。",
+    "tip": "也常说 comparing apples and oranges / that's apples and oranges；指不可比。"
   }
 ]
