@@ -2126,5 +2126,62 @@
     ],
     "dialog_zh": "我想辞职又想照拿工资。——鱼与熊掌不可兼得。",
     "tip": "美式常说 have your cake and eat it too；英式语序有时是 eat your cake and have it；否定句最常见。"
+  },
+  {
+    "phrase": "When pigs fly.",
+    "slug": "when-pigs-fly",
+    "sent_at": "2026-10-27 15:30",
+    "literal": "猪会飞的时候",
+    "meaning": "绝不可能；除非太阳从西边出来",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "Do you think he'll finally clean his room this weekend?"
+      },
+      {
+        "who": "B",
+        "en": "Yeah, when pigs fly."
+      }
+    ],
+    "dialog_zh": "你觉得他这周末终于会打扫房间吗？——会啊，等猪飞起来那天吧。",
+    "tip": "讽刺语气强；也说 That'll happen when pigs fly.；类似中文「除非太阳从西边出来」。"
+  },
+  {
+    "phrase": "Break the bank.",
+    "slug": "break-the-bank",
+    "sent_at": "2026-10-27 15:30",
+    "literal": "把银行弄破产",
+    "meaning": "花光所有钱；昂贵到倾家荡产（也有赌博语境）",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "This restaurant looks fancy — can we afford it?"
+      },
+      {
+        "who": "B",
+        "en": "Don't worry, it won't break the bank."
+      }
+    ],
+    "dialog_zh": "这家餐厅看着挺高档——我们吃得起吗？——别担心，不会花到倾家荡产。",
+    "tip": "否定句 won't break the bank 极常见，表示「不太贵」；肯定句可指赌输或花光钱。"
+  },
+  {
+    "phrase": "Burn the midnight oil.",
+    "slug": "burn-the-midnight-oil",
+    "sent_at": "2026-10-27 15:30",
+    "literal": "烧掉午夜的油灯",
+    "meaning": "熬夜苦干；挑灯夜战",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "You look exhausted. What happened?"
+      },
+      {
+        "who": "B",
+        "en": "I had to burn the midnight oil to finish the report."
+      }
+    ],
+    "dialog_zh": "你看起来累坏了。怎么了？——我得熬夜把报告赶完。",
+    "tip": "burn / burned / burnt the midnight oil 均可；强调为工作或学习而熬夜，不是单纯晚睡。"
   }
 ]

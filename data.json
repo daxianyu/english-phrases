@@ -3216,5 +3216,104 @@
   "audio": null,
   "link": null,
   "link_title": null
+ },
+ {
+  "phrase": "When pigs fly.",
+  "slug": "when-pigs-fly",
+  "sent_at": "2026-10-27 15:30",
+  "literal": "猪会飞的时候",
+  "meaning": "绝不可能；除非太阳从西边出来",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Do you think he'll finally clean his room this weekend?"
+   },
+   {
+    "who": "B",
+    "en": "Yeah, when pigs fly."
+   }
+  ],
+  "dialog_zh": "你觉得他这周末终于会打扫房间吗？——会啊，等猪飞起来那天吧。",
+  "tip": "讽刺语气强；也说 That'll happen when pigs fly.；类似中文「除非太阳从西边出来」。",
+  "audios": [
+   "media/when-pigs-fly-1.mp3",
+   "media/when-pigs-fly-2.mp3",
+   "media/when-pigs-fly-3.mp3"
+  ],
+  "transcripts": [
+   "This is what's trending today. Have you ever heard the expression, when pigs fly? It is a saying people use to express that something is",
+   "posters, might tell a friend, I'll go on that ride with you when pigs fly. Well, one pig in San Francisco may not be flying.",
+   "in my two hands, so they clearly understand how to improve the time. When pigs fly, people use this to express that something is very unlikely to happen, as a..."
+  ],
+  "video": null,
+  "audio": null,
+  "link": null,
+  "link_title": null
+ },
+ {
+  "phrase": "Break the bank.",
+  "slug": "break-the-bank",
+  "sent_at": "2026-10-27 15:30",
+  "literal": "把银行弄破产",
+  "meaning": "花光所有钱；昂贵到倾家荡产（也有赌博语境）",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "This restaurant looks fancy — can we afford it?"
+   },
+   {
+    "who": "B",
+    "en": "Don't worry, it won't break the bank."
+   }
+  ],
+  "dialog_zh": "这家餐厅看着挺高档——我们吃得起吗？——别担心，不会花到倾家荡产。",
+  "tip": "否定句 won't break the bank 极常见，表示「不太贵」；肯定句可指赌输或花光钱。",
+  "audios": [
+   "media/break-the-bank-1.mp3",
+   "media/break-the-bank-2.mp3",
+   "media/break-the-bank-3.mp3"
+  ],
+  "transcripts": [
+   "game. He liked to tell me that one day he would break the bank. What a feeling it must be to win all of the money at a",
+   "Have you ever been shopping and heard someone say, I don't want to break the bank? This is a simple phrase that you can easily add to your American ain't-",
+   "Very expensive, way too much for me. I can't afford it and I don't want to break the bank. This phrase means to use up all of your money and it comes"
+  ],
+  "video": null,
+  "audio": null,
+  "link": null,
+  "link_title": null
+ },
+ {
+  "phrase": "Burn the midnight oil.",
+  "slug": "burn-the-midnight-oil",
+  "sent_at": "2026-10-27 15:30",
+  "literal": "烧掉午夜的油灯",
+  "meaning": "熬夜苦干；挑灯夜战",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "You look exhausted. What happened?"
+   },
+   {
+    "who": "B",
+    "en": "I had to burn the midnight oil to finish the report."
+   }
+  ],
+  "dialog_zh": "你看起来累坏了。怎么了？——我得熬夜把报告赶完。",
+  "tip": "burn / burned / burnt the midnight oil 均可；强调为工作或学习而熬夜，不是单纯晚睡。",
+  "audios": [
+   "media/burn-the-midnight-oil-1.mp3",
+   "media/burn-the-midnight-oil-2.mp3",
+   "media/burn-the-midnight-oil-3.mp3"
+  ],
+  "transcripts": [
+   "American English is confusing and hard to understand, like... Burn the midnight oil. Everybody knows Americans burn a lot of oil, but is there a...",
+   "Take exam tomorrow. Are you prepared? No, not at all. I have to burn the midnight oil. I need to do well on this exam. Americans are not burning. Special oil res-",
+   "Exact tomorrow. Are you prepared? No, not at all. I have to burn the midnight oil. I need to do well in this exam. Puminosos."
+  ],
+  "video": null,
+  "audio": null,
+  "link": null,
+  "link_title": null
  }
 ]
