@@ -3119,5 +3119,102 @@
   "audio": null,
   "link": null,
   "link_title": null
+ },
+ {
+  "phrase": "The devil is in the details.",
+  "slug": "the-devil-is-in-the-details",
+  "sent_at": "2026-10-27 08:00",
+  "literal": "细节里有魔鬼",
+  "meaning": "关键往往出在细节上；事情看起来简单，真正难的是细节",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "The plan looks solid overall."
+   },
+   {
+    "who": "B",
+    "en": "Maybe — but the devil is in the details."
+   }
+  ],
+  "dialog_zh": "整体计划看起来挺靠谱。——也许吧——但关键往往出在细节上。",
+  "tip": "也常说 the devil's in the details；强调落实/核对细节时用。",
+  "audios": [
+   "media/the-devil-is-in-the-details-1.mp3",
+   "media/the-devil-is-in-the-details-2.mp3",
+   "media/the-devil-is-in-the-details-3.mp3"
+  ],
+  "transcripts": [
+   "I see indicates they're trying to do the right thing, but the devil is in the details,\" he said. I'm brought",
+   "It all sounds very good, but as is often the case, the devil is in the details.",
+   "Devil is in the details."
+  ],
+  "video": null,
+  "audio": null,
+  "link": null,
+  "link_title": null
+ },
+ {
+  "phrase": "There are other fish in the sea.",
+  "slug": "there-are-other-fish-in-the-sea",
+  "sent_at": "2026-10-27 08:00",
+  "literal": "海里还有别的鱼",
+  "meaning": "天涯何处无芳草；失去一个人/机会后还有很多别的选择（常用于安慰失恋）",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "I can't believe she dumped me."
+   },
+   {
+    "who": "B",
+    "en": "Cheer up — there are other fish in the sea."
+   }
+  ],
+  "dialog_zh": "真不敢相信她甩了我。——振作点——天涯何处无芳草。",
+  "tip": "安慰失恋/错过机会时很常见；语气轻松，别用在对方刚受重创时显得轻飘。",
+  "audios": [
+   "media/there-are-other-fish-in-the-sea-1.mp3",
+   "media/there-are-other-fish-in-the-sea-2.mp3"
+  ],
+  "transcripts": [
+   "to worry she will find another one because there are plenty of other fish in the sea.",
+   "Other fish in the sea."
+  ],
+  "video": null,
+  "audio": null,
+  "link": null,
+  "link_title": null
+ },
+ {
+  "phrase": "You can't have your cake and eat it too.",
+  "slug": "you-cant-have-your-cake-and-eat-it-too",
+  "sent_at": "2026-10-27 08:00",
+  "literal": "你不能既留着蛋糕又把它吃掉",
+  "meaning": "鱼与熊掌不可兼得；不能同时拥有相互冲突的好处",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "I want to quit my job and still keep the salary."
+   },
+   {
+    "who": "B",
+    "en": "You can't have your cake and eat it too."
+   }
+  ],
+  "dialog_zh": "我想辞职又想照拿工资。——鱼与熊掌不可兼得。",
+  "tip": "美式常说 have your cake and eat it too；英式语序有时是 eat your cake and have it；否定句最常见。",
+  "audios": [
+   "media/you-cant-have-your-cake-and-eat-it-too-1.mp3",
+   "media/you-cant-have-your-cake-and-eat-it-too-2.mp3",
+   "media/you-cant-have-your-cake-and-eat-it-too-3.mp3"
+  ],
+  "transcripts": [
+   "also commonly use it in the negative form. You can't have your cake and eat it too. When the negative, it means you can't have your cake and eat it too.",
+   "He provides. You could say to him, look, you can't have your cake and eat it too. Better services cost money.",
+   "A cake has brought my attention to a common expression, to have your cake and eat it too. This expression, or idiom, can be used as a"
+  ],
+  "video": null,
+  "audio": null,
+  "link": null,
+  "link_title": null
  }
 ]
