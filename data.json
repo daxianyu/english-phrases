@@ -3414,5 +3414,104 @@
   "audio": null,
   "link": null,
   "link_title": null
+ },
+ {
+  "phrase": "In hot water.",
+  "slug": "in-hot-water",
+  "sent_at": "2026-10-28 15:30",
+  "literal": "在热水里",
+  "meaning": "陷入麻烦；处境不妙",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "I forgot to turn in the report."
+   },
+   {
+    "who": "B",
+    "en": "You're in hot water with the boss now."
+   }
+  ],
+  "dialog_zh": "我忘了交报告。——你这下在老板那儿麻烦大了。",
+  "tip": "be/get in hot water (with someone)；表示因做错事而惹上麻烦。",
+  "audios": [
+   "media/in-hot-water-1.mp3",
+   "media/in-hot-water-2.mp3",
+   "media/in-hot-water-3.mp3"
+  ],
+  "transcripts": [
+   "A more descriptive water expression. When you are in hot water, you are in deep trouble. I mean you have",
+   "Of course, that is no longer a custom, but we still use the expression in hot water. Okay, so when we are in hot water, we are...",
+   "after someone stole his wallet and passport. Being in hot water is almost the same as being in deep water."
+  ],
+  "video": null,
+  "audio": null,
+  "link": null,
+  "link_title": null
+ },
+ {
+  "phrase": "Keep an eye on.",
+  "slug": "keep-an-eye-on",
+  "sent_at": "2026-10-28 15:30",
+  "literal": "把眼睛放在…上",
+  "meaning": "留意看着；照看",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Can you keep an eye on my bag?"
+   },
+   {
+    "who": "B",
+    "en": "Sure, go ahead."
+   }
+  ],
+  "dialog_zh": "能帮我看着包吗？——没问题，你去吧。",
+  "tip": "keep an eye on someone/something = watch carefully；也可说 keep one's eye on。",
+  "audios": [
+   "media/keep-an-eye-on-1.mp3",
+   "media/keep-an-eye-on-2.mp3",
+   "media/keep-an-eye-on-3.mp3"
+  ],
+  "transcripts": [
+   "Today at their school, the woman asks the man to keep an eye on or watch the young students in her class while she is...",
+   "Great party, Chuck. Thanks. Hey, can you keep an eye on things here? I need to go and get Natalie. I thought Michael was giving her a ride.",
+   "estate laws and local rules. Members of both major political parties keep an eye on the voting and each other to make sure things go smoothly."
+  ],
+  "video": null,
+  "audio": null,
+  "link": null,
+  "link_title": null
+ },
+ {
+  "phrase": "Lose your cool.",
+  "slug": "lose-your-cool",
+  "sent_at": "2026-10-28 15:30",
+  "literal": "丢掉你的冷静",
+  "meaning": "发脾气；沉不住气",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "The customer was yelling."
+   },
+   {
+    "who": "B",
+    "en": "Don't lose your cool — stay calm."
+   }
+  ],
+  "dialog_zh": "那个顾客在大喊大叫。——别沉不住气，保持冷静。",
+  "tip": "lose one's cool；反义 keep one's cool；指一时失控发火。",
+  "audios": [
+   "media/lose-your-cool-1.mp3",
+   "media/lose-your-cool-2.mp3",
+   "media/lose-your-cool-3.mp3"
+  ],
+  "transcripts": [
+   "You have to keep your cool and do the best you can. Lose your cool.",
+   "Barked all night. I couldn't sleep at all. So I lost my cool and banged at his door.",
+   "a difficult situation. Keeping your cool is the opposite of losing your cool when you might get angry and out of control. And that's"
+  ],
+  "video": null,
+  "audio": null,
+  "link": null,
+  "link_title": null
  }
 ]

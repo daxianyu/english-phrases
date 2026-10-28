@@ -2240,5 +2240,62 @@
     ],
     "dialog_zh": "我们明天要去游乐园。——太好了！玩得开心点！",
     "tip": "口语祝福或事后描述：Have a blast! / We had a blast.；语气轻松愉快。"
+  },
+  {
+    "phrase": "In hot water.",
+    "slug": "in-hot-water",
+    "sent_at": "2026-10-28 15:30",
+    "literal": "在热水里",
+    "meaning": "陷入麻烦；处境不妙",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "I forgot to turn in the report."
+      },
+      {
+        "who": "B",
+        "en": "You're in hot water with the boss now."
+      }
+    ],
+    "dialog_zh": "我忘了交报告。——你这下在老板那儿麻烦大了。",
+    "tip": "be/get in hot water (with someone)；表示因做错事而惹上麻烦。"
+  },
+  {
+    "phrase": "Keep an eye on.",
+    "slug": "keep-an-eye-on",
+    "sent_at": "2026-10-28 15:30",
+    "literal": "把眼睛放在…上",
+    "meaning": "留意看着；照看",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "Can you keep an eye on my bag?"
+      },
+      {
+        "who": "B",
+        "en": "Sure, go ahead."
+      }
+    ],
+    "dialog_zh": "能帮我看着包吗？——没问题，你去吧。",
+    "tip": "keep an eye on someone/something = watch carefully；也可说 keep one's eye on。"
+  },
+  {
+    "phrase": "Lose your cool.",
+    "slug": "lose-your-cool",
+    "sent_at": "2026-10-28 15:30",
+    "literal": "丢掉你的冷静",
+    "meaning": "发脾气；沉不住气",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "The customer was yelling."
+      },
+      {
+        "who": "B",
+        "en": "Don't lose your cool — stay calm."
+      }
+    ],
+    "dialog_zh": "那个顾客在大喊大叫。——别沉不住气，保持冷静。",
+    "tip": "lose one's cool；反义 keep one's cool；指一时失控发火。"
   }
 ]
