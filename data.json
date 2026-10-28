@@ -3315,5 +3315,104 @@
   "audio": null,
   "link": null,
   "link_title": null
+ },
+ {
+  "phrase": "Catch someone red-handed.",
+  "slug": "catch-someone-red-handed",
+  "sent_at": "2026-10-28 08:00",
+  "literal": "当场抓住某人双手还是红的",
+  "meaning": "当场抓住某人做坏事；逮个正着",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "How did they know he was stealing from the till?"
+   },
+   {
+    "who": "B",
+    "en": "The security camera caught him red-handed."
+   }
+  ],
+  "dialog_zh": "他们怎么知道他在偷柜台的钱？——监控把他当场抓了个正着。",
+  "tip": "red-handed 作补语：catch/be caught red-handed；也可说 catch someone in the act。",
+  "audios": [
+   "media/catch-someone-red-handed-1.mp3",
+   "media/catch-someone-red-handed-2.mp3",
+   "media/catch-someone-red-handed-3.mp3"
+  ],
+  "transcripts": [
+   "them red-handed. Many word experts say that caught red-handed comes from a 15th century Scottish expression.",
+   "Russia's government said he had been caught red-handed. Gershkovich was working for the German...",
+   "It had been school? Yes. Just once in high school. But I got caught red-handed by my teacher. So I stopped doing it after that. Oh, ice?"
+  ],
+  "video": null,
+  "audio": null,
+  "link": null,
+  "link_title": null
+ },
+ {
+  "phrase": "Get the hang of it.",
+  "slug": "get-the-hang-of-it",
+  "sent_at": "2026-10-28 08:00",
+  "literal": "抓住它的窍门/挂法",
+  "meaning": "掌握窍门；学会怎么做；上手",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "This software feels so confusing."
+   },
+   {
+    "who": "B",
+    "en": "Give it a week — you'll get the hang of it."
+   }
+  ],
+  "dialog_zh": "这软件感觉好乱。——给它一周，你就上手了。",
+  "tip": "get the hang of something / of it；强调通过练习逐渐熟练，不是瞬间学会。",
+  "audios": [
+   "media/get-the-hang-of-it-1.mp3",
+   "media/get-the-hang-of-it-2.mp3",
+   "media/get-the-hang-of-it-3.mp3"
+  ],
+  "transcripts": [
+   "It looks a little scary to some of you, but there are plenty of people to help you, and most people get the hang of it quickly. You can start slowly with dumbbells, and move up to the...",
+   "She cheams on day. Don't worry, it's done. I just had lunch with him. He said that he finally got the hang of it.",
+   "It seems difficult but it's really easy once you get the hang of it. I'm finally getting the hang of it."
+  ],
+  "video": null,
+  "audio": null,
+  "link": null,
+  "link_title": null
+ },
+ {
+  "phrase": "Have a blast.",
+  "slug": "have-a-blast",
+  "sent_at": "2026-10-28 08:00",
+  "literal": "来一次大爆炸",
+  "meaning": "玩得很开心；玩得超爽",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "We're going to the amusement park tomorrow."
+   },
+   {
+    "who": "B",
+    "en": "Nice! Have a blast!"
+   }
+  ],
+  "dialog_zh": "我们明天要去游乐园。——太好了！玩得开心点！",
+  "tip": "口语祝福或事后描述：Have a blast! / We had a blast.；语气轻松愉快。",
+  "audios": [
+   "media/have-a-blast-1.mp3",
+   "media/have-a-blast-2.mp3",
+   "media/have-a-blast-3.mp3"
+  ],
+  "transcripts": [
+   "The three statements are nearly the same in meaning, with have a blast being the strongest statement of them all.",
+   "a sannoun phrase, as in have lunch, have plans, or have a blast, meaning to have a lot of fun.",
+   "clockwork. All the performances were on time and everyone had a blast. Years ago in Washington, D.C., I"
+  ],
+  "video": null,
+  "audio": null,
+  "link": null,
+  "link_title": null
  }
 ]
