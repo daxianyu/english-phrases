@@ -2297,5 +2297,62 @@
     ],
     "dialog_zh": "那个顾客在大喊大叫。——别沉不住气，保持冷静。",
     "tip": "lose one's cool；反义 keep one's cool；指一时失控发火。"
+  },
+  {
+    "phrase": "Make ends meet.",
+    "slug": "make-ends-meet",
+    "sent_at": "2026-10-29 08:00",
+    "literal": "让两端接上",
+    "meaning": "收入刚够维持生活，勉强维持",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "Money is tight this month."
+      },
+      {
+        "who": "B",
+        "en": "Yeah, we are just making ends meet."
+      }
+    ],
+    "dialog_zh": "A：这个月钱很紧。B：是啊，我们只是勉强维持。",
+    "tip": "常与 just / barely 搭配，强调刚刚够。"
+  },
+  {
+    "phrase": "Pick up the tab.",
+    "slug": "pick-up-the-tab",
+    "sent_at": "2026-10-29 08:00",
+    "literal": "拿起（餐厅）账单",
+    "meaning": "为大家买单，请客",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "Thanks for dinner!"
+      },
+      {
+        "who": "B",
+        "en": "My treat. I will pick up the tab."
+      }
+    ],
+    "dialog_zh": "A：谢谢请客！B：我请。我来买单。",
+    "tip": "tab 指账单；近义还有 foot the bill。"
+  },
+  {
+    "phrase": "Put your foot down.",
+    "slug": "put-your-foot-down",
+    "sent_at": "2026-10-29 08:00",
+    "literal": "把脚踩下去",
+    "meaning": "坚决坚持，不再让步",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "Can I stay out late again?"
+      },
+      {
+        "who": "B",
+        "en": "No. I am putting my foot down this time."
+      }
+    ],
+    "dialog_zh": "A：我能再外出晚回吗？B：不行。这次我要坚决一点。",
+    "tip": "常用 put my/your foot down，表示坚决拒绝。"
   }
 ]

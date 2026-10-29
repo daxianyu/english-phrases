@@ -3513,5 +3513,98 @@
   "audio": null,
   "link": null,
   "link_title": null
+ },
+ {
+  "phrase": "Make ends meet.",
+  "slug": "make-ends-meet",
+  "sent_at": "2026-10-29 08:00",
+  "literal": "让两端接上",
+  "meaning": "收入刚够维持生活，勉强维持",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Money is tight this month."
+   },
+   {
+    "who": "B",
+    "en": "Yeah, we are just making ends meet."
+   }
+  ],
+  "dialog_zh": "A：这个月钱很紧。B：是啊，我们只是勉强维持。",
+  "tip": "常与 just / barely 搭配，强调刚刚够。",
+  "audios": [
+   "media/make-ends-meet-1.mp3",
+   "media/make-ends-meet-2.mp3",
+   "media/make-ends-meet-3.mp3"
+  ],
+  "transcripts": [
+   "If I wasn't able to come into work, it would be hard to make ends meet,\" said Ingham. If he felt sick, he said, he would probably talk to a supervisor about what",
+   "Sarsaki says he has learned to make difficult choices to help make ends meet. People like me, who are average, everyday working people, can have something catastrophic happen.",
+   "formal jobs, working but then also going to soup kitchens to make ends meet. The government of President Alberto Fernandez wants to reduce poverty to help its position before the"
+  ],
+  "video": null,
+  "audio": null,
+  "link": null,
+  "link_title": null
+ },
+ {
+  "phrase": "Pick up the tab.",
+  "slug": "pick-up-the-tab",
+  "sent_at": "2026-10-29 08:00",
+  "literal": "拿起（餐厅）账单",
+  "meaning": "为大家买单，请客",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Thanks for dinner!"
+   },
+   {
+    "who": "B",
+    "en": "My treat. I will pick up the tab."
+   }
+  ],
+  "dialog_zh": "A：谢谢请客！B：我请。我来买单。",
+  "tip": "tab 指账单；近义还有 foot the bill。",
+  "audios": [
+   "media/pick-up-the-tab-1.mp3"
+  ],
+  "transcripts": [
+   "Al paid every time. He would always foot the bill and pick up the tab. He told me the money made him feel like a million dollars. He was very happy."
+  ],
+  "video": null,
+  "audio": null,
+  "link": null,
+  "link_title": null
+ },
+ {
+  "phrase": "Put your foot down.",
+  "slug": "put-your-foot-down",
+  "sent_at": "2026-10-29 08:00",
+  "literal": "把脚踩下去",
+  "meaning": "坚决坚持，不再让步",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Can I stay out late again?"
+   },
+   {
+    "who": "B",
+    "en": "No. I am putting my foot down this time."
+   }
+  ],
+  "dialog_zh": "A：我能再外出晚回吗？B：不行。这次我要坚决一点。",
+  "tip": "常用 put my/your foot down，表示坚决拒绝。",
+  "audios": [
+   "media/put-your-foot-down-1.mp3",
+   "media/put-your-foot-down-2.mp3"
+  ],
+  "transcripts": [
+   "People talk to people, new new friends and all that. But of course when it's time to work, I have to put my foot down and work like a dog. Just make a face. I work and work and work. Yeah. I mean, yeah, you should.",
+   "up to people, new new friends and all that. But of course when it's time to work, I have to put my foot down and work like a dog. That's the best way to face it. I work and work and work. Yeah. I mean, yeah, you should..."
+  ],
+  "video": null,
+  "audio": null,
+  "link": null,
+  "link_title": null
  }
 ]
