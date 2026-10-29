@@ -2354,5 +2354,62 @@
     ],
     "dialog_zh": "A：我能再外出晚回吗？B：不行。这次我要坚决一点。",
     "tip": "常用 put my/your foot down，表示坚决拒绝。"
+  },
+  {
+    "phrase": "Read between the lines.",
+    "slug": "read-between-the-lines",
+    "sent_at": "2026-10-29 15:30",
+    "literal": "在字行之间阅读",
+    "meaning": "领会言外之意；听出弦外之音",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "She said she was fine, but I could tell something was wrong."
+      },
+      {
+        "who": "B",
+        "en": "Yeah, you have to read between the lines."
+      }
+    ],
+    "dialog_zh": "A：她说自己没事，但我看得出有问题。B：是啊，你得听出弦外之音。",
+    "tip": "常指从字面之外推断真实意思；也可说 reading between the lines。"
+  },
+  {
+    "phrase": "Rule of thumb.",
+    "slug": "rule-of-thumb",
+    "sent_at": "2026-10-29 15:30",
+    "literal": "拇指的规则",
+    "meaning": "经验法则；大致可行的简便标准",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "How much tip should I leave?"
+      },
+      {
+        "who": "B",
+        "en": "A good rule of thumb is fifteen to twenty percent."
+      }
+    ],
+    "dialog_zh": "A：我该留多少小费？B：经验法则是百分之十五到二十。",
+    "tip": "常作 a rule of thumb；表示非精确但实用的经验标准。"
+  },
+  {
+    "phrase": "Sit tight.",
+    "slug": "sit-tight",
+    "sent_at": "2026-10-29 15:30",
+    "literal": "坐得紧",
+    "meaning": "耐心等着；先别动；别轻举妄动",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "Should we leave now?"
+      },
+      {
+        "who": "B",
+        "en": "Sit tight. The taxi will be here in five minutes."
+      }
+    ],
+    "dialog_zh": "A：我们现在该走了吗？B：先等着。出租车五分钟就到。",
+    "tip": "口语常用祈使句 Sit tight；语气是安抚、让人耐心等待。"
   }
 ]
