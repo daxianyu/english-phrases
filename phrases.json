@@ -2468,5 +2468,62 @@
     ],
     "dialog_zh": "A：我们什么都试了，还是修不好。B：我们得跳出固有思路。",
     "tip": "商务与创意场合很常见；也可说 thinking outside the box。"
+  },
+  {
+    "phrase": "Up in the air.",
+    "slug": "up-in-the-air",
+    "sent_at": "2026-10-30 15:40",
+    "literal": "在空中",
+    "meaning": "尚未决定；悬而未决",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "Have you decided on a vacation destination yet?"
+      },
+      {
+        "who": "B",
+        "en": "No, our plans are still up in the air."
+      }
+    ],
+    "dialog_zh": "A：你们定好度假去哪儿了吗？B：还没有，计划还悬而未决。",
+    "tip": "常说 still up in the air；指事情还没敲定，不是字面“在天上”。"
+  },
+  {
+    "phrase": "Water under the bridge.",
+    "slug": "water-under-the-bridge",
+    "sent_at": "2026-10-30 15:40",
+    "literal": "桥下的水",
+    "meaning": "过去的事就过去了；不必再计较",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "Sorry about that argument last year."
+      },
+      {
+        "who": "B",
+        "en": "Don't worry. It's water under the bridge."
+      }
+    ],
+    "dialog_zh": "A：去年那次吵架真不好意思。B：别担心，都过去了。",
+    "tip": "强调旧怨不必再提；也可说 that's all water under the bridge。"
+  },
+  {
+    "phrase": "When it rains, it pours.",
+    "slug": "when-it-rains-it-pours",
+    "sent_at": "2026-10-30 15:40",
+    "literal": "一下雨就下大雨",
+    "meaning": "祸不单行；坏事一来就成串",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "I lost my wallet, then my car broke down."
+      },
+      {
+        "who": "B",
+        "en": "When it rains, it pours."
+      }
+    ],
+    "dialog_zh": "A：我丢了钱包，然后车又坏了。B：真是祸不单行。",
+    "tip": "也可用于好事成串；美式拼写 pours，不是 pores。"
   }
 ]
