@@ -2411,5 +2411,62 @@
     ],
     "dialog_zh": "A：我们现在该走了吗？B：先等着。出租车五分钟就到。",
     "tip": "口语常用祈使句 Sit tight；语气是安抚、让人耐心等待。"
+  },
+  {
+    "phrase": "Take something with a pinch of salt.",
+    "slug": "take-something-with-a-pinch-of-salt",
+    "sent_at": "2026-10-30 08:00",
+    "literal": "把某事配一小撮盐一起吃",
+    "meaning": "对某事半信半疑；听着别全当真",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "He said he made a million dollars last year."
+      },
+      {
+        "who": "B",
+        "en": "I would take that with a pinch of salt."
+      }
+    ],
+    "dialog_zh": "A：他说他去年赚了一百万美元。B：这话我可半信半疑。",
+    "tip": "也常说 take it with a grain of salt；pinch 与 grain 都可，美式更常 grain。"
+  },
+  {
+    "phrase": "The tip of the iceberg.",
+    "slug": "the-tip-of-the-iceberg",
+    "sent_at": "2026-10-30 08:00",
+    "literal": "冰山的尖端",
+    "meaning": "只是冰山一角；表面看到的只是问题的一小部分",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "Is the delayed shipment our only problem?"
+      },
+      {
+        "who": "B",
+        "en": "I am afraid that is just the tip of the iceberg."
+      }
+    ],
+    "dialog_zh": "A：延误发货是我们唯一的问题吗？B：恐怕那只是冰山一角。",
+    "tip": "常作 just the tip of the iceberg；强调还有更大、更糟的部分没露出来。"
+  },
+  {
+    "phrase": "Think outside the box.",
+    "slug": "think-outside-the-box",
+    "sent_at": "2026-10-30 08:00",
+    "literal": "在盒子外面思考",
+    "meaning": "跳出固有思路；打破常规想办法",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "We have tried everything and still cannot fix this."
+      },
+      {
+        "who": "B",
+        "en": "We need to think outside the box."
+      }
+    ],
+    "dialog_zh": "A：我们什么都试了，还是修不好。B：我们得跳出固有思路。",
+    "tip": "商务与创意场合很常见；也可说 thinking outside the box。"
   }
 ]
