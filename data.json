@@ -3998,5 +3998,102 @@
   "audio": null,
   "link": null,
   "link_title": null
+ },
+ {
+  "phrase": "Call the shots.",
+  "slug": "call-the-shots",
+  "sent_at": "2026-10-31 15:30",
+  "literal": "发号施令；下达射击口令",
+  "meaning": "做主；拍板；掌控决定权",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Who decides the hiring plan this quarter?"
+   },
+   {
+    "who": "B",
+    "en": "The new VP calls the shots. We just follow her lead."
+   }
+  ],
+  "dialog_zh": "A：这季度招人计划谁说了算？B：新副总拍板，我们听她的。",
+  "tip": "常用 call/calls/calling the shots；强调谁有最终决定权，语气偏口语。",
+  "audios": [
+   "media/call-the-shots-1.mp3",
+   "media/call-the-shots-2.mp3",
+   "media/call-the-shots-3.mp3"
+  ],
+  "transcripts": [
+   "In the replied Monday to a question from VOA President Trump said he calls the shots about when to reopen the country. The U.A.'s White House correspondent had noted that",
+   "NATO on this. Where's the US on this? I think they're on the sidelines. Basically, Russia is calling the shots in this area of the world. I mean, we have basically more or less dial.",
+   "He has no way to be found. So who is running the country right now? Nobody. Well, isn't the military, are they calling the shots right now? They are calling the shots, but are they really internally doing what is supposed to be done?"
+  ],
+  "video": null,
+  "audio": null,
+  "link": null,
+  "link_title": null
+ },
+ {
+  "phrase": "Come clean.",
+  "slug": "come-clean",
+  "sent_at": "2026-10-31 15:30",
+  "literal": "变干净；坦白得干干净净",
+  "meaning": "坦白；如实交代；把话说清楚",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "The client keeps asking about the delay."
+   },
+   {
+    "who": "B",
+    "en": "We should come clean—we missed the deadline."
+   }
+  ],
+  "dialog_zh": "A：客户一直在问为什么延期。B：我们该坦白——是我们没赶上截止日期。",
+  "tip": "常接 about/over something；come/came/coming clean，不是字面「把东西洗干净」。",
+  "audios": [
+   "media/come-clean-1.mp3",
+   "media/come-clean-2.mp3",
+   "media/come-clean-3.mp3"
+  ],
+  "transcripts": [
+   "facing three years in federal prison after cooperating with prosecutors co-insays he's coming clean telegamec news is your step and opolis the president was behind the hush money payments",
+   "He also calls on any public museums that own looted African objects to come clean about where the objects come from and how they ended up in Europe so that they can be returned.",
+   "A new accord should be negotiated. The US has delivered a 60-day ultimatum for Russia to come clean over what it calls Russian treaty violations. President Donald Trump"
+  ],
+  "video": null,
+  "audio": null,
+  "link": null,
+  "link_title": null
+ },
+ {
+  "phrase": "Cross that bridge when you come to it.",
+  "slug": "cross-that-bridge-when-you-come-to-it",
+  "sent_at": "2026-10-31 15:30",
+  "literal": "到了那座桥再过",
+  "meaning": "船到桥头自然直；到时候再说；别过早担心",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "What if the flight gets canceled tomorrow?"
+   },
+   {
+    "who": "B",
+    "en": "We'll cross that bridge when we come to it. For now, pack."
+   }
+  ],
+  "dialog_zh": "A：明天航班要是取消怎么办？B：到时候再说。现在先收拾行李。",
+  "tip": "常说 we'll cross that bridge when we come to it；用来劝人别提前焦虑还没发生的事。",
+  "audios": [
+   "media/cross-that-bridge-when-you-come-to-it-1.mp3",
+   "media/cross-that-bridge-when-you-come-to-it-2.mp3"
+  ],
+  "transcripts": [
+   "could even power an entire town when well we'll cross that bridge when we come to you for Science Nation I'm Miles",
+   "Cross that bridge when one comes to it."
+  ],
+  "video": null,
+  "audio": null,
+  "link": null,
+  "link_title": null
  }
 ]

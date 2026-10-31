@@ -2582,5 +2582,62 @@
     ],
     "dialog_zh": "A：你一直摔门，没事吧？B：上班糟透了，只是想发泄一下。",
     "tip": "也可说 let off steam；指释放压力，不是「吹牛」(blow smoke)。"
+  },
+  {
+    "phrase": "Call the shots.",
+    "slug": "call-the-shots",
+    "sent_at": "2026-10-31 15:30",
+    "literal": "发号施令；下达射击口令",
+    "meaning": "做主；拍板；掌控决定权",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "Who decides the hiring plan this quarter?"
+      },
+      {
+        "who": "B",
+        "en": "The new VP calls the shots. We just follow her lead."
+      }
+    ],
+    "dialog_zh": "A：这季度招人计划谁说了算？B：新副总拍板，我们听她的。",
+    "tip": "常用 call/calls/calling the shots；强调谁有最终决定权，语气偏口语。"
+  },
+  {
+    "phrase": "Come clean.",
+    "slug": "come-clean",
+    "sent_at": "2026-10-31 15:30",
+    "literal": "变干净；坦白得干干净净",
+    "meaning": "坦白；如实交代；把话说清楚",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "The client keeps asking about the delay."
+      },
+      {
+        "who": "B",
+        "en": "We should come clean—we missed the deadline."
+      }
+    ],
+    "dialog_zh": "A：客户一直在问为什么延期。B：我们该坦白——是我们没赶上截止日期。",
+    "tip": "常接 about/over something；come/came/coming clean，不是字面「把东西洗干净」。"
+  },
+  {
+    "phrase": "Cross that bridge when you come to it.",
+    "slug": "cross-that-bridge-when-you-come-to-it",
+    "sent_at": "2026-10-31 15:30",
+    "literal": "到了那座桥再过",
+    "meaning": "船到桥头自然直；到时候再说；别过早担心",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "What if the flight gets canceled tomorrow?"
+      },
+      {
+        "who": "B",
+        "en": "We'll cross that bridge when we come to it. For now, pack."
+      }
+    ],
+    "dialog_zh": "A：明天航班要是取消怎么办？B：到时候再说。现在先收拾行李。",
+    "tip": "常说 we'll cross that bridge when we come to it；用来劝人别提前焦虑还没发生的事。"
   }
 ]
