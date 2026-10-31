@@ -2525,5 +2525,62 @@
     ],
     "dialog_zh": "A：我丢了钱包，然后车又坏了。B：真是祸不单行。",
     "tip": "也可用于好事成串；美式拼写 pours，不是 pores。"
+  },
+  {
+    "phrase": "Zip your lip.",
+    "slug": "zip-your-lip",
+    "sent_at": "2026-10-31 08:00",
+    "literal": "把嘴唇拉上拉链",
+    "meaning": "闭嘴；别说出去；保密",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "Can I tell Mom what we bought her?"
+      },
+      {
+        "who": "B",
+        "en": "No—zip your lip. It's a surprise."
+      }
+    ],
+    "dialog_zh": "A：我能告诉妈妈我们给她买了什么吗？B：不行——闭嘴，这是惊喜。",
+    "tip": "常用于叮嘱别泄密或别多嘴；语气偏口语、略强硬，对长辈要慎用。"
+  },
+  {
+    "phrase": "Bend over backwards.",
+    "slug": "bend-over-backwards",
+    "sent_at": "2026-10-31 08:00",
+    "literal": "向后弯腰",
+    "meaning": "竭尽全力（常为帮助别人）；煞费苦心",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "Did the hotel help with your early check-in?"
+      },
+      {
+        "who": "B",
+        "en": "Yes, they bent over backwards to make us comfortable."
+      }
+    ],
+    "dialog_zh": "A：酒店帮你们提早入住了吗？B：帮了，他们千方百计让我们住得舒服。",
+    "tip": "bend/bent over backwards；强调付出超出寻常的努力，常接 to do something。"
+  },
+  {
+    "phrase": "Blow off steam.",
+    "slug": "blow-off-steam",
+    "sent_at": "2026-10-31 08:00",
+    "literal": "放掉蒸汽",
+    "meaning": "发泄情绪；消消气（如运动、大喊）",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "You're slamming doors. Everything okay?"
+      },
+      {
+        "who": "B",
+        "en": "Rough day at work. I just need to blow off steam."
+      }
+    ],
+    "dialog_zh": "A：你一直摔门，没事吧？B：上班糟透了，只是想发泄一下。",
+    "tip": "也可说 let off steam；指释放压力，不是「吹牛」(blow smoke)。"
   }
 ]

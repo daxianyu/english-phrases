@@ -3903,5 +3903,100 @@
   "audio": null,
   "link": null,
   "link_title": null
+ },
+ {
+  "phrase": "Zip your lip.",
+  "slug": "zip-your-lip",
+  "sent_at": "2026-10-31 08:00",
+  "literal": "把嘴唇拉上拉链",
+  "meaning": "闭嘴；别说出去；保密",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Can I tell Mom what we bought her?"
+   },
+   {
+    "who": "B",
+    "en": "No—zip your lip. It's a surprise."
+   }
+  ],
+  "dialog_zh": "A：我能告诉妈妈我们给她买了什么吗？B：不行——闭嘴，这是惊喜。",
+  "tip": "常用于叮嘱别泄密或别多嘴；语气偏口语、略强硬，对长辈要慎用。",
+  "audios": [
+   "media/zip-your-lip-1.mp3"
+  ],
+  "transcripts": [
+   "Zip one's lip."
+  ],
+  "video": null,
+  "audio": null,
+  "link": null,
+  "link_title": null
+ },
+ {
+  "phrase": "Bend over backwards.",
+  "slug": "bend-over-backwards",
+  "sent_at": "2026-10-31 08:00",
+  "literal": "向后弯腰",
+  "meaning": "竭尽全力（常为帮助别人）；煞费苦心",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Did the hotel help with your early check-in?"
+   },
+   {
+    "who": "B",
+    "en": "Yes, they bent over backwards to make us comfortable."
+   }
+  ],
+  "dialog_zh": "A：酒店帮你们提早入住了吗？B：帮了，他们千方百计让我们住得舒服。",
+  "tip": "bend/bent over backwards；强调付出超出寻常的努力，常接 to do something。",
+  "audios": [
+   "media/bend-over-backwards-1.mp3",
+   "media/bend-over-backwards-2.mp3",
+   "media/bend-over-backwards-3.mp3"
+  ],
+  "transcripts": [
+   "has been showing signs that it really will pay for everything, will bend over backwards for North Korea's participation in the winter Olympic Games.",
+   "This was not run by a Democrat. And I think Mueller bent over backwards to be fair to President Trump and not to engage in this",
+   "Unions demands would cost $2.5 billion per year, which the city can't afford. We bent over backwards to meet the union's needs. The strike affects some 300,000 students in the"
+  ],
+  "video": null,
+  "audio": null,
+  "link": null,
+  "link_title": null
+ },
+ {
+  "phrase": "Blow off steam.",
+  "slug": "blow-off-steam",
+  "sent_at": "2026-10-31 08:00",
+  "literal": "放掉蒸汽",
+  "meaning": "发泄情绪；消消气（如运动、大喊）",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "You're slamming doors. Everything okay?"
+   },
+   {
+    "who": "B",
+    "en": "Rough day at work. I just need to blow off steam."
+   }
+  ],
+  "dialog_zh": "A：你一直摔门，没事吧？B：上班糟透了，只是想发泄一下。",
+  "tip": "也可说 let off steam；指释放压力，不是「吹牛」(blow smoke)。",
+  "audios": [
+   "media/blow-off-steam-1.mp3",
+   "media/blow-off-steam-2.mp3",
+   "media/blow-off-steam-3.mp3"
+  ],
+  "transcripts": [
+   "works being set off across the state. This is no way to blow off steam, he told reporters recently, in Trenton the Capitol.",
+   "happening to kids in the public school system. Because getting out there and blowing off steam helps you concentrate and focus. It helps kids with ADHD. There's a",
+   "Blow off steam."
+  ],
+  "video": null,
+  "audio": null,
+  "link": null,
+  "link_title": null
  }
 ]
