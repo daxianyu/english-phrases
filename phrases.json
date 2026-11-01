@@ -2696,5 +2696,62 @@
     ],
     "dialog_zh": "A：你整周都看起来很紧绷。B：嗯……我有件事得一吐为快。",
     "tip": "常用 get it/something off my/your chest；强调把心事说出来后会轻松些。"
+  },
+  {
+    "phrase": "Go the extra mile.",
+    "slug": "go-the-extra-mile",
+    "sent_at": "2026-11-01 15:32",
+    "literal": "多走一英里",
+    "meaning": "加倍努力；多做一点；超出预期地付出",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "Why do customers love that shop?"
+      },
+      {
+        "who": "B",
+        "en": "They always go the extra mile—free wrapping, late hours, the works."
+      }
+    ],
+    "dialog_zh": "A：顾客为什么那么喜欢那家店？B：他们总是多做一点——免费包装、营业到很晚，应有尽有。",
+    "tip": "常说 go/went/going the extra mile；指自愿多付出，不是真的多走一英里路。"
+  },
+  {
+    "phrase": "Have second thoughts.",
+    "slug": "have-second-thoughts",
+    "sent_at": "2026-11-01 15:32",
+    "literal": "有第二次想法",
+    "meaning": "犹豫；重新考虑；开始后悔或动摇",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "Did you accept the job offer?"
+      },
+      {
+        "who": "B",
+        "en": "I did, but I'm having second thoughts about moving cities."
+      }
+    ],
+    "dialog_zh": "A：你接受那份工作了吗？B：接受了，但我开始犹豫要不要搬家去别的城市。",
+    "tip": "常用 have/having second thoughts (about…)；指事后动摇或后悔，不是「第二个想法」字面意思。"
+  },
+  {
+    "phrase": "In the same boat.",
+    "slug": "in-the-same-boat",
+    "sent_at": "2026-11-01 15:32",
+    "literal": "在同一条船上",
+    "meaning": "处境相同；同病相怜；面临一样的困难",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "I can't afford rent this month."
+      },
+      {
+        "who": "B",
+        "en": "We're in the same boat—let's look for roommates."
+      }
+    ],
+    "dialog_zh": "A：我这个月付不起房租。B：我们同病相怜——一起找合租吧。",
+    "tip": "常说 we're/you're in the same boat；强调彼此处境一样，不是真的在船上。"
   }
 ]

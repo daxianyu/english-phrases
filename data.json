@@ -4194,5 +4194,104 @@
   "audio": null,
   "link": null,
   "link_title": null
+ },
+ {
+  "phrase": "Go the extra mile.",
+  "slug": "go-the-extra-mile",
+  "sent_at": "2026-11-01 15:32",
+  "literal": "多走一英里",
+  "meaning": "加倍努力；多做一点；超出预期地付出",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Why do customers love that shop?"
+   },
+   {
+    "who": "B",
+    "en": "They always go the extra mile—free wrapping, late hours, the works."
+   }
+  ],
+  "dialog_zh": "A：顾客为什么那么喜欢那家店？B：他们总是多做一点——免费包装、营业到很晚，应有尽有。",
+  "tip": "常说 go/went/going the extra mile；指自愿多付出，不是真的多走一英里路。",
+  "audios": [
+   "media/go-the-extra-mile-1.mp3",
+   "media/go-the-extra-mile-2.mp3",
+   "media/go-the-extra-mile-3.mp3"
+  ],
+  "transcripts": [
+   "Go the extra mile.",
+   "and miles. However, when we use the expression go the extra mile, we only use mile. If you run...",
+   "a little early. I see that. You sure do go the extra mile every Halloween? That must have taken time to make. I just really..."
+  ],
+  "video": null,
+  "audio": null,
+  "link": null,
+  "link_title": null
+ },
+ {
+  "phrase": "Have second thoughts.",
+  "slug": "have-second-thoughts",
+  "sent_at": "2026-11-01 15:32",
+  "literal": "有第二次想法",
+  "meaning": "犹豫；重新考虑；开始后悔或动摇",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Did you accept the job offer?"
+   },
+   {
+    "who": "B",
+    "en": "I did, but I'm having second thoughts about moving cities."
+   }
+  ],
+  "dialog_zh": "A：你接受那份工作了吗？B：接受了，但我开始犹豫要不要搬家去别的城市。",
+  "tip": "常用 have/having second thoughts (about…)；指事后动摇或后悔，不是「第二个想法」字面意思。",
+  "audios": [
+   "media/have-second-thoughts-1.mp3",
+   "media/have-second-thoughts-2.mp3",
+   "media/have-second-thoughts-3.mp3"
+  ],
+  "transcripts": [
+   "Have second thoughts.",
+   "30-day cooling-off period in case either party has second thoughts about a divorce. This would permit individuals to",
+   "They throw them away. In our next meme, the shopper has second thoughts about the uselessness of such receipts. This time..."
+  ],
+  "video": null,
+  "audio": null,
+  "link": null,
+  "link_title": null
+ },
+ {
+  "phrase": "In the same boat.",
+  "slug": "in-the-same-boat",
+  "sent_at": "2026-11-01 15:32",
+  "literal": "在同一条船上",
+  "meaning": "处境相同；同病相怜；面临一样的困难",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "I can't afford rent this month."
+   },
+   {
+    "who": "B",
+    "en": "We're in the same boat—let's look for roommates."
+   }
+  ],
+  "dialog_zh": "A：我这个月付不起房租。B：我们同病相怜——一起找合租吧。",
+  "tip": "常说 we're/you're in the same boat；强调彼此处境一样，不是真的在船上。",
+  "audios": [
+   "media/in-the-same-boat-1.mp3",
+   "media/in-the-same-boat-2.mp3",
+   "media/in-the-same-boat-3.mp3"
+  ],
+  "transcripts": [
+   "In the same boat.",
+   "What's next for me? I don't know. So I'm in exactly the same boat as Minnie. Her dismissal from one.",
+   "amazing kind of connection for school nurses because we were all in the same boat, but our boats were all a little bit different. Hogan is"
+  ],
+  "video": null,
+  "audio": null,
+  "link": null,
+  "link_title": null
  }
 ]
