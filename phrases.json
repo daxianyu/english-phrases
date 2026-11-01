@@ -2639,5 +2639,62 @@
     ],
     "dialog_zh": "A：明天航班要是取消怎么办？B：到时候再说。现在先收拾行李。",
     "tip": "常说 we'll cross that bridge when we come to it；用来劝人别提前焦虑还没发生的事。"
+  },
+  {
+    "phrase": "Draw the line.",
+    "slug": "draw-the-line",
+    "sent_at": "2026-11-01 08:16",
+    "literal": "画一条线",
+    "meaning": "划清界限；规定底线；到此为止、不再容忍",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "He keeps joking about my accent."
+      },
+      {
+        "who": "B",
+        "en": "I'd draw the line there—that's not funny."
+      }
+    ],
+    "dialog_zh": "A：他老拿我口音开玩笑。B：我会划清界限——那不好笑。",
+    "tip": "常说 draw the line (at/when…)；表示设定不可接受的底线，不是真的画画。"
+  },
+  {
+    "phrase": "Face the music.",
+    "slug": "face-the-music",
+    "sent_at": "2026-11-01 08:16",
+    "literal": "面对音乐",
+    "meaning": "承担后果；面对批评或惩罚；硬着头皮挨训",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "I broke the vase. Mom will be furious."
+      },
+      {
+        "who": "B",
+        "en": "Better face the music now than hide."
+      }
+    ],
+    "dialog_zh": "A：我打碎花瓶了，妈会很生气。B：与其躲着，不如现在硬着头皮认错。",
+    "tip": "与听音乐会无关；指做错事后去接受责备或后果。也可说 face the music and…"
+  },
+  {
+    "phrase": "Get something off your chest.",
+    "slug": "get-something-off-your-chest",
+    "sent_at": "2026-11-01 08:16",
+    "literal": "把某物从胸口拿开",
+    "meaning": "把压在心里的话说出来；倾诉；一吐为快",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "You've looked stressed all week."
+      },
+      {
+        "who": "B",
+        "en": "Yeah… I need to get something off my chest."
+      }
+    ],
+    "dialog_zh": "A：你整周都看起来很紧绷。B：嗯……我有件事得一吐为快。",
+    "tip": "常用 get it/something off my/your chest；强调把心事说出来后会轻松些。"
   }
 ]
