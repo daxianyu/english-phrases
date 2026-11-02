@@ -4293,5 +4293,104 @@
   "audio": null,
   "link": null,
   "link_title": null
+ },
+ {
+  "phrase": "Keep a low profile.",
+  "slug": "keep-a-low-profile",
+  "sent_at": "2026-11-02 08:00",
+  "literal": "保持低姿态/低轮廓",
+  "meaning": "低调行事；少出风头；避免引人注意",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "The celebrity just moved onto our street."
+   },
+   {
+    "who": "B",
+    "en": "Yeah—she keeps a low profile. No parties, no cameras."
+   }
+  ],
+  "dialog_zh": "A：那位明星刚搬到我们这条街。B：是啊——她很低调，不办派对，也不拍照。",
+  "tip": "常说 keep/kept/keeping a low profile；指少露面、不张扬，不是字面‘低轮廓’。",
+  "audios": [
+   "media/keep-a-low-profile-1.mp3",
+   "media/keep-a-low-profile-2.mp3",
+   "media/keep-a-low-profile-3.mp3"
+  ],
+  "transcripts": [
+   "Keep a low profile.",
+   "trembled to light the torch. Ali had kept a low profile recently and had not spoken in public for years.",
+   "their moment of history, Britain's departure from the European Union. While Prime Minister Boris Johnson kept a low profile at a private reception in his Downing Street office, more than 5,000 people gathered just..."
+  ],
+  "video": null,
+  "audio": null,
+  "link": null,
+  "link_title": null
+ },
+ {
+  "phrase": "Leave no stone unturned.",
+  "slug": "leave-no-stone-unturned",
+  "sent_at": "2026-11-02 08:00",
+  "literal": "不留下任何石头不翻开",
+  "meaning": "千方百计；想尽一切办法；彻底搜查/排查",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "We still can't find the missing files."
+   },
+   {
+    "who": "B",
+    "en": "Leave no stone unturned—check every folder and email."
+   }
+  ],
+  "dialog_zh": "A：失踪的文件还是找不到。B：千方百计查——每个文件夹和邮件都过一遍。",
+  "tip": "常用于搜查、调查、找东西；leave/left/leaving no stone unturned。",
+  "audios": [
+   "media/leave-no-stone-unturned-1.mp3",
+   "media/leave-no-stone-unturned-2.mp3",
+   "media/leave-no-stone-unturned-3.mp3"
+  ],
+  "transcripts": [
+   "Leave no stone unturned.",
+   "He said, we will be looking at everything. So we will leave no stone unturned in our investigation and our analysis.",
+   "Casting a wide net also means you leave no stone unturned. You look thoroughly. You search hot..."
+  ],
+  "video": null,
+  "audio": null,
+  "link": null,
+  "link_title": null
+ },
+ {
+  "phrase": "Nip it in the bud.",
+  "slug": "nip-it-in-the-bud",
+  "sent_at": "2026-11-02 08:00",
+  "literal": "在花蕾阶段就掐掉它",
+  "meaning": "把问题消灭在萌芽状态；及早制止",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "The kids are starting to argue again."
+   },
+   {
+    "who": "B",
+    "en": "Nip it in the bud before it turns into a fight."
+   }
+  ],
+  "dialog_zh": "A：孩子们又开始吵了。B：趁早制止，别等打起来。",
+  "tip": "可说 nip it/that/problems in the bud；强调尽早处理，不是真的掐花苞。",
+  "audios": [
+   "media/nip-it-in-the-bud-1.mp3",
+   "media/nip-it-in-the-bud-2.mp3",
+   "media/nip-it-in-the-bud-3.mp3"
+  ],
+  "transcripts": [
+   "Nip in the bud.",
+   "So, what do you think this American idiom means? Nip it in the bud. Listen to these friends talking. My new name.",
+   "On the opposite end, you stop something from growing if you nip it in the bud. This is a common expression when we talk about stopping something"
+  ],
+  "video": null,
+  "audio": null,
+  "link": null,
+  "link_title": null
  }
 ]
