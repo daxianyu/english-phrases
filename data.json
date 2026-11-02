@@ -4392,5 +4392,104 @@
   "audio": null,
   "link": null,
   "link_title": null
+ },
+ {
+  "phrase": "Out of the woods.",
+  "slug": "out-of-the-woods",
+  "sent_at": "2026-11-02 15:30",
+  "literal": "走出树林",
+  "meaning": "脱离危险；熬过难关",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "How's your dad after the surgery?"
+   },
+   {
+    "who": "B",
+    "en": "Better, but he's not out of the woods yet."
+   }
+  ],
+  "dialog_zh": "A：你爸手术后怎么样？B：好些了，但还没完全脱离危险。",
+  "tip": "常说 not out of the woods yet，表示尚未完全安全；out of the woods 本身偏美式口语。",
+  "audios": [
+   "media/out-of-the-woods-1.mp3",
+   "media/out-of-the-woods-2.mp3",
+   "media/out-of-the-woods-3.mp3"
+  ],
+  "transcripts": [
+   "Out of the woods.",
+   "personal doctor. He said, though he may not be entirely out of the woods yet, the team and I agree that all our evaluations",
+   "She says the doctor is receiving treatment but is not out of the woods, meaning he is not out of danger."
+  ],
+  "video": null,
+  "audio": null,
+  "link": null,
+  "link_title": null
+ },
+ {
+  "phrase": "Paint yourself into a corner.",
+  "slug": "paint-yourself-into-a-corner",
+  "sent_at": "2026-11-02 15:30",
+  "literal": "把自己画进角落",
+  "meaning": "把自己逼入困境；作茧自缚",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "I promised everyone I'd finish by Friday."
+   },
+   {
+    "who": "B",
+    "en": "Don't paint yourself into a corner—ask for more time now."
+   }
+  ],
+  "dialog_zh": "A：我向所有人保证周五前做完。B：别把自己逼死——现在就去要更多时间。",
+  "tip": "常说 paint yourself/oneself into a corner；指因自己的承诺或选择而陷入被动。",
+  "audios": [
+   "media/paint-yourself-into-a-corner-1.mp3",
+   "media/paint-yourself-into-a-corner-2.mp3",
+   "media/paint-yourself-into-a-corner-3.mp3"
+  ],
+  "transcripts": [
+   "Paint oneself into a corner.",
+   "inside corners and work your way to the door. Otherwise, you will paint yourself in a corner. You will be stuck there with no way to walk out without step-",
+   "and I volunteered to do some of his work. Now I've really painted myself into a corner. I've taken on too much. It's impossible for me to get every"
+  ],
+  "video": null,
+  "audio": null,
+  "link": null,
+  "link_title": null
+ },
+ {
+  "phrase": "Put the cart before the horse.",
+  "slug": "put-the-cart-before-the-horse",
+  "sent_at": "2026-11-02 15:30",
+  "literal": "把车放在马前面",
+  "meaning": "本末倒置；颠倒顺序",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Let's book the venue before we even have a guest list."
+   },
+   {
+    "who": "B",
+    "en": "That's putting the cart before the horse."
+   }
+  ],
+  "dialog_zh": "A：客人名单都还没有，先把场地订了吧。B：那是本末倒置。",
+  "tip": "常说 put/putting the cart before the horse；强调做事顺序错了，不是字面马车。",
+  "audios": [
+   "media/put-the-cart-before-the-horse-1.mp3",
+   "media/put-the-cart-before-the-horse-2.mp3",
+   "media/put-the-cart-before-the-horse-3.mp3"
+  ],
+  "transcripts": [
+   "Put the cart before the horse.",
+   "other horse expression to give you some advice. If she tells you, do not put the cart before the horse. She is telling you to do things in the proper order. Here's the",
+   "This afternoon, Tsang Zai Ye, Unruu, who's had a photo to recommend? But wait, before you put the cart before the horse, have you considered if you have enough money? But wait!"
+  ],
+  "video": null,
+  "audio": null,
+  "link": null,
+  "link_title": null
  }
 ]
