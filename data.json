@@ -4590,5 +4590,102 @@
   "audio": null,
   "link": null,
   "link_title": null
+ },
+ {
+  "phrase": "Take the bull by the horns.",
+  "slug": "take-the-bull-by-the-horns",
+  "sent_at": "2026-11-03 15:30",
+  "literal": "抓住公牛的角",
+  "meaning": "勇敢直面难题；果断采取行动",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "The project is a mess. What should we do?"
+   },
+   {
+    "who": "B",
+    "en": "We need to take the bull by the horns and fix it today."
+   }
+  ],
+  "dialog_zh": "A：这个项目一团糟。我们该怎么办？B：我们得果断出手，今天就把它修好。",
+  "tip": "常说 take the bull by the horns，强调主动、正面解决问题，而不是回避。",
+  "audios": [
+   "media/take-the-bull-by-the-horns-1.mp3",
+   "media/take-the-bull-by-the-horns-2.mp3",
+   "media/take-the-bull-by-the-horns-3.mp3"
+  ],
+  "transcripts": [
+   "Take the bull by the horns.",
+   "not waiting any longer for the boss to give me the raise I deserve. I'm going to take the bull by the horns, march in, and tell him I want more money, or I'm leaving for enough",
+   "But he does less work than anybody else. Today I'm going to take the bull by the horns and tell him he's fired."
+  ],
+  "video": null,
+  "audio": null,
+  "link": null,
+  "link_title": null
+ },
+ {
+  "phrase": "Throw in the towel.",
+  "slug": "throw-in-the-towel",
+  "sent_at": "2026-11-03 15:30",
+  "literal": "把毛巾扔进场内",
+  "meaning": "认输；放弃",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "I've rewritten this essay five times."
+   },
+   {
+    "who": "B",
+    "en": "Don't throw in the towel—you're almost there."
+   }
+  ],
+  "dialog_zh": "A：这篇作文我已经改了五遍了。B：别放弃——你快成功了。",
+  "tip": "源自拳击赛教练扔毛巾示意认输；也可说 throw in the sponge。",
+  "audios": [
+   "media/throw-in-the-towel-1.mp3",
+   "media/throw-in-the-towel-2.mp3",
+   "media/throw-in-the-towel-3.mp3"
+  ],
+  "transcripts": [
+   "Throw in the towel.",
+   "to its end. If you do decide to leave your job, you throw in the towel. This expression comes from the fact that trainers can stop",
+   "Or if things are really bad, they may say they have to throw in the towel. A pinch is painful pressure."
+  ],
+  "video": null,
+  "audio": null,
+  "link": null,
+  "link_title": null
+ },
+ {
+  "phrase": "Under your nose.",
+  "slug": "under-your-nose",
+  "sent_at": "2026-11-03 15:30",
+  "literal": "在你鼻子底下",
+  "meaning": "就在眼前（却没注意到）",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "I can't find my keys anywhere."
+   },
+   {
+    "who": "B",
+    "en": "They're right under your nose—on the table."
+   }
+  ],
+  "dialog_zh": "A：我到处都找不到钥匙。B：就在你眼皮底下——桌上呢。",
+  "tip": "常说 (right) under your/my nose；强调近在咫尺却被忽略。",
+  "audios": [
+   "media/under-your-nose-1.mp3",
+   "media/under-your-nose-2.mp3"
+  ],
+  "transcripts": [
+   "under someone's nose",
+   "If you study hard, the answers should be right under your nose, or easily seen. I think we have..."
+  ],
+  "video": null,
+  "audio": null,
+  "link": null,
+  "link_title": null
  }
 ]
