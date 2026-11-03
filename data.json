@@ -4491,5 +4491,104 @@
   "audio": null,
   "link": null,
   "link_title": null
+ },
+ {
+  "phrase": "Rock the boat.",
+  "slug": "rock-the-boat",
+  "sent_at": "2026-11-03 08:00",
+  "literal": "摇晃船",
+  "meaning": "惹事；破坏现状",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Should we tell the boss the plan is flawed?"
+   },
+   {
+    "who": "B",
+    "en": "Don't rock the boat—just wait until after the review."
+   }
+  ],
+  "dialog_zh": "A：我们该告诉老板这个计划有问题吗？B：别惹事——等评审过后再说。",
+  "tip": "常说 don't rock the boat，劝人别打破现状或惹麻烦；语气偏谨慎、提醒。",
+  "audios": [
+   "media/rock-the-boat-1.mp3",
+   "media/rock-the-boat-2.mp3",
+   "media/rock-the-boat-3.mp3"
+  ],
+  "transcripts": [
+   "Rock the boat.",
+   "And that brings us to today's expression, rock the boat. This means to cause problems for other members of a...",
+   "visual business operations. We can also say, to rock the boat. This also means to cause problems."
+  ],
+  "video": null,
+  "audio": null,
+  "link": null,
+  "link_title": null
+ },
+ {
+  "phrase": "Skeleton in the closet.",
+  "slug": "skeleton-in-the-closet",
+  "sent_at": "2026-11-03 08:00",
+  "literal": "衣柜里的骷髅",
+  "meaning": "不可告人的秘密；家丑",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Why won't he talk about his old company?"
+   },
+   {
+    "who": "B",
+    "en": "Every family has a skeleton in the closet."
+   }
+  ],
+  "dialog_zh": "A：他为什么绝口不提以前的公司？B：家家都有不可告人的秘密。",
+  "tip": "美式说 skeleton in the closet，英式常说 skeleton in the cupboard；复数 skeletons 也可。",
+  "audios": [
+   "media/skeleton-in-the-closet-1.mp3",
+   "media/skeleton-in-the-closet-2.mp3",
+   "media/skeleton-in-the-closet-3.mp3"
+  ],
+  "transcripts": [
+   "skeleton in the closet.",
+   "And, if you are keeping secrets in the United States, you have skeletons in the closet. In Great Britain, your skeletons would be hiding in a cupboard.",
+   "Now, everybody learned the family had a skeleton in the closet. Their great-great-grandfather was hanged as a horse thief, and"
+  ],
+  "video": null,
+  "audio": null,
+  "link": null,
+  "link_title": null
+ },
+ {
+  "phrase": "Steal someone's thunder.",
+  "slug": "steal-someones-thunder",
+  "sent_at": "2026-11-03 08:00",
+  "literal": "偷走某人的雷声",
+  "meaning": "抢某人风头；抢功",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "I was about to announce the deal, then she spoke first."
+   },
+   {
+    "who": "B",
+    "en": "She totally stole your thunder."
+   }
+  ],
+  "dialog_zh": "A：我正要宣布这笔交易，结果她先开口了。B：她完全抢了你的风头。",
+  "tip": "常说 steal someone's thunder / stole my thunder；指抢先宣布或抢风头，不是字面偷雷。",
+  "audios": [
+   "media/steal-someones-thunder-1.mp3",
+   "media/steal-someones-thunder-2.mp3",
+   "media/steal-someones-thunder-3.mp3"
+  ],
+  "transcripts": [
+   "steal someone's thunder",
+   "As an expression, thunder works the same way. When you steal someone's thunder, you steal attention away from them.",
+   "I couldn't believe how he stole our thunder. He told a reporter about the new drug, so the papers gave him the credit."
+  ],
+  "video": null,
+  "audio": null,
+  "link": null,
+  "link_title": null
  }
 ]
