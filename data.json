@@ -4786,5 +4786,104 @@
   "audio": null,
   "link": null,
   "link_title": null
+ },
+ {
+  "phrase": "Bend the rules.",
+  "slug": "bend-the-rules",
+  "sent_at": "2026-11-04 15:30",
+  "literal": "把规则弄弯",
+  "meaning": "通融一下；不完全按规矩办事（略作变通）",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Can we submit the form a day late?"
+   },
+   {
+    "who": "B",
+    "en": "I'll bend the rules this once—but don't make a habit of it."
+   }
+  ],
+  "dialog_zh": "A：表格能晚交一天吗？B：这次我通融一下——但别养成习惯。",
+  "tip": "常说 bend the rules (a little / this once)；比 break the rules 轻，强调变通而非公然违规。",
+  "audios": [
+   "media/bend-the-rules-1.mp3",
+   "media/bend-the-rules-2.mp3",
+   "media/bend-the-rules-3.mp3"
+  ],
+  "transcripts": [
+   "If you really want to pet, start with a fish. When you bend the rules, you are not exactly following them. But you're not bringing...",
+   "Any pets, but I really want to get a dog. Do you think I can bend the rules and get one? No, I don't think you can bend the rules like...",
+   "this Antonin Scalia. Scalia wrote that some justices bend the rules when any effort to limit abortion or even to speak in"
+  ],
+  "video": null,
+  "audio": null,
+  "link": null,
+  "link_title": null
+ },
+ {
+  "phrase": "Bite the hand that feeds you.",
+  "slug": "bite-the-hand-that-feeds-you",
+  "sent_at": "2026-11-04 15:30",
+  "literal": "咬喂你的那只手",
+  "meaning": "恩将仇报；伤害对你有恩或养活你的人",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Why did you trash the company on social media?"
+   },
+   {
+    "who": "B",
+    "en": "I know—I shouldn't bite the hand that feeds me."
+   }
+  ],
+  "dialog_zh": "A：你为什么在网上骂公司？B：我知道——不该恩将仇报。",
+  "tip": "常说 don't bite the hand that feeds you；feed 指提供生计/帮助的人，不只字面喂食。",
+  "audios": [
+   "media/bite-the-hand-that-feeds-you-1.mp3",
+   "media/bite-the-hand-that-feeds-you-2.mp3",
+   "media/bite-the-hand-that-feeds-you-3.mp3"
+  ],
+  "transcripts": [
+   "Bite the hand that feeds one.",
+   "We sometimes eat with our hands. But why would you bite the hand that feeds you? Boy, Olivia is about to do something really stupid.",
+   "person. In that case, I could say to you, you should not bite the hand that feeds you. This expression can also mean to turn a"
+  ],
+  "video": null,
+  "audio": null,
+  "link": null,
+  "link_title": null
+ },
+ {
+  "phrase": "Burn bridges.",
+  "slug": "burn-bridges",
+  "sent_at": "2026-11-04 15:30",
+  "literal": "烧掉桥梁",
+  "meaning": "断绝退路或关系；把关系搞僵到无法挽回",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Should I send that angry resignation email?"
+   },
+   {
+    "who": "B",
+    "en": "Don't. You'll burn bridges you might need later."
+   }
+  ],
+  "dialog_zh": "A：我要不要发那封愤怒的辞职信？B：别。你会把以后可能还用得着的关系都毁掉。",
+  "tip": "常说 burn (your) bridges；也可说 a bridge too far 但意思不同，勿混淆。",
+  "audios": [
+   "media/burn-bridges-1.mp3",
+   "media/burn-bridges-2.mp3",
+   "media/burn-bridges-3.mp3"
+  ],
+  "transcripts": [
+   "Burn one's bridges.",
+   "Get out. Why would she burn her bridges like that? Oh, she's known for burning bridges. No one in her last job even talks to her. Why burn a bridge to...",
+   "any chance of returning to the way things were. When you burn your bridges, there is no going back. Let's put this expression in..."
+  ],
+  "video": null,
+  "audio": null,
+  "link": null,
+  "link_title": null
  }
 ]

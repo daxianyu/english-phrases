@@ -3038,5 +3038,62 @@
     ],
     "dialog_zh": "A：就加班一晚而已——没什么大不了。B：小心点。这可是通向过劳的滑坡。",
     "tip": "常说 (be/start) a slippery slope；强调渐进恶化，不单指字面滑倒。"
+  },
+  {
+    "phrase": "Bend the rules.",
+    "slug": "bend-the-rules",
+    "sent_at": "2026-11-04 15:30",
+    "literal": "把规则弄弯",
+    "meaning": "通融一下；不完全按规矩办事（略作变通）",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "Can we submit the form a day late?"
+      },
+      {
+        "who": "B",
+        "en": "I'll bend the rules this once—but don't make a habit of it."
+      }
+    ],
+    "dialog_zh": "A：表格能晚交一天吗？B：这次我通融一下——但别养成习惯。",
+    "tip": "常说 bend the rules (a little / this once)；比 break the rules 轻，强调变通而非公然违规。"
+  },
+  {
+    "phrase": "Bite the hand that feeds you.",
+    "slug": "bite-the-hand-that-feeds-you",
+    "sent_at": "2026-11-04 15:30",
+    "literal": "咬喂你的那只手",
+    "meaning": "恩将仇报；伤害对你有恩或养活你的人",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "Why did you trash the company on social media?"
+      },
+      {
+        "who": "B",
+        "en": "I know—I shouldn't bite the hand that feeds me."
+      }
+    ],
+    "dialog_zh": "A：你为什么在网上骂公司？B：我知道——不该恩将仇报。",
+    "tip": "常说 don't bite the hand that feeds you；feed 指提供生计/帮助的人，不只字面喂食。"
+  },
+  {
+    "phrase": "Burn bridges.",
+    "slug": "burn-bridges",
+    "sent_at": "2026-11-04 15:30",
+    "literal": "烧掉桥梁",
+    "meaning": "断绝退路或关系；把关系搞僵到无法挽回",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "Should I send that angry resignation email?"
+      },
+      {
+        "who": "B",
+        "en": "Don't. You'll burn bridges you might need later."
+      }
+    ],
+    "dialog_zh": "A：我要不要发那封愤怒的辞职信？B：别。你会把以后可能还用得着的关系都毁掉。",
+    "tip": "常说 burn (your) bridges；也可说 a bridge too far 但意思不同，勿混淆。"
   }
 ]
