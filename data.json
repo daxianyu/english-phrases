@@ -4687,5 +4687,104 @@
   "audio": null,
   "link": null,
   "link_title": null
+ },
+ {
+  "phrase": "Walk on eggshells.",
+  "slug": "walk-on-eggshells",
+  "sent_at": "2026-11-04 08:00",
+  "literal": "在蛋壳上走路",
+  "meaning": "小心翼翼地说话或行事，生怕得罪人或惹麻烦",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Why is everyone so quiet around the boss today?"
+   },
+   {
+    "who": "B",
+    "en": "He's in a bad mood—we're all walking on eggshells."
+   }
+  ],
+  "dialog_zh": "A：今天大家在老板旁边怎么都这么安静？B：他心情不好——我们都小心翼翼的。",
+  "tip": "常说 walk on eggshells (around someone)；强调因怕惹怒对方而格外谨慎。",
+  "audios": [
+   "media/walk-on-eggshells-1.mp3",
+   "media/walk-on-eggshells-2.mp3",
+   "media/walk-on-eggshells-3.mp3"
+  ],
+  "transcripts": [
+   "Walk on eggshells.",
+   "The hard shell around an egg is thin and delicate. Walk on eggshells. How is your roommate doing? Not well. She's still pretty upset about her breakup.",
+   "be very cautious in what I say about abortion. I know I'm walking on eggshells. There are very strong feelings on both sides, and I don't want to upset the"
+  ],
+  "video": null,
+  "audio": null,
+  "link": null,
+  "link_title": null
+ },
+ {
+  "phrase": "You scratch my back, I'll scratch yours.",
+  "slug": "you-scratch-my-back-ill-scratch-yours",
+  "sent_at": "2026-11-04 08:00",
+  "literal": "你帮我挠背，我也帮你挠背",
+  "meaning": "互相帮忙；礼尚往来、互惠互利",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Can you cover my shift on Friday?"
+   },
+   {
+    "who": "B",
+    "en": "Sure—you scratch my back, I'll scratch yours. Cover mine next week?"
+   }
+  ],
+  "dialog_zh": "A：周五能帮我顶一下班吗？B：没问题——你帮我，我也帮你。下周帮我顶一下？",
+  "tip": "口语里常缩成 scratch my back；也可说 a scratch-my-back arrangement，偏非正式。",
+  "audios": [
+   "media/you-scratch-my-back-ill-scratch-yours-1.mp3",
+   "media/you-scratch-my-back-ill-scratch-yours-2.mp3",
+   "media/you-scratch-my-back-ill-scratch-yours-3.mp3"
+  ],
+  "transcripts": [
+   "You scratch my back and I'll scratch yours.",
+   "You scratch my back and I'll scratch yours.",
+   "The senator from the 11th district scratched my back when he voted for my bill to cut state income taxes. So it's"
+  ],
+  "video": null,
+  "audio": null,
+  "link": null,
+  "link_title": null
+ },
+ {
+  "phrase": "A slippery slope.",
+  "slug": "a-slippery-slope",
+  "sent_at": "2026-11-04 08:00",
+  "literal": "湿滑的斜坡",
+  "meaning": "危险的滑坡：一小步妥协可能带来越来越糟的后果",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "It's just one late night at work—no big deal."
+   },
+   {
+    "who": "B",
+    "en": "Be careful. That's a slippery slope to burnout."
+   }
+  ],
+  "dialog_zh": "A：就加班一晚而已——没什么大不了。B：小心点。这可是通向过劳的滑坡。",
+  "tip": "常说 (be/start) a slippery slope；强调渐进恶化，不单指字面滑倒。",
+  "audios": [
+   "media/a-slippery-slope-1.mp3",
+   "media/a-slippery-slope-2.mp3",
+   "media/a-slippery-slope-3.mp3"
+  ],
+  "transcripts": [
+   "slippery slope",
+   "Every night this week. Jake should be careful. He is on a very slippery slope. I agree. He could lose his job. A slippery slope.",
+   "She was shoplifting, but that doesn't mean she's heading down a slippery slope towards a life of crime. She understands the seriousness of what she's..."
+  ],
+  "video": null,
+  "audio": null,
+  "link": null,
+  "link_title": null
  }
 ]

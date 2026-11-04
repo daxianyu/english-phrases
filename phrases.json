@@ -2981,5 +2981,62 @@
     ],
     "dialog_zh": "A：我到处都找不到钥匙。B：就在你眼皮底下——桌上呢。",
     "tip": "常说 (right) under your/my nose；强调近在咫尺却被忽略。"
+  },
+  {
+    "phrase": "Walk on eggshells.",
+    "slug": "walk-on-eggshells",
+    "sent_at": "2026-11-04 08:00",
+    "literal": "在蛋壳上走路",
+    "meaning": "小心翼翼地说话或行事，生怕得罪人或惹麻烦",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "Why is everyone so quiet around the boss today?"
+      },
+      {
+        "who": "B",
+        "en": "He's in a bad mood—we're all walking on eggshells."
+      }
+    ],
+    "dialog_zh": "A：今天大家在老板旁边怎么都这么安静？B：他心情不好——我们都小心翼翼的。",
+    "tip": "常说 walk on eggshells (around someone)；强调因怕惹怒对方而格外谨慎。"
+  },
+  {
+    "phrase": "You scratch my back, I'll scratch yours.",
+    "slug": "you-scratch-my-back-ill-scratch-yours",
+    "sent_at": "2026-11-04 08:00",
+    "literal": "你帮我挠背，我也帮你挠背",
+    "meaning": "互相帮忙；礼尚往来、互惠互利",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "Can you cover my shift on Friday?"
+      },
+      {
+        "who": "B",
+        "en": "Sure—you scratch my back, I'll scratch yours. Cover mine next week?"
+      }
+    ],
+    "dialog_zh": "A：周五能帮我顶一下班吗？B：没问题——你帮我，我也帮你。下周帮我顶一下？",
+    "tip": "口语里常缩成 scratch my back；也可说 a scratch-my-back arrangement，偏非正式。"
+  },
+  {
+    "phrase": "A slippery slope.",
+    "slug": "a-slippery-slope",
+    "sent_at": "2026-11-04 08:00",
+    "literal": "湿滑的斜坡",
+    "meaning": "危险的滑坡：一小步妥协可能带来越来越糟的后果",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "It's just one late night at work—no big deal."
+      },
+      {
+        "who": "B",
+        "en": "Be careful. That's a slippery slope to burnout."
+      }
+    ],
+    "dialog_zh": "A：就加班一晚而已——没什么大不了。B：小心点。这可是通向过劳的滑坡。",
+    "tip": "常说 (be/start) a slippery slope；强调渐进恶化，不单指字面滑倒。"
   }
 ]
