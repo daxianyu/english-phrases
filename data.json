@@ -4885,5 +4885,104 @@
   "audio": null,
   "link": null,
   "link_title": null
+ },
+ {
+  "phrase": "Caught between a rock and a hard place.",
+  "slug": "caught-between-a-rock-and-a-hard-place",
+  "sent_at": "2026-11-05 15:30",
+  "literal": "卡在岩石和硬地之间",
+  "meaning": "进退两难；左右为难（两个选择都很糟）",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "If I stay late I'll miss my friend's birthday, but if I leave my boss will be furious."
+   },
+   {
+    "who": "B",
+    "en": "You're caught between a rock and a hard place."
+   }
+  ],
+  "dialog_zh": "A：我留下来加班就会错过朋友生日，但走了老板会大发雷霆。B：你这是进退两难啊。",
+  "tip": "常说 (be/caught) between a rock and a hard place；强调两害相权，不是普通的“难决定”。",
+  "audios": [
+   "media/caught-between-a-rock-and-a-hard-place-1.mp3",
+   "media/caught-between-a-rock-and-a-hard-place-2.mp3",
+   "media/caught-between-a-rock-and-a-hard-place-3.mp3"
+  ],
+  "transcripts": [
+   "between a rock and a hard place.",
+   "silla, and vice versa. And that is what being between a rock and a hard place means. You are in an impossibly difficult situation.",
+   "angry. So, what do you do? You are caught between a rock and a hard place.\""
+  ],
+  "video": null,
+  "audio": null,
+  "link": null,
+  "link_title": null
+ },
+ {
+  "phrase": "Cry over spilt milk.",
+  "slug": "cry-over-spilt-milk",
+  "sent_at": "2026-11-05 15:30",
+  "literal": "为洒掉的牛奶哭泣",
+  "meaning": "为已经无法改变的事懊恼；事后后悔也无济于事",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "I still can't believe I missed that flight."
+   },
+   {
+    "who": "B",
+    "en": "There's no use crying over spilt milk. Book the next one."
+   }
+  ],
+  "dialog_zh": "A：我还是不敢相信自己误了那班飞机。B：后悔也没用了。订下一班吧。",
+  "tip": "常说 There's no use / Don't cry over spilt (or spilled) milk；spilt/spilled 都可，美式更常用 spilled。",
+  "audios": [
+   "media/cry-over-spilt-milk-1.mp3",
+   "media/cry-over-spilt-milk-2.mp3",
+   "media/cry-over-spilt-milk-3.mp3"
+  ],
+  "transcripts": [
+   "Don't cry over spilled milk.",
+   "That was right. Oh, yeah. When we cry over spilt milk, we are upset or sad about something bad we have done that can",
+   "Brazil. My mother always told us there is no use crying over spilled milk. That means you should not get angry when something bad..."
+  ],
+  "video": null,
+  "audio": null,
+  "link": null,
+  "link_title": null
+ },
+ {
+  "phrase": "Drop the ball.",
+  "slug": "drop-the-ball",
+  "sent_at": "2026-11-05 15:30",
+  "literal": "把球掉了",
+  "meaning": "失职；搞砸该自己负责的事；关键时刻出错",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Did anyone email the client the files?"
+   },
+   {
+    "who": "B",
+    "en": "That was on me—I completely dropped the ball."
+   }
+  ],
+  "dialog_zh": "A：有人把文件发给客户了吗？B：那是我的事——我彻底搞砸了。",
+  "tip": "常说 drop / dropped the ball；来自球类运动接球失误，多指责任上的疏漏，不是字面掉球。",
+  "audios": [
+   "media/drop-the-ball-1.mp3",
+   "media/drop-the-ball-2.mp3",
+   "media/drop-the-ball-3.mp3"
+  ],
+  "transcripts": [
+   "Drop the ball.",
+   "the ball. Autumn, what's wrong? You look upset. I really dropped the ball. I forgot my great aunt was coming to town and I was supposed to",
+   "A baseball, football, or basketball player can drop the ball, usually resulting in some kind of loss."
+  ],
+  "video": null,
+  "audio": null,
+  "link": null,
+  "link_title": null
  }
 ]
