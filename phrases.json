@@ -3209,5 +3209,62 @@
   ],
   "dialog_zh": "A：我让你锁门说了三遍。B：抱歉——我光想着旅行，心不在焉。",
   "tip": "常说 have / had one's head in the clouds；可指走神，也可指空想不落地，语境决定褒贬。"
+ },
+ {
+  "phrase": "Jump on the bandwagon.",
+  "slug": "jump-on-the-bandwagon",
+  "sent_at": "2026-11-06 15:30",
+  "literal": "跳上乐队花车",
+  "meaning": "跟风；一窝蜂加入流行的一方",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Everyone at the office suddenly loves that new diet app."
+   },
+   {
+    "who": "B",
+    "en": "Yeah—they all jumped on the bandwagon after the CEO mentioned it."
+   }
+  ],
+  "dialog_zh": "A：办公室里突然人人都爱用那个新减肥 App。B：是啊——CEO 提了一嘴，大家就全跟风了。",
+  "tip": "常说 jump / jumped on the bandwagon；偏贬或中性，强调随大流而非认真判断。"
+ },
+ {
+  "phrase": "Let sleeping dogs lie.",
+  "slug": "let-sleeping-dogs-lie",
+  "sent_at": "2026-11-06 15:30",
+  "literal": "让睡着的狗躺着",
+  "meaning": "别惹事；过去的事不要再翻",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Should I bring up that old argument with my sister?"
+   },
+   {
+    "who": "B",
+    "en": "No—let sleeping dogs lie. Things are finally calm."
+   }
+  ],
+  "dialog_zh": "A：我该不该再提和姐姐那次旧争执？B：别——过去的事就别翻了。现在总算平静了。",
+  "tip": "常说 Let sleeping dogs lie；劝人别揭旧伤疤或别自找麻烦。"
+ },
+ {
+  "phrase": "On cloud nine.",
+  "slug": "on-cloud-nine",
+  "sent_at": "2026-11-06 15:30",
+  "literal": "在九霄云上",
+  "meaning": "极度高兴；飘飘然",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "How did she take the news about the promotion?"
+   },
+   {
+    "who": "B",
+    "en": "She's been on cloud nine all week."
+   }
+  ],
+  "dialog_zh": "A：她得知升职的消息后怎么样？B：她整周都高兴得飘飘然。",
+  "tip": "常说 be / was on cloud nine；程度很强，多用于重大喜事。"
  }
 ]
