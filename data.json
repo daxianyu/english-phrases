@@ -4984,5 +4984,100 @@
   "audio": null,
   "link": null,
   "link_title": null
+ },
+ {
+  "phrase": "Get wind of something.",
+  "slug": "get-wind-of-something",
+  "sent_at": "2026-11-06 08:00",
+  "literal": "闻到风声",
+  "meaning": "偶然得知/听说了某消息（常指秘密或未正式宣布的事）",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "How did the press find out about the merger?"
+   },
+   {
+    "who": "B",
+    "en": "Someone in accounting got wind of it and leaked the news."
+   }
+  ],
+  "dialog_zh": "A：媒体怎么知道合并的事？B：财务部有人听到风声，把消息泄出去了。",
+  "tip": "常说 get / got wind of something；of 后接消息或计划，多指非正式、偶然听说，不是“闻到风”。",
+  "audios": [
+   "media/get-wind-of-something-1.mp3",
+   "media/get-wind-of-something-2.mp3",
+   "media/get-wind-of-something-3.mp3"
+  ],
+  "transcripts": [
+   "Get windowed.",
+   "I'd useful information to people too. When we get wind of something, we hear some news or information that has been kept private.",
+   "Who hear that so-and-so lost his job? I can answer, yeah, I got wind of that yesterday. But sometimes the news or information is..."
+  ],
+  "video": null,
+  "audio": null,
+  "link": null,
+  "link_title": null
+ },
+ {
+  "phrase": "Go down in flames.",
+  "slug": "go-down-in-flames",
+  "sent_at": "2026-11-06 08:00",
+  "literal": "在火焰中坠落",
+  "meaning": "惨败；搞砸得很彻底",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "How did the product launch go?"
+   },
+   {
+    "who": "B",
+    "en": "It went down in flames—the demo crashed live on stage."
+   }
+  ],
+  "dialog_zh": "A：产品发布会怎么样？B：彻底砸了——演示在台上当场崩溃。",
+  "tip": "常说 go / went down in flames；比喻彻底失败，语气很重，不宜用于轻微失误。",
+  "audios": [
+   "media/go-down-in-flames-1.mp3",
+   "media/go-down-in-flames-2.mp3"
+  ],
+  "transcripts": [
+   "Go down in flames.",
+   "In an initial report, Iranian investigators say the pilots made no distress call, but the plane went down in flames as it was turning back to the airport. All 176 people on board were killed."
+  ],
+  "video": null,
+  "audio": null,
+  "link": null,
+  "link_title": null
+ },
+ {
+  "phrase": "Have your head in the clouds.",
+  "slug": "have-your-head-in-the-clouds",
+  "sent_at": "2026-11-06 08:00",
+  "literal": "头在云里",
+  "meaning": "心不在焉；不切实际地幻想",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "I asked you three times to lock the door."
+   },
+   {
+    "who": "B",
+    "en": "Sorry—I had my head in the clouds thinking about the trip."
+   }
+  ],
+  "dialog_zh": "A：我让你锁门说了三遍。B：抱歉——我光想着旅行，心不在焉。",
+  "tip": "常说 have / had one's head in the clouds；可指走神，也可指空想不落地，语境决定褒贬。",
+  "audios": [
+   "media/have-your-head-in-the-clouds-1.mp3",
+   "media/have-your-head-in-the-clouds-2.mp3"
+  ],
+  "transcripts": [
+   "The opposite kind of person is one who has his head in the clouds. Someone with his head in the clouds is a person who",
+   "A.D. called a Daydreamer. Sometimes a person with his head in the clouds can be brought back to reality. Sharp work."
+  ],
+  "video": null,
+  "audio": null,
+  "link": null,
+  "link_title": null
  }
 ]
