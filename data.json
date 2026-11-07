@@ -5178,5 +5178,100 @@
   "audio": null,
   "link": null,
   "link_title": null
+ },
+ {
+  "phrase": "Once bitten, twice shy.",
+  "slug": "once-bitten-twice-shy",
+  "sent_at": "2026-11-07 08:00",
+  "literal": "一次被咬，两次害羞",
+  "meaning": "一朝被蛇咬，十年怕井绳；吃过一次亏就格外谨慎",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Are you going to try online dating again?"
+   },
+   {
+    "who": "B",
+    "en": "No way—once bitten, twice shy. The last one was a disaster."
+   }
+  ],
+  "dialog_zh": "A：你还要再试一次网上交友吗？B：才不要——一朝被蛇咬，十年怕井绳。上次简直是灾难。",
+  "tip": "常整句说 Once bitten, twice shy；也可说 a case of once bitten, twice shy。强调因糟糕经历而变得谨慎，不是字面‘害羞’。",
+  "audios": [
+   "media/once-bitten-twice-shy-1.mp3"
+  ],
+  "transcripts": [
+   "Once bitten, twice shy."
+  ],
+  "video": null,
+  "audio": null,
+  "link": null,
+  "link_title": null
+ },
+ {
+  "phrase": "Out of the frying pan into the fire.",
+  "slug": "out-of-the-frying-pan-into-the-fire",
+  "sent_at": "2026-11-07 08:00",
+  "literal": "从煎锅跳进火里",
+  "meaning": "才出龙潭又入虎穴；刚摆脱一个困境，又陷入更糟的情况",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "He quit that stressful job for a startup."
+   },
+   {
+    "who": "B",
+    "en": "And now he works 80-hour weeks? Out of the frying pan into the fire."
+   }
+  ],
+  "dialog_zh": "A：他辞掉那份高压工作去了创业公司。B：结果现在一周干八十小时？这是才出龙潭又入虎穴啊。",
+  "tip": "也常说 jump / jumped out of the frying pan (and) into the fire；from the frying pan into the fire 同义。重点是‘更糟’，不是单纯换环境。",
+  "audios": [
+   "media/out-of-the-frying-pan-into-the-fire-1.mp3",
+   "media/out-of-the-frying-pan-into-the-fire-2.mp3",
+   "media/out-of-the-frying-pan-into-the-fire-3.mp3"
+  ],
+  "transcripts": [
+   "out of the frying pan into the fire.",
+   "in very hot oil. But what does it mean to go from the frying pan and into the fire? James is really not happy. What's the...",
+   "And I have to pay for a parking space. Sounds like you've jumped out of the frying pan and into the fire. Please don't remind me."
+  ],
+  "video": null,
+  "audio": null,
+  "link": null,
+  "link_title": null
+ },
+ {
+  "phrase": "Shape up or ship out.",
+  "slug": "shape-up-or-ship-out",
+  "sent_at": "2026-11-07 08:00",
+  "literal": "要么端正表现，要么打包走人",
+  "meaning": "不好好干就走人；警告对方改进表现，否则离开",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "The new hire keeps missing deadlines."
+   },
+   {
+    "who": "B",
+    "en": "I told him: shape up or ship out. We can't cover for him forever."
+   }
+  ],
+  "dialog_zh": "A：新来的总是赶不上截止日期。B：我跟他说了：不好好干就走人。我们不能一直帮他擦屁股。",
+  "tip": "语气强硬，多用于上司对下属或教练对队员；日常朋友间会显得很冲。shape up 可单独表示‘改进表现’。",
+  "audios": [
+   "media/shape-up-or-ship-out-1.mp3",
+   "media/shape-up-or-ship-out-2.mp3",
+   "media/shape-up-or-ship-out-3.mp3"
+  ],
+  "transcripts": [
+   "shape up or ship out",
+   "And step further, she or he might add a threat by saying shape up or ship out. Talking about ships, we also describe things",
+   "weren't getting done. What did you do? I told him, shape up or ship out. That's pretty harsh. Maybe, but he shaped up."
+  ],
+  "video": null,
+  "audio": null,
+  "link": null,
+  "link_title": null
  }
 ]
