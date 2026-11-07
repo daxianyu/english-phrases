@@ -5273,5 +5273,104 @@
   "audio": null,
   "link": null,
   "link_title": null
+ },
+ {
+  "phrase": "Snowed under.",
+  "slug": "snowed-under",
+  "sent_at": "2026-11-07 15:30",
+  "literal": "被雪埋住",
+  "meaning": "忙得不可开交；工作/任务压得喘不过气",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Want to grab lunch?"
+   },
+   {
+    "who": "B",
+    "en": "I can't—I'm completely snowed under with reports."
+   }
+  ],
+  "dialog_zh": "A：去吃午饭吗？B：去不了——报告堆成山，我忙死了。",
+  "tip": "常说 be snowed under (with something)；强调工作量过大，不是字面下雪。",
+  "audios": [
+   "media/snowed-under-1.mp3",
+   "media/snowed-under-2.mp3",
+   "media/snowed-under-3.mp3"
+  ],
+  "transcripts": [
+   "Snow dunder",
+   "inside the house, we say we are snowbound or snowed under. And we often use snowed under to describe...",
+   "And alone, Sylvia explains, I was poor and snowed under so many unpaid bills that I could barely breathe."
+  ],
+  "video": null,
+  "audio": null,
+  "link": null,
+  "link_title": null
+ },
+ {
+  "phrase": "That ship has sailed.",
+  "slug": "that-ship-has-sailed",
+  "sent_at": "2026-11-07 15:30",
+  "literal": "那艘船已经启航了",
+  "meaning": "机会已过；木已成舟，再也回不去了",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Maybe we should apply for that grant."
+   },
+   {
+    "who": "B",
+    "en": "That ship has sailed—the deadline was last month."
+   }
+  ],
+  "dialog_zh": "A：也许我们该申请那个资助。B：没戏了——截止日期上个月就过了。",
+  "tip": "用来表示时机已过、无法挽回；语气可遗憾可干脆，别理解成真的谈船。",
+  "audios": [
+   "media/that-ship-has-sailed-1.mp3",
+   "media/that-ship-has-sailed-2.mp3",
+   "media/that-ship-has-sailed-3.mp3"
+  ],
+  "transcripts": [
+   "That ship has sailed.",
+   "She would love to go out with your friend Rocky. That was months ago. That ship has sailed. What do you mean? There's always a chance for love. Not this...",
+   "If you like boating expressions, you can also say that ship has sailed or that someone has missed the boat."
+  ],
+  "video": null,
+  "audio": null,
+  "link": null,
+  "link_title": null
+ },
+ {
+  "phrase": "Through thick and thin.",
+  "slug": "through-thick-and-thin",
+  "sent_at": "2026-11-07 15:30",
+  "literal": "穿过厚的和薄的",
+  "meaning": "同甘共苦；无论顺境逆境都在一起",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "You've known Maya forever."
+   },
+   {
+    "who": "B",
+    "en": "Yeah—we've stuck together through thick and thin."
+   }
+  ],
+  "dialog_zh": "A：你认识玛雅好久了。B：是啊——我们同甘共苦一路走来。",
+  "tip": "常跟 stick / stay / be with someone 搭配；thick=难关，thin=顺境，不是形容身材。",
+  "audios": [
+   "media/through-thick-and-thin-1.mp3",
+   "media/through-thick-and-thin-2.mp3",
+   "media/through-thick-and-thin-3.mp3"
+  ],
+  "transcripts": [
+   "There are two examples. John and Lisa have been friends through thick and thin. My best friend and I stayed together.",
+   "Dogs may provide support and be beside us through thick and thin. If a pet or a person is with you through thick and thin,",
+   "and bad. Another way to say this is to see them through thick and thin, or be with them through thick and thin."
+  ],
+  "video": null,
+  "audio": null,
+  "link": null,
+  "link_title": null
  }
 ]

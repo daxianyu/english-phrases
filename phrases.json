@@ -3323,5 +3323,62 @@
     ],
     "dialog_zh": "A：新来的总是赶不上截止日期。B：我跟他说了：不好好干就走人。我们不能一直帮他擦屁股。",
     "tip": "语气强硬，多用于上司对下属或教练对队员；日常朋友间会显得很冲。shape up 可单独表示‘改进表现’。"
+  },
+  {
+    "phrase": "Snowed under.",
+    "slug": "snowed-under",
+    "sent_at": "2026-11-07 15:30",
+    "literal": "被雪埋住",
+    "meaning": "忙得不可开交；工作/任务压得喘不过气",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "Want to grab lunch?"
+      },
+      {
+        "who": "B",
+        "en": "I can't—I'm completely snowed under with reports."
+      }
+    ],
+    "dialog_zh": "A：去吃午饭吗？B：去不了——报告堆成山，我忙死了。",
+    "tip": "常说 be snowed under (with something)；强调工作量过大，不是字面下雪。"
+  },
+  {
+    "phrase": "That ship has sailed.",
+    "slug": "that-ship-has-sailed",
+    "sent_at": "2026-11-07 15:30",
+    "literal": "那艘船已经启航了",
+    "meaning": "机会已过；木已成舟，再也回不去了",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "Maybe we should apply for that grant."
+      },
+      {
+        "who": "B",
+        "en": "That ship has sailed—the deadline was last month."
+      }
+    ],
+    "dialog_zh": "A：也许我们该申请那个资助。B：没戏了——截止日期上个月就过了。",
+    "tip": "用来表示时机已过、无法挽回；语气可遗憾可干脆，别理解成真的谈船。"
+  },
+  {
+    "phrase": "Through thick and thin.",
+    "slug": "through-thick-and-thin",
+    "sent_at": "2026-11-07 15:30",
+    "literal": "穿过厚的和薄的",
+    "meaning": "同甘共苦；无论顺境逆境都在一起",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "You've known Maya forever."
+      },
+      {
+        "who": "B",
+        "en": "Yeah—we've stuck together through thick and thin."
+      }
+    ],
+    "dialog_zh": "A：你认识玛雅好久了。B：是啊——我们同甘共苦一路走来。",
+    "tip": "常跟 stick / stay / be with someone 搭配；thick=难关，thin=顺境，不是形容身材。"
   }
 ]
