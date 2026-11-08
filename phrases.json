@@ -3380,5 +3380,62 @@
     ],
     "dialog_zh": "A：你认识玛雅好久了。B：是啊——我们同甘共苦一路走来。",
     "tip": "常跟 stick / stay / be with someone 搭配；thick=难关，thin=顺境，不是形容身材。"
+  },
+  {
+    "phrase": "Weather the storm.",
+    "slug": "weather-the-storm",
+    "sent_at": "2026-11-08 08:00",
+    "literal": "经受住风暴",
+    "meaning": "渡过难关；挺过危机",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "The company lost two big clients this quarter."
+      },
+      {
+        "who": "B",
+        "en": "I know. If we can weather the storm, things should pick up next year."
+      }
+    ],
+    "dialog_zh": "A：公司这季度丢了两个大客户。B：我知道。要是能熬过这段难关，明年应该会好转。",
+    "tip": "weather 在这里是动词，表示‘挺过去’，不是谈天气；也常说 weather a crisis。"
+  },
+  {
+    "phrase": "Fit as a fiddle.",
+    "slug": "fit-as-a-fiddle",
+    "sent_at": "2026-11-08 08:00",
+    "literal": "像小提琴一样合身/健康",
+    "meaning": "非常健康；身体棒",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "How's your dad after the surgery?"
+      },
+      {
+        "who": "B",
+        "en": "He's fit as a fiddle—already back to his morning walks."
+      }
+    ],
+    "dialog_zh": "A：你爸手术后怎么样？B：好得很——已经恢复每天晨走了。",
+    "tip": "这里的 fit 指身体健康，不是衣服合身；as a fiddle 只是固定比喻，别按字面理解成乐器。"
+  },
+  {
+    "phrase": "Get a second wind.",
+    "slug": "get-a-second-wind",
+    "sent_at": "2026-11-08 08:00",
+    "literal": "得到第二阵风",
+    "meaning": "重新振作；疲劳后又来劲",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "You looked exhausted an hour ago."
+      },
+      {
+        "who": "B",
+        "en": "I got a second wind after a snack and some water."
+      }
+    ],
+    "dialog_zh": "A：一小时前你看着都快累垮了。B：吃了点东西喝了点水，我又缓过来了。",
+    "tip": "常说 get / catch a second wind；既可用于跑步等体力活动，也可用于工作或创作状态回升。"
   }
 ]
