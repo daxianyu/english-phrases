@@ -5463,5 +5463,104 @@
   "audio": null,
   "link": null,
   "link_title": null
+ },
+ {
+  "phrase": "Like two peas in a pod.",
+  "slug": "like-two-peas-in-a-pod",
+  "sent_at": "2026-11-08 15:30",
+  "literal": "像豆荚里的两颗豌豆",
+  "meaning": "非常相似；形影不离、志趣相投",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Those twins even finish each other's sentences."
+   },
+   {
+    "who": "B",
+    "en": "I know—they're like two peas in a pod."
+   }
+  ],
+  "dialog_zh": "A：那对双胞胎连对方的话都能接上。B：就是——他俩像一个模子刻出来的。",
+  "tip": "常说 (like) two peas in a pod，多形容两人外表或性格很像，关系也好；不必只用于双胞胎。",
+  "audios": [
+   "media/like-two-peas-in-a-pod-1.mp3",
+   "media/like-two-peas-in-a-pod-2.mp3",
+   "media/like-two-peas-in-a-pod-3.mp3"
+  ],
+  "transcripts": [
+   "together through thick and thin. If two people are like two peas in a pot, it means that they get along very well. They are too.",
+   "I have never seen Lola and can we argue? They're like two peas in a pod. The saying thick as these means the same thing.",
+   "I don't know. I wonder if something's going on between those two. That would be weird. Katie and Ashley have always been two peas in a pod. Well, they have had disagreements in the past. About grammar."
+  ],
+  "video": null,
+  "audio": null,
+  "link": null,
+  "link_title": null
+ },
+ {
+  "phrase": "Sitting on the fence.",
+  "slug": "sitting-on-the-fence",
+  "sent_at": "2026-11-08 15:30",
+  "literal": "坐在篱笆墙上",
+  "meaning": "犹豫不决；持观望态度，不愿选边",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Are you voting for the proposal?"
+   },
+   {
+    "who": "B",
+    "en": "I'm still sitting on the fence—I need more details."
+   }
+  ],
+  "dialog_zh": "A：这个提案你投赞成票吗？B：我还在观望——得再多了解一些。",
+  "tip": "也说 sit / be on the fence，强调迟迟不表态。fence-sitter 带点贬义，说别人老当和事佬、没立场。",
+  "audios": [
+   "media/sitting-on-the-fence-1.mp3",
+   "media/sitting-on-the-fence-2.mp3",
+   "media/sitting-on-the-fence-3.mp3"
+  ],
+  "transcripts": [
+   "expression is very common, to be on the fence. If you are sitting on the fence about something, you are undecided.",
+   "But you don't know which is more important for the students. So you sit on the fence for a while. You don't feel strongly about either choice.",
+   "For two days I have thought about the pros and the cons, but I am still on the fence. Well you can't sit on the fence much longer. I need a decision."
+  ],
+  "video": null,
+  "audio": null,
+  "link": null,
+  "link_title": null
+ },
+ {
+  "phrase": "Straight from the horse's mouth.",
+  "slug": "straight-from-the-horses-mouth",
+  "sent_at": "2026-11-08 15:30",
+  "literal": "直接从马嘴里来的",
+  "meaning": "从当事人或权威源头直接得来的消息",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Is the merger really happening?"
+   },
+   {
+    "who": "B",
+    "en": "Yes—I heard it straight from the horse's mouth. The CEO told me herself."
+   }
+  ],
+  "dialog_zh": "A：并购真的要进行了？B：是的，我是从当事人那儿直接听说的。CEO亲自跟我说的。",
+  "tip": "表示消息是第一手、可靠的，不是道听途说；也常省略 straight，说 from the horse's mouth。别理解成真的和马有关。",
+  "audios": [
+   "media/straight-from-the-horses-mouth-1.mp3",
+   "media/straight-from-the-horses-mouth-2.mp3",
+   "media/straight-from-the-horses-mouth-3.mp3"
+  ],
+  "transcripts": [
+   "likes to play the piano. But don't take my word for it. Let's hear it straight from the horse's mouth. I really like to play the piano. Thanks, Andrew.",
+   "She told me. Maybe you misheard her. I didn't. I heard it straight from the horse's mouth. Stella's. And that's all the time we have on",
+   "Did you hear that rumor going around about Craig and Cheryl calling off their wedding? Yeah, I heard it straight from the horse's mouth. Craig told me he's calling off the wedding."
+  ],
+  "video": null,
+  "audio": null,
+  "link": null,
+  "link_title": null
  }
 ]
