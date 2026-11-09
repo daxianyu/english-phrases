@@ -3551,5 +3551,62 @@
     ],
     "dialog_zh": "A：这季度预算很紧，所以招聘先暂停。B：也就是说，新同事暂时还来不了。",
     "tip": "用来换一种更直白的说法，或总结、确认对方的意思。注意 words 是复数。"
+  },
+  {
+    "phrase": "Keep in mind.",
+    "slug": "keep-in-mind",
+    "sent_at": "2026-11-09 15:30",
+    "literal": "保持在脑中",
+    "meaning": "记住；别忘了",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "The deadline is Friday, not next week."
+      },
+      {
+        "who": "B",
+        "en": "Thanks—I'll keep that in mind."
+      }
+    ],
+    "dialog_zh": "A：截止日期是周五，不是下周一。B：谢谢，我会记住的。",
+    "tip": "常用 keep in mind that… 或 keep something in mind，提醒对方注意某个要点。比 remember 稍正式一点。"
+  },
+  {
+    "phrase": "On the other hand.",
+    "slug": "on-the-other-hand",
+    "sent_at": "2026-11-09 15:30",
+    "literal": "在另一只手上",
+    "meaning": "另一方面",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "Working from home saves me two hours of commuting."
+      },
+      {
+        "who": "B",
+        "en": "On the other hand, I miss chatting with the team."
+      }
+    ],
+    "dialog_zh": "A：在家办公能省下两个小时通勤。B：另一方面，我还是想念跟同事聊天。",
+    "tip": "用来提出对比的另一面；常和 on the one hand 成对出现，但口语里也可以单独用。"
+  },
+  {
+    "phrase": "All of a sudden.",
+    "slug": "all-of-a-sudden",
+    "sent_at": "2026-11-09 15:30",
+    "literal": "全部突然",
+    "meaning": "突然",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "How did the meeting go?"
+      },
+      {
+        "who": "B",
+        "en": "Fine at first, then all of a sudden everyone started arguing."
+      }
+    ],
+    "dialog_zh": "A：会开得怎么样？B：一开始还好，然后突然大家都吵起来了。",
+    "tip": "口语里比 suddenly 更常见；中间的 of a 不能丢掉，别说成 all sudden。"
   }
 ]

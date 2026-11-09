@@ -1458,10 +1458,18 @@
   ],
   "dialog_zh": "记住商店九点关门。——谢谢，我抓紧。",
   "tip": "keep sth in mind / keep in mind that…",
-  "audios": [],
-  "transcripts": [],
+  "audios": [
+   "media/keep-in-mind-1.mp3",
+   "media/keep-in-mind-2.mp3",
+   "media/keep-in-mind-3.mp3"
+  ],
+  "transcripts": [
+   "And on our program today, we will explore a few. Keep in mind that you don't need to memorize any of them. To begin.",
+   "the command form leaves out the subject. Keep in mind that some of these commands can be considered friendly advice.",
+   "not between the B verb and the adjective. But keep in mind that most native English speakers use contractions. So in real..."
+  ],
   "video": null,
-  "audio": "media/keep-in-mind.mp3",
+  "audio": null,
   "link": "https://learningenglish.voanews.com/a/the-more-i-practice-the-more-i-remember/4995040.html",
   "link_title": "Everyday Grammar: The More I Practice, the More I Remember (The/The Comparatives)"
  },
@@ -5677,5 +5685,104 @@
   "audio": null,
   "link": "https://learningenglish.voanews.com/a/everyday-grammar-transition-words/4019183.html",
   "link_title": "Everyday Grammar: Common Transition Words"
+ },
+ {
+  "phrase": "Keep in mind.",
+  "slug": "keep-in-mind",
+  "sent_at": "2026-11-09 15:30",
+  "literal": "保持在脑中",
+  "meaning": "记住；别忘了",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "The deadline is Friday, not next week."
+   },
+   {
+    "who": "B",
+    "en": "Thanks—I'll keep that in mind."
+   }
+  ],
+  "dialog_zh": "A：截止日期是周五，不是下周一。B：谢谢，我会记住的。",
+  "tip": "常用 keep in mind that… 或 keep something in mind，提醒对方注意某个要点。比 remember 稍正式一点。",
+  "audios": [
+   "media/keep-in-mind-1.mp3",
+   "media/keep-in-mind-2.mp3",
+   "media/keep-in-mind-3.mp3"
+  ],
+  "transcripts": [
+   "And on our program today, we will explore a few. Keep in mind that you don't need to memorize any of them. To begin.",
+   "the command form leaves out the subject. Keep in mind that some of these commands can be considered friendly advice.",
+   "not between the B verb and the adjective. But keep in mind that most native English speakers use contractions. So in real..."
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://learningenglish.voanews.com/a/the-more-i-practice-the-more-i-remember/4995040.html",
+  "link_title": "Everyday Grammar: The More I Practice, the More I Remember (The/The Comparatives)"
+ },
+ {
+  "phrase": "On the other hand.",
+  "slug": "on-the-other-hand",
+  "sent_at": "2026-11-09 15:30",
+  "literal": "在另一只手上",
+  "meaning": "另一方面",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Working from home saves me two hours of commuting."
+   },
+   {
+    "who": "B",
+    "en": "On the other hand, I miss chatting with the team."
+   }
+  ],
+  "dialog_zh": "A：在家办公能省下两个小时通勤。B：另一方面，我还是想念跟同事聊天。",
+  "tip": "用来提出对比的另一面；常和 on the one hand 成对出现，但口语里也可以单独用。",
+  "audios": [
+   "media/on-the-other-hand-1.mp3",
+   "media/on-the-other-hand-2.mp3",
+   "media/on-the-other-hand-3.mp3"
+  ],
+  "transcripts": [
+   "and other words such as articles and prepositions. On the other hand, Americans often stress content words, words that",
+   "Look means view and up means in a higher direction. On the other hand, a phrasal verb has a single meaning.",
+   "Hope usually expresses desire that is possible. Wish, on the other hand, refers to an outcome that is not likely to happen."
+  ],
+  "video": null,
+  "audio": null,
+  "link": null,
+  "link_title": null
+ },
+ {
+  "phrase": "All of a sudden.",
+  "slug": "all-of-a-sudden",
+  "sent_at": "2026-11-09 15:30",
+  "literal": "全部突然",
+  "meaning": "突然",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "How did the meeting go?"
+   },
+   {
+    "who": "B",
+    "en": "Fine at first, then all of a sudden everyone started arguing."
+   }
+  ],
+  "dialog_zh": "A：会开得怎么样？B：一开始还好，然后突然大家都吵起来了。",
+  "tip": "口语里比 suddenly 更常见；中间的 of a 不能丢掉，别说成 all sudden。",
+  "audios": [
+   "media/all-of-a-sudden-1.mp3",
+   "media/all-of-a-sudden-2.mp3",
+   "media/all-of-a-sudden-3.mp3"
+  ],
+  "transcripts": [
+   "Girl that was here last year. Yes. And so I was all of a sudden representing this radio station in the misfire prevention contest. Where all you had to do was walk parade around in the...",
+   "He took a step back and changed something way up here. He changed something way up in the system. And all of a sudden everything got solved. And we were like, we all looked around the table and each other go.",
+   "Sometimes people are just like, they happen to be doing something I love and all of a sudden the commercial models and venture and everything else goes into it and all of a sudden..."
+  ],
+  "video": null,
+  "audio": null,
+  "link": null,
+  "link_title": null
  }
 ]
