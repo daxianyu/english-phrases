@@ -1392,10 +1392,18 @@
   ],
   "dialog_zh": "这样讲明白吗？——明白，讲得通。",
   "tip": "注意第三人称 makes sense；make sense of = 弄懂。",
-  "audios": [],
-  "transcripts": [],
+  "audios": [
+   "media/make-sense-1.mp3",
+   "media/make-sense-2.mp3",
+   "media/make-sense-3.mp3"
+  ],
+  "transcripts": [
+   "If you can replace the verb with is and the sentence still makes sense, it is probably a linking verb. For example,",
+   "Things often don't add up so simply. Things that should make sense sometimes don't, as in this example.",
+   "make sense."
+  ],
   "video": null,
-  "audio": "media/make-sense.mp3",
+  "audio": null,
   "link": "https://learningenglish.voanews.com/a/everyday-grammar-commonly-confused-words-week-one/3294436.html",
   "link_title": "Everyday Grammar: Commonly Confused Words: Part One"
  },
@@ -1417,10 +1425,18 @@
   ],
   "dialog_zh": "今年预算有限。——也就是说没有涨薪？",
   "tip": "用于换个说法或总结。",
-  "audios": [],
-  "transcripts": [],
+  "audios": [
+   "media/in-other-words-1.mp3",
+   "media/in-other-words-2.mp3",
+   "media/in-other-words-3.mp3"
+  ],
+  "transcripts": [
+   "Adverbials can appear at different places in a sentence. In other words, they are movable. In the example, the second sentence...",
+   "lot to learn. But do not throw in the towel, in other words, do not give up. Instead, knock yourself out.",
+   "when we are restating something in a simpler way. So, in other words, complex carbohydrates are starches that have not been refined."
+  ],
   "video": null,
-  "audio": "media/in-other-words.mp3",
+  "audio": null,
   "link": "https://learningenglish.voanews.com/a/everyday-grammar-transition-words/4019183.html",
   "link_title": "Everyday Grammar: Common Transition Words"
  },
@@ -5562,5 +5578,104 @@
   "audio": null,
   "link": null,
   "link_title": null
+ },
+ {
+  "phrase": "The pot calling the kettle black.",
+  "slug": "the-pot-calling-the-kettle-black",
+  "sent_at": "2026-11-09 08:00",
+  "literal": "锅说水壶黑",
+  "meaning": "五十步笑百步；指责别人有自己同样的缺点",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "He said I spend too much on coffee."
+   },
+   {
+    "who": "B",
+    "en": "That's the pot calling the kettle black—he buys a latte every morning."
+   }
+  ],
+  "dialog_zh": "A：他说我咖啡花钱太多。B：这不是五十步笑百步吗——他每天早上都买拿铁。",
+  "tip": "完整说法是 the pot calling the kettle black，也常说 That's the pot calling the kettle black。用来回敬指责你有同样毛病的人，不是真的在说厨具。",
+  "audios": [
+   "media/the-pot-calling-the-kettle-black-1.mp3",
+   "media/the-pot-calling-the-kettle-black-2.mp3",
+   "media/the-pot-calling-the-kettle-black-3.mp3"
+  ],
+  "transcripts": [
+   "Pot calling the kettle black.",
+   "Pot calling the kettle black.",
+   "The pot calling the kettle black."
+  ],
+  "video": null,
+  "audio": null,
+  "link": null,
+  "link_title": null
+ },
+ {
+  "phrase": "Make sense.",
+  "slug": "make-sense",
+  "sent_at": "2026-11-09 08:00",
+  "literal": "制造意义",
+  "meaning": "讲得通；合理；能理解",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "We'll take the earlier train so we don't have to rush."
+   },
+   {
+    "who": "B",
+    "en": "Yeah, that makes sense."
+   }
+  ],
+  "dialog_zh": "A：我们坐早一班火车，这样就不用赶了。B：对，这样说得通。",
+  "tip": "疑问句常用 Does that make sense?；第三人称是 makes sense。make sense of something = 弄懂某事。",
+  "audios": [
+   "media/make-sense-1.mp3",
+   "media/make-sense-2.mp3",
+   "media/make-sense-3.mp3"
+  ],
+  "transcripts": [
+   "If you can replace the verb with is and the sentence still makes sense, it is probably a linking verb. For example,",
+   "Things often don't add up so simply. Things that should make sense sometimes don't, as in this example.",
+   "make sense."
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://learningenglish.voanews.com/a/everyday-grammar-commonly-confused-words-week-one/3294436.html",
+  "link_title": "Everyday Grammar: Commonly Confused Words: Part One"
+ },
+ {
+  "phrase": "In other words.",
+  "slug": "in-other-words",
+  "sent_at": "2026-11-09 08:00",
+  "literal": "用别的话",
+  "meaning": "换句话说；也就是说",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "The budget is tight this quarter, so hiring is on hold."
+   },
+   {
+    "who": "B",
+    "en": "In other words, we're not getting those new teammates yet."
+   }
+  ],
+  "dialog_zh": "A：这季度预算很紧，所以招聘先暂停。B：也就是说，新同事暂时还来不了。",
+  "tip": "用来换一种更直白的说法，或总结、确认对方的意思。注意 words 是复数。",
+  "audios": [
+   "media/in-other-words-1.mp3",
+   "media/in-other-words-2.mp3",
+   "media/in-other-words-3.mp3"
+  ],
+  "transcripts": [
+   "Adverbials can appear at different places in a sentence. In other words, they are movable. In the example, the second sentence...",
+   "lot to learn. But do not throw in the towel, in other words, do not give up. Instead, knock yourself out.",
+   "when we are restating something in a simpler way. So, in other words, complex carbohydrates are starches that have not been refined."
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://learningenglish.voanews.com/a/everyday-grammar-transition-words/4019183.html",
+  "link_title": "Everyday Grammar: Common Transition Words"
  }
 ]

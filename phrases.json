@@ -3494,5 +3494,62 @@
     ],
     "dialog_zh": "A：并购真的要进行了？B：是的，我是从当事人那儿直接听说的。CEO亲自跟我说的。",
     "tip": "表示消息是第一手、可靠的，不是道听途说；也常省略 straight，说 from the horse's mouth。别理解成真的和马有关。"
+  },
+  {
+    "phrase": "The pot calling the kettle black.",
+    "slug": "the-pot-calling-the-kettle-black",
+    "sent_at": "2026-11-09 08:00",
+    "literal": "锅说水壶黑",
+    "meaning": "五十步笑百步；指责别人有自己同样的缺点",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "He said I spend too much on coffee."
+      },
+      {
+        "who": "B",
+        "en": "That's the pot calling the kettle black—he buys a latte every morning."
+      }
+    ],
+    "dialog_zh": "A：他说我咖啡花钱太多。B：这不是五十步笑百步吗——他每天早上都买拿铁。",
+    "tip": "完整说法是 the pot calling the kettle black，也常说 That's the pot calling the kettle black。用来回敬指责你有同样毛病的人，不是真的在说厨具。"
+  },
+  {
+    "phrase": "Make sense.",
+    "slug": "make-sense",
+    "sent_at": "2026-11-09 08:00",
+    "literal": "制造意义",
+    "meaning": "讲得通；合理；能理解",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "We'll take the earlier train so we don't have to rush."
+      },
+      {
+        "who": "B",
+        "en": "Yeah, that makes sense."
+      }
+    ],
+    "dialog_zh": "A：我们坐早一班火车，这样就不用赶了。B：对，这样说得通。",
+    "tip": "疑问句常用 Does that make sense?；第三人称是 makes sense。make sense of something = 弄懂某事。"
+  },
+  {
+    "phrase": "In other words.",
+    "slug": "in-other-words",
+    "sent_at": "2026-11-09 08:00",
+    "literal": "用别的话",
+    "meaning": "换句话说；也就是说",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "The budget is tight this quarter, so hiring is on hold."
+      },
+      {
+        "who": "B",
+        "en": "In other words, we're not getting those new teammates yet."
+      }
+    ],
+    "dialog_zh": "A：这季度预算很紧，所以招聘先暂停。B：也就是说，新同事暂时还来不了。",
+    "tip": "用来换一种更直白的说法，或总结、确认对方的意思。注意 words 是复数。"
   }
 ]
