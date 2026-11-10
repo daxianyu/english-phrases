@@ -3608,5 +3608,62 @@
     ],
     "dialog_zh": "A：会开得怎么样？B：一开始还好，然后突然大家都吵起来了。",
     "tip": "口语里比 suddenly 更常见；中间的 of a 不能丢掉，别说成 all sudden。"
+  },
+  {
+    "phrase": "More or less.",
+    "slug": "more-or-less",
+    "sent_at": "2026-11-10 08:00",
+    "literal": "多或少",
+    "meaning": "差不多；大致",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "Is the apartment ready for us to move in?"
+      },
+      {
+        "who": "B",
+        "en": "More or less. We still need to unpack a few boxes."
+      }
+    ],
+    "dialog_zh": "A：公寓能住了吗？B：差不多了，还有几箱东西要拆。",
+    "tip": "表示大致如此、不完全精确。也可以说 pretty much。"
+  },
+  {
+    "phrase": "Keep in touch.",
+    "slug": "keep-in-touch",
+    "sent_at": "2026-11-10 08:00",
+    "literal": "保持在接触中",
+    "meaning": "保持联系",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "I start my new job in another city next week."
+      },
+      {
+        "who": "B",
+        "en": "That's exciting! Keep in touch, okay?"
+      }
+    ],
+    "dialog_zh": "A：我下周要去另一个城市开始新工作了。B：真好！记得保持联系哦。",
+    "tip": "常用于道别，语气亲切；也可以说 stay in touch。和某人保持联系是 keep in touch with someone。"
+  },
+  {
+    "phrase": "Make a difference.",
+    "slug": "make-a-difference",
+    "sent_at": "2026-11-10 08:00",
+    "literal": "制造一个差别",
+    "meaning": "产生影响；起作用（多指积极的改变）",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "I only donated a little. Does it even matter?"
+      },
+      {
+        "who": "B",
+        "en": "Of course it does. Even small gifts make a difference."
+      }
+    ],
+    "dialog_zh": "A：我只捐了一点点，这有用吗？B：当然有。再小的心意也能带来改变。",
+    "tip": "多为正面含义。“影响很大”说 make a big difference，“没什么区别”说 It doesn't make any difference。动词用 make，不用 do。"
   }
 ]

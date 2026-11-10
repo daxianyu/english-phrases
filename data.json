@@ -5784,5 +5784,104 @@
   "audio": null,
   "link": null,
   "link_title": null
+ },
+ {
+  "phrase": "More or less.",
+  "slug": "more-or-less",
+  "sent_at": "2026-11-10 08:00",
+  "literal": "多或少",
+  "meaning": "差不多；大致",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Is the apartment ready for us to move in?"
+   },
+   {
+    "who": "B",
+    "en": "More or less. We still need to unpack a few boxes."
+   }
+  ],
+  "dialog_zh": "A：公寓能住了吗？B：差不多了，还有几箱东西要拆。",
+  "tip": "表示大致如此、不完全精确。也可以说 pretty much。",
+  "audios": [
+   "media/more-or-less-1.mp3",
+   "media/more-or-less-2.mp3",
+   "media/more-or-less-3.mp3"
+  ],
+  "transcripts": [
+   "You know, it's and I've gotten myself into a position where I can More or less experiment using my own resources and if I fail I fail. That's the reason",
+   "Now traveling around the world and able to meet more or less anybody, there's open doors.",
+   "Goresese, Francis Fort Copola, and Brian DiPama. They came of age more or less in the 1960s and were determined to do things in new ways."
+  ],
+  "video": null,
+  "audio": null,
+  "link": null,
+  "link_title": null
+ },
+ {
+  "phrase": "Keep in touch.",
+  "slug": "keep-in-touch",
+  "sent_at": "2026-11-10 08:00",
+  "literal": "保持在接触中",
+  "meaning": "保持联系",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "I start my new job in another city next week."
+   },
+   {
+    "who": "B",
+    "en": "That's exciting! Keep in touch, okay?"
+   }
+  ],
+  "dialog_zh": "A：我下周要去另一个城市开始新工作了。B：真好！记得保持联系哦。",
+  "tip": "常用于道别，语气亲切；也可以说 stay in touch。和某人保持联系是 keep in touch with someone。",
+  "audios": [
+   "media/keep-in-touch-1.mp3",
+   "media/keep-in-touch-2.mp3",
+   "media/keep-in-touch-3.mp3"
+  ],
+  "transcripts": [
+   "future, you can use these. Don't be a stranger. Keep in touch. If someone is leaving you on a trip, you can wish them a",
+   "in the music. They became friends. Now they keep in touch, Uprasert said. I felt really happy to see that happen.",
+   "I rode my bicycle to visit students at their homes and keep in touch with their parents. I was a local authority in the village at that"
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://learningenglish.voanews.com/a/ways-to-say-goodbye/7476793.html",
+  "link_title": "Ways to Say 'Goodbye'"
+ },
+ {
+  "phrase": "Make a difference.",
+  "slug": "make-a-difference",
+  "sent_at": "2026-11-10 08:00",
+  "literal": "制造一个差别",
+  "meaning": "产生影响；起作用（多指积极的改变）",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "I only donated a little. Does it even matter?"
+   },
+   {
+    "who": "B",
+    "en": "Of course it does. Even small gifts make a difference."
+   }
+  ],
+  "dialog_zh": "A：我只捐了一点点，这有用吗？B：当然有。再小的心意也能带来改变。",
+  "tip": "多为正面含义。“影响很大”说 make a big difference，“没什么区别”说 It doesn't make any difference。动词用 make，不用 do。",
+  "audios": [
+   "media/make-a-difference-1.mp3",
+   "media/make-a-difference-2.mp3",
+   "media/make-a-difference-3.mp3"
+  ],
+  "transcripts": [
+   "Shall we tell about some unusual young people who work to make a difference in the world?",
+   "through their involvement in the festival, students learned that they can make a difference in the world, no matter their age.",
+   "She said the world needs to slow climate warming to really make a difference. I'm Anna Matteo."
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://learningenglish.voanews.com/a/teenagers-live-extraordinary-lives-to-make-a-difference-/1915636.html",
+  "link_title": "American Teenagers Making a Difference"
  }
 ]
