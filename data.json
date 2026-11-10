@@ -792,9 +792,15 @@
   ],
   "dialog_zh": "我来不了，要上班。——行吧，理解。",
   "tip": "接受对方理由，有时略带勉强。",
-  "audios": [],
-  "transcripts": [],
-  "video": "media/fair-enough.mp4",
+  "audios": [
+   "media/fair-enough-1.mp3",
+   "media/fair-enough-2.mp3"
+  ],
+  "transcripts": [
+   "What kind of music are you listening to? Well, probably pop music. And that's fine. That's okay. Fair enough. Pop music. But are you getting the most out of this particular experience?",
+   "But I've been thinking about it for a while, and I feel good about it. Fair enough, but just make sure you're not missing something important by jumping in too fast."
+  ],
+  "video": null,
   "audio": null,
   "link": "https://www.youtube.com/watch?v=SJ5uEJpA-i8",
   "link_title": "FAIR ENOUGH | Learn This English Idiom with Stories"
@@ -5883,5 +5889,38 @@
   "audio": null,
   "link": "https://learningenglish.voanews.com/a/teenagers-live-extraordinary-lives-to-make-a-difference-/1915636.html",
   "link_title": "American Teenagers Making a Difference"
+ },
+ {
+  "phrase": "You can say that again.",
+  "slug": "you-can-say-that-again",
+  "sent_at": "2026-11-10 15:30",
+  "literal": "你可以再说一遍",
+  "meaning": "你说得太对了；我完全同意",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "This weather is so hot today."
+   },
+   {
+    "who": "B",
+    "en": "You can say that again!"
+   }
+  ],
+  "dialog_zh": "A：今天天气好热。B：可不是嘛！/ 太对了！",
+  "tip": "表示非常强烈的赞同，并不是真的要对方重复。说的时候重音在 that 上：You can say THAT again.",
+  "audios": [
+   "media/you-can-say-that-again-1.mp3",
+   "media/you-can-say-that-again-2.mp3",
+   "media/you-can-say-that-again-3.mp3"
+  ],
+  "transcripts": [
+   "Oh delicious! And I have to say that your wife is an amazing cook! You can say that again! Pumulisojiga, Mike!",
+   "You can say that again, Anita. When someone says, you can say that again, it means that they agree with you completely. And keep in mind that when you...",
+   "You can say that again."
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://www.voakorea.com/a/2835447.html",
+  "link_title": "English with Yoo: You can say that again!"
  }
 ]
