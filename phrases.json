@@ -3684,5 +3684,62 @@
   ],
   "dialog_zh": "A：今天天气好热。B：可不是嘛！/ 太对了！",
   "tip": "表示非常强烈的赞同，并不是真的要对方重复。说的时候重音在 that 上：You can say THAT again."
+ },
+ {
+  "phrase": "Take a rain check.",
+  "slug": "take-a-rain-check",
+  "sent_at": "2026-11-11 08:00",
+  "literal": "改天再兑现雨天票",
+  "meaning": "这次不行，改天再约；先推迟一下",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "I'm sorry, I can't come to dinner tonight. Can I take a rain check?"
+   },
+   {
+    "who": "B",
+    "en": "Sure, let's do it next week."
+   }
+  ],
+  "dialog_zh": "A：抱歉，我今晚不能来吃饭了，可以改天吗？B：当然，下周再约吧。",
+  "tip": "礼貌地婉拒邀请并表示以后还想约。常说 Can I take a rain check? 或 I'll take a rain check.（我改天吧）。源自棒球赛因雨延期的票。"
+ },
+ {
+  "phrase": "Call it a day.",
+  "slug": "call-it-a-day",
+  "sent_at": "2026-11-11 08:00",
+  "literal": "把它叫作一天",
+  "meaning": "今天就到此为止；收工",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "We've been working for ten hours. Let's call it a day."
+   },
+   {
+    "who": "B",
+    "en": "Good idea. I'm exhausted."
+   }
+  ],
+  "dialog_zh": "A：我们已经干了十个小时了，收工吧。B：好主意，我累坏了。",
+  "tip": "指结束当天的工作或活动，不限于晚上。常说 Let's call it a day。别和 call it a night（晚上收工）混用。"
+ },
+ {
+  "phrase": "Under the weather.",
+  "slug": "under-the-weather",
+  "sent_at": "2026-11-11 08:00",
+  "literal": "在天气底下",
+  "meaning": "身体不太舒服；有点不在状态",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "You look pale. Are you okay?"
+   },
+   {
+    "who": "B",
+    "en": "I'm a bit under the weather today."
+   }
+  ],
+  "dialog_zh": "A：你脸色不好，没事吧？B：我今天有点不舒服。",
+  "tip": "指轻微的不舒服（如感冒、疲惫），不是重病。常用 be/feel under the weather，不要说 under weather。"
  }
 ]
