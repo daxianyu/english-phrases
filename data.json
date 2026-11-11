@@ -6017,5 +6017,98 @@
   "audio": null,
   "link": null,
   "link_title": null
+ },
+ {
+  "phrase": "Piece of cake.",
+  "slug": "piece-of-cake-again",
+  "sent_at": "2026-11-11 15:30",
+  "literal": "一块蛋糕",
+  "meaning": "小菜一碟；很容易",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "How was the exam?"
+   },
+   {
+    "who": "B",
+    "en": "Piece of cake! I finished early."
+   }
+  ],
+  "dialog_zh": "A：考试怎么样？B：小菜一碟！我提前交卷了。",
+  "tip": "形容事情非常容易，常说 It's a piece of cake。别和 take the cake（最出格/最绝）混淆。",
+  "audios": [
+   "media/piece-of-cake-again-1.mp3",
+   "media/piece-of-cake-again-2.mp3"
+  ],
+  "transcripts": [
+   "between two good things. Another expression is a piece of cake. This describes something that is very easy to do.",
+   "Now, I could use Easy as Pie or a piece of cake as examples."
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://learningenglish.voanews.com/a/icing-on-the-cake-is-as-good-as-it-sounds/7265587.html",
+  "link_title": "VOA Learning English: Icing on the cake"
+ },
+ {
+  "phrase": "Hit the sack.",
+  "slug": "hit-the-sack-again",
+  "sent_at": "2026-11-11 15:30",
+  "literal": "撞到麻袋",
+  "meaning": "去睡觉",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "I'm exhausted. I'm going to hit the sack."
+   },
+   {
+    "who": "B",
+    "en": "Me too. See you tomorrow."
+   }
+  ],
+  "dialog_zh": "A：我累坏了，我要去睡了。B：我也是，明天见。",
+  "tip": "口语、轻松的说法，指上床睡觉，同义 hit the hay。较随意，正式场合用 go to bed。",
+  "audios": [
+   "media/hit-the-sack-again-1.mp3"
+  ],
+  "transcripts": [
+   "Young people are very fond of this expression. If you hit the sack or hit the hay, you are officially going to bed for the night."
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://learningenglish.voanews.com/a/words-and-their-stories-zzzzzz/4282439.html",
+  "link_title": "VOA Learning English: Words and Their Stories - Zzzzzz"
+ },
+ {
+  "phrase": "Break a leg.",
+  "slug": "break-a-leg-again",
+  "sent_at": "2026-11-11 15:30",
+  "literal": "摔断一条腿",
+  "meaning": "祝你好运（演出、演讲前）",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "I have my big speech tonight."
+   },
+   {
+    "who": "B",
+    "en": "Break a leg!"
+   }
+  ],
+  "dialog_zh": "A：我今晚有场重要演讲。B：祝你顺利！",
+  "tip": "是祝福而不是诅咒，多用于演出或演讲前。别回 Thank you 以外的字面意思，也别对运动员说。",
+  "audios": [
+   "media/break-a-leg-again-1.mp3",
+   "media/break-a-leg-again-2.mp3",
+   "media/break-a-leg-again-3.mp3"
+  ],
+  "transcripts": [
+   "strange. Take for example the expression to break a leg. This may sound violent, but it is not.",
+   "They do this by saying something bad. In this case, break a leg. We may not know exactly how this wish of good...",
+   "on who needs a little luck. You can tell a friend to break a leg before they give a speech at a wedding or a big"
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://learningenglish.voanews.com/a/break-a-leg-means-good-luck-/4689537.html",
+  "link_title": "VOA Learning English: Break a leg means good luck"
  }
 ]

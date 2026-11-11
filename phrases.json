@@ -3741,5 +3741,62 @@
   ],
   "dialog_zh": "A：你脸色不好，没事吧？B：我今天有点不舒服。",
   "tip": "指轻微的不舒服（如感冒、疲惫），不是重病。常用 be/feel under the weather，不要说 under weather。"
+ },
+ {
+  "phrase": "Piece of cake.",
+  "slug": "piece-of-cake-again",
+  "sent_at": "2026-11-11 15:30",
+  "literal": "一块蛋糕",
+  "meaning": "小菜一碟；很容易",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "How was the exam?"
+   },
+   {
+    "who": "B",
+    "en": "Piece of cake! I finished early."
+   }
+  ],
+  "dialog_zh": "A：考试怎么样？B：小菜一碟！我提前交卷了。",
+  "tip": "形容事情非常容易，常说 It's a piece of cake。别和 take the cake（最出格/最绝）混淆。"
+ },
+ {
+  "phrase": "Hit the sack.",
+  "slug": "hit-the-sack-again",
+  "sent_at": "2026-11-11 15:30",
+  "literal": "撞到麻袋",
+  "meaning": "去睡觉",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "I'm exhausted. I'm going to hit the sack."
+   },
+   {
+    "who": "B",
+    "en": "Me too. See you tomorrow."
+   }
+  ],
+  "dialog_zh": "A：我累坏了，我要去睡了。B：我也是，明天见。",
+  "tip": "口语、轻松的说法，指上床睡觉，同义 hit the hay。较随意，正式场合用 go to bed。"
+ },
+ {
+  "phrase": "Break a leg.",
+  "slug": "break-a-leg-again",
+  "sent_at": "2026-11-11 15:30",
+  "literal": "摔断一条腿",
+  "meaning": "祝你好运（演出、演讲前）",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "I have my big speech tonight."
+   },
+   {
+    "who": "B",
+    "en": "Break a leg!"
+   }
+  ],
+  "dialog_zh": "A：我今晚有场重要演讲。B：祝你顺利！",
+  "tip": "是祝福而不是诅咒，多用于演出或演讲前。别回 Thank you 以外的字面意思，也别对运动员说。"
  }
 ]
