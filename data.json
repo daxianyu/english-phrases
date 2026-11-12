@@ -6110,5 +6110,104 @@
   "audio": null,
   "link": "https://learningenglish.voanews.com/a/break-a-leg-means-good-luck-/4689537.html",
   "link_title": "VOA Learning English: Break a leg means good luck"
+ },
+ {
+  "phrase": "Give it a shot.",
+  "slug": "give-it-a-shot-again",
+  "sent_at": "2026-11-12 08:00",
+  "literal": "给它一枪",
+  "meaning": "试一试",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "I've never surfed."
+   },
+   {
+    "who": "B",
+    "en": "Give it a shot!"
+   }
+  ],
+  "dialog_zh": "A：我从没冲过浪。B：试试看！",
+  "tip": "和 give it a try、have a go 意思相同。不是真的开枪。",
+  "audios": [
+   "media/give-it-a-shot-again-1.mp3",
+   "media/give-it-a-shot-again-2.mp3",
+   "media/give-it-a-shot-again-3.mp3"
+  ],
+  "transcripts": [
+   "get a great deal,\" said Ju. They think, why not give it a shot? He said the number of zers-consigners or...",
+   "I was at a thrift store and saw an old real real unit for 20 bucks that I'm like, I bet you that fits with the tapes. And 20 bucks might as well give it a shot. He bought the tape player from the store.",
+   "The answer is B to attempt something. Give it a shot is similar to saying, give it a try. Americans"
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://learningenglish.voanews.com/a/6211294.html",
+  "link_title": "English @ the Movies: Give it a Shot (VOA Learning English)"
+ },
+ {
+  "phrase": "On the same page.",
+  "slug": "on-the-same-page-again",
+  "sent_at": "2026-11-12 08:00",
+  "literal": "在同一页",
+  "meaning": "想法一致；达成共识",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Let's review the plan."
+   },
+   {
+    "who": "B",
+    "en": "Good, so we're on the same page."
+   }
+  ],
+  "dialog_zh": "A：我们过一下计划。B：好，确保大家想法一致。",
+  "tip": "职场里很常见，也常说 get on the same page。",
+  "audios": [
+   "media/on-the-same-page-again-1.mp3",
+   "media/on-the-same-page-again-2.mp3",
+   "media/on-the-same-page-again-3.mp3"
+  ],
+  "transcripts": [
+   "you may be just a wheel and you may be a powerful engine but if you're not all together on the same page we're not going to accomplish what we're capable of accomplishment",
+   "conversation about what are the expectations. So both of them are in the same, what we say on the same page. So that can be sometimes an issue.",
+   "with finally fans smoking indoors. We're definitely on the same page there. If you're on the same page as someone, it means"
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://learningenglish.voanews.com/a/english-in-a-minute-on-the-same-page/2777203.html",
+  "link_title": "English in a Minute: On the Same Page (VOA Learning English)"
+ },
+ {
+  "phrase": "See eye to eye.",
+  "slug": "see-eye-to-eye-again",
+  "sent_at": "2026-11-12 08:00",
+  "literal": "眼对眼看",
+  "meaning": "看法一致",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Do you get along with your boss?"
+   },
+   {
+    "who": "B",
+    "en": "We don't always see eye to eye."
+   }
+  ],
+  "dialog_zh": "A：你和老板合得来吗？B：我们看法不总一致。",
+  "tip": "多用于否定句，说两人意见不合。",
+  "audios": [
+   "media/see-eye-to-eye-again-1.mp3",
+   "media/see-eye-to-eye-again-2.mp3",
+   "media/see-eye-to-eye-again-3.mp3"
+  ],
+  "transcripts": [
+   "He said, the leaders do not see eye to eye, but they decided to put up with each other, out of a concern that the government might fall apart.",
+   "India and Pakistan may not see eye to eye, but contact is always good for the sake of the people living on either side of the line of control. Barua told the OS.",
+   "During their dinner, the couple might discuss many things. They might discover that they see eye to eye, or agree on many issues. They share the same beliefs and opinions."
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://learningenglish.voanews.com/a/words-and-their-stories-all-about-eyes/1513084.html",
+  "link_title": "All About Eyes (VOA Learning English)"
  }
 ]

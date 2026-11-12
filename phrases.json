@@ -3798,5 +3798,62 @@
   ],
   "dialog_zh": "A：我今晚有场重要演讲。B：祝你顺利！",
   "tip": "是祝福而不是诅咒，多用于演出或演讲前。别回 Thank you 以外的字面意思，也别对运动员说。"
+ },
+ {
+  "phrase": "Give it a shot.",
+  "slug": "give-it-a-shot-again",
+  "sent_at": "2026-11-12 08:00",
+  "literal": "给它一枪",
+  "meaning": "试一试",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "I've never surfed."
+   },
+   {
+    "who": "B",
+    "en": "Give it a shot!"
+   }
+  ],
+  "dialog_zh": "A：我从没冲过浪。B：试试看！",
+  "tip": "和 give it a try、have a go 意思相同。不是真的开枪。"
+ },
+ {
+  "phrase": "On the same page.",
+  "slug": "on-the-same-page-again",
+  "sent_at": "2026-11-12 08:00",
+  "literal": "在同一页",
+  "meaning": "想法一致；达成共识",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Let's review the plan."
+   },
+   {
+    "who": "B",
+    "en": "Good, so we're on the same page."
+   }
+  ],
+  "dialog_zh": "A：我们过一下计划。B：好，确保大家想法一致。",
+  "tip": "职场里很常见，也常说 get on the same page。"
+ },
+ {
+  "phrase": "See eye to eye.",
+  "slug": "see-eye-to-eye-again",
+  "sent_at": "2026-11-12 08:00",
+  "literal": "眼对眼看",
+  "meaning": "看法一致",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Do you get along with your boss?"
+   },
+   {
+    "who": "B",
+    "en": "We don't always see eye to eye."
+   }
+  ],
+  "dialog_zh": "A：你和老板合得来吗？B：我们看法不总一致。",
+  "tip": "多用于否定句，说两人意见不合。"
  }
 ]
