@@ -6209,5 +6209,102 @@
   "audio": null,
   "link": "https://learningenglish.voanews.com/a/words-and-their-stories-all-about-eyes/1513084.html",
   "link_title": "All About Eyes (VOA Learning English)"
+ },
+ {
+  "phrase": "Off the top of my head.",
+  "slug": "off-the-top-of-my-head-again",
+  "sent_at": "2026-11-12 15:30",
+  "literal": "从我的头顶上",
+  "meaning": "凭记忆随口一说（未经仔细核对）",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "How much will the tickets be?"
+   },
+   {
+    "who": "B",
+    "en": "Off the top of my head, about thirty dollars."
+   }
+  ],
+  "dialog_zh": "A：票大概多少钱？B：我随口一说，大概三十美元。",
+  "tip": "用于快速估计，或表示一时想不起来。答案可能不精确。",
+  "audios": [
+   "media/off-the-top-of-my-head-again-1.mp3",
+   "media/off-the-top-of-my-head-again-2.mp3",
+   "media/off-the-top-of-my-head-again-3.mp3"
+  ],
+  "transcripts": [
+   "He says, after briefly examining the damage. Off the top of my head, it should be around $800.",
+   "Do you know Tom's email address? I couldn't tell you off the top of my head but I have it in my contact list on my computer. Can I tell you to you later? Sure, that would be-",
+   "If I say something off the cuff or off the top of my head, I say it without thinking."
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://learningenglish.voanews.com/a/six-american-phrases-for-making-guesses/5040468.html",
+  "link_title": "Six Everyday Phrases for Making Guesses (VOA Learning English)"
+ },
+ {
+  "phrase": "I'll pass.",
+  "slug": "ill-pass-again",
+  "sent_at": "2026-11-12 15:30",
+  "literal": "我会经过 / 我会通过",
+  "meaning": "我就不了（婉拒）",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Want some dessert?"
+   },
+   {
+    "who": "B",
+    "en": "I'll pass. I'm full."
+   }
+  ],
+  "dialog_zh": "A：要不要甜点？B：我就算了，已经吃饱了。",
+  "tip": "口语里用来礼貌拒绝，不是考试“通过”的意思。",
+  "audios": [
+   "media/ill-pass-again-1.mp3",
+   "media/ill-pass-again-2.mp3"
+  ],
+  "transcripts": [
+   "I think I'll pass. You say this when you don't want to accept an offer or participate.",
+   "I think I'll pass on this one. Oh hey, I think he likes you. Not for long."
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://www.youtube.com/watch?v=phXLZquEfDM",
+  "link_title": "Walkie Talkie Wednesday Ep 03 Real Everyday English Conversations w/ Idioms, Expressions, & Phrases"
+ },
+ {
+  "phrase": "Play it by ear.",
+  "slug": "play-it-by-ear-again",
+  "sent_at": "2026-11-12 15:30",
+  "literal": "凭耳朵演奏",
+  "meaning": "走一步看一步；到时候再决定",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "What's the plan after dinner?"
+   },
+   {
+    "who": "B",
+    "en": "Let's play it by ear."
+   }
+  ],
+  "dialog_zh": "A：晚饭后做什么？B：到时候再看吧。",
+  "tip": "原指不看乐谱凭听觉演奏，现在多用于说先不做详细计划。",
+  "audios": [
+   "media/play-it-by-ear-again-1.mp3",
+   "media/play-it-by-ear-again-2.mp3",
+   "media/play-it-by-ear-again-3.mp3"
+  ],
+  "transcripts": [
+   "Are you coming on the camping trip? I'm going to have to play it by ear. I might have to work. You work on weekends? No.",
+   "I'm not sure what time the party starts, so let's just play it by ear. Explanation. In this example, the speaker is suggesting",
+   "the tune and not by reading the music. Play it by ear also means to decide what to do at the last minute."
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://learningenglish.voanews.com/a/english-in-a-minute-play-it-by-ear/3923133.html",
+  "link_title": "English in a Minute: Play it by Ear (VOA Learning English)"
  }
 ]

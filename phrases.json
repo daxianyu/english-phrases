@@ -3855,5 +3855,62 @@
   ],
   "dialog_zh": "A：你和老板合得来吗？B：我们看法不总一致。",
   "tip": "多用于否定句，说两人意见不合。"
+ },
+ {
+  "phrase": "Off the top of my head.",
+  "slug": "off-the-top-of-my-head-again",
+  "sent_at": "2026-11-12 15:30",
+  "literal": "从我的头顶上",
+  "meaning": "凭记忆随口一说（未经仔细核对）",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "How much will the tickets be?"
+   },
+   {
+    "who": "B",
+    "en": "Off the top of my head, about thirty dollars."
+   }
+  ],
+  "dialog_zh": "A：票大概多少钱？B：我随口一说，大概三十美元。",
+  "tip": "用于快速估计，或表示一时想不起来。答案可能不精确。"
+ },
+ {
+  "phrase": "I'll pass.",
+  "slug": "ill-pass-again",
+  "sent_at": "2026-11-12 15:30",
+  "literal": "我会经过 / 我会通过",
+  "meaning": "我就不了（婉拒）",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Want some dessert?"
+   },
+   {
+    "who": "B",
+    "en": "I'll pass. I'm full."
+   }
+  ],
+  "dialog_zh": "A：要不要甜点？B：我就算了，已经吃饱了。",
+  "tip": "口语里用来礼貌拒绝，不是考试“通过”的意思。"
+ },
+ {
+  "phrase": "Play it by ear.",
+  "slug": "play-it-by-ear-again",
+  "sent_at": "2026-11-12 15:30",
+  "literal": "凭耳朵演奏",
+  "meaning": "走一步看一步；到时候再决定",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "What's the plan after dinner?"
+   },
+   {
+    "who": "B",
+    "en": "Let's play it by ear."
+   }
+  ],
+  "dialog_zh": "A：晚饭后做什么？B：到时候再看吧。",
+  "tip": "原指不看乐谱凭听觉演奏，现在多用于说先不做详细计划。"
  }
 ]
