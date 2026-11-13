@@ -6399,5 +6399,94 @@
   "audio": null,
   "link": "https://learningenglish.voanews.com/a/what-does-it-mean-to-hit-the-nail-on-the-head-/6548950.html",
   "link_title": "What Does It Mean to 'Hit the Nail on the Head'? (VOA Learning English)"
+ },
+ {
+  "phrase": "Speak of the devil.",
+  "slug": "speak-of-the-devil-again",
+  "sent_at": "2026-11-13 15:30",
+  "literal": "说到魔鬼",
+  "meaning": "说曹操曹操到",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Where's Amy?"
+   },
+   {
+    "who": "B",
+    "en": "Speak of the devil, here she comes!"
+   }
+  ],
+  "dialog_zh": "A：Amy 呢？B：说曹操曹操到，她来了！",
+  "tip": "用来表示刚提到某人，对方就出现了；并不是在说对方是坏人。完整版还可以说 speak of the devil and he shall appear，语气轻松。",
+  "audios": [
+   "media/speak-of-the-devil-again-1.mp3",
+   "media/speak-of-the-devil-again-2.mp3"
+  ],
+  "transcripts": [
+   "Speaking of the devil, to speak of the devil means to talk about someone, at the same time, the person appears.",
+   "John and I are going to the movies tonight and hey speak of the devil here comes John now. Hey John we were just talking about you and speak of the devil you appear"
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://learningenglish.voanews.com/a/the-devil-is-everywhere-idioms/2502364.html",
+  "link_title": "A Halloween Special: The Devil is Everywhere ..."
+ },
+ {
+  "phrase": "Keep me posted.",
+  "slug": "keep-me-posted-again",
+  "sent_at": "2026-11-13 15:30",
+  "literal": "让我保持被张贴",
+  "meaning": "随时告诉我进展",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "I'll hear back next week."
+   },
+   {
+    "who": "B",
+    "en": "Great, keep me posted."
+   }
+  ],
+  "dialog_zh": "A：下周有回音。B：好，有消息告诉我。",
+  "tip": "职场和日常都常用，意思是有新进展就告诉我；也可以说 I'll keep you posted。",
+  "audios": [],
+  "transcripts": [],
+  "video": null,
+  "audio": null,
+  "link": null,
+  "link_title": null
+ },
+ {
+  "phrase": "Don't sweat it.",
+  "slug": "dont-sweat-it-again",
+  "sent_at": "2026-11-13 15:30",
+  "literal": "别为它出汗",
+  "meaning": "别担心；没关系",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Sorry I'm late."
+   },
+   {
+    "who": "B",
+    "en": "Don't sweat it, we just started."
+   }
+  ],
+  "dialog_zh": "A：抱歉迟到了。B：没事，我们刚开始。",
+  "tip": "用来回应道歉或安慰别人别在意小事，语气比较随意；注意它和 don't sweat the small stuff 是相关但不完全相同的说法。",
+  "audios": [
+   "media/dont-sweat-it-again-1.mp3",
+   "media/dont-sweat-it-again-2.mp3",
+   "media/dont-sweat-it-again-3.mp3"
+  ],
+  "transcripts": [
+   "Here is another strange expression. Don't sweat it. This is a way of saying no problem or don't worry about it.",
+   "I could tell that she felt badly. So to make her feel better, I said, don't sweat it. It's not a big deal. Come on, let's order pizza and drinks.",
+   "But if you make a mistake, don't sweat it. And that's it for those words in their stories. Until next time, I'm Anna Mateo."
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://learningenglish.voanews.com/a/don-t-sweat-it-and-other-sweaty-expressions/6004902.html",
+  "link_title": "Don't Sweat It and Other Sweaty Expressions"
  }
 ]
