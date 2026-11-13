@@ -3912,5 +3912,62 @@
   ],
   "dialog_zh": "A：晚饭后做什么？B：到时候再看吧。",
   "tip": "原指不看乐谱凭听觉演奏，现在多用于说先不做详细计划。"
+ },
+ {
+  "phrase": "Bite the bullet.",
+  "slug": "bite-the-bullet-again",
+  "sent_at": "2026-11-13 08:00",
+  "literal": "咬子弹",
+  "meaning": "硬着头皮做（不愿做但必须做）",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "I hate going to the dentist."
+   },
+   {
+    "who": "B",
+    "en": "Just bite the bullet and go."
+   }
+  ],
+  "dialog_zh": "A：我讨厌看牙。B：硬着头皮去吧。",
+  "tip": "用于面对不愉快但必须做的事，不要按字面理解成真的去咬子弹。"
+ },
+ {
+  "phrase": "Out of the blue.",
+  "slug": "out-of-the-blue-again",
+  "sent_at": "2026-11-13 08:00",
+  "literal": "从蓝色中出来",
+  "meaning": "突然；毫无预兆",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "She called me out of the blue yesterday."
+   },
+   {
+    "who": "B",
+    "en": "After ten years?"
+   }
+  ],
+  "dialog_zh": "A：她昨天突然给我打电话。B：十年后还打来？",
+  "tip": "强调事情来得意外，常放在句末或动词后面。"
+ },
+ {
+  "phrase": "Hit the nail on the head.",
+  "slug": "hit-the-nail-on-the-head-again",
+  "sent_at": "2026-11-13 08:00",
+  "literal": "打中钉子头",
+  "meaning": "一针见血；说到点子上",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "The real problem is communication."
+   },
+   {
+    "who": "B",
+    "en": "You hit the nail on the head."
+   }
+  ],
+  "dialog_zh": "A：真正的问题是沟通。B：你说到点子上了。",
+  "tip": "用来称赞对方说得完全正确，不要理解成真的去钉钉子。"
  }
 ]
