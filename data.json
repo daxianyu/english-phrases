@@ -6488,5 +6488,104 @@
   "audio": null,
   "link": "https://learningenglish.voanews.com/a/don-t-sweat-it-and-other-sweaty-expressions/6004902.html",
   "link_title": "Don't Sweat It and Other Sweaty Expressions"
+ },
+ {
+  "phrase": "Tell me about it.",
+  "slug": "tell-me-about-it-again",
+  "sent_at": "2026-11-14 08:00",
+  "literal": "给我讲讲这件事",
+  "meaning": "可不是嘛；我深有同感（不是真让对方讲）",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "This traffic is killing me."
+   },
+   {
+    "who": "B",
+    "en": "Tell me about it. I've been stuck for an hour."
+   }
+  ],
+  "dialog_zh": "A：这交通快把我折腾死了。B：可不是嘛，我都堵了一个小时了。",
+  "tip": "语调通常往下走，表示同感或共鸣，并不是真的请对方把事情讲一遍。",
+  "audios": [
+   "media/tell-me-about-it-again-1.mp3",
+   "media/tell-me-about-it-again-2.mp3",
+   "media/tell-me-about-it-again-3.mp3"
+  ],
+  "transcripts": [
+   "Tricky passwords are difficult to hack, but they're easy to forget. Oh my god, tell me about it! What do you guys think of this video? It's not a title. What's this?",
+   "that there's no bullet trains here in the US. Otherwise, I could just take that. Tell me about it. Bullet trains are widely popular in Asian countries, but people in America...",
+   "It's always nice to spend time with your family, but the flight to China is such a pain in the neck. Oh, tell me about it. The security check for international flights, it's such a hassle. Turn on the tail, we'll just like..."
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://www.voachinese.com/a/eng-25-34/2659037.html",
+  "link_title": "美语训练班第34课"
+ },
+ {
+  "phrase": "Beats me.",
+  "slug": "beats-me-again",
+  "sent_at": "2026-11-14 08:00",
+  "literal": "打败我了",
+  "meaning": "我也不知道；难倒我了",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Where's the remote?"
+   },
+   {
+    "who": "B",
+    "en": "Beats me. Check the couch."
+   }
+  ],
+  "dialog_zh": "A：遥控器在哪？B：我也不知道，你看看沙发。",
+  "tip": "口语里很随便，表示完全不知道；较正式的场合多用 I'm not sure 或 I have no idea。",
+  "audios": [
+   "media/beats-me-again-1.mp3",
+   "media/beats-me-again-2.mp3",
+   "media/beats-me-again-3.mp3"
+  ],
+  "transcripts": [
+   "Beats me. I don't know much about that period of history.",
+   "No, I don't mean you would beat me. The expression beats me means that I have no idea what the answer is. Haha! They just...",
+   "Like, how many miles away the sun is, you might say, I don't know, beats me."
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://www.voachinese.com/a/pa75/1764544.html",
+  "link_title": "流行美语第75课"
+ },
+ {
+  "phrase": "Your guess is as good as mine.",
+  "slug": "your-guess-is-as-good-as-mine",
+  "sent_at": "2026-11-14 08:00",
+  "literal": "你的猜测和我的一样好",
+  "meaning": "我和你一样不知道；谁也不比谁更清楚",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "How did he make so much money in a year?"
+   },
+   {
+    "who": "B",
+    "en": "Your guess is as good as mine."
+   }
+  ],
+  "dialog_zh": "A：他怎么一年就赚了这么多钱？B：我跟你一样不知道。",
+  "tip": "用来表示自己并不比对方更清楚答案，很日常；不要理解成在比较谁猜得更准。",
+  "audios": [
+   "media/your-guess-is-as-good-as-mine-1.mp3",
+   "media/your-guess-is-as-good-as-mine-2.mp3",
+   "media/your-guess-is-as-good-as-mine-3.mp3"
+  ],
+  "transcripts": [
+   "I mean, you're successful lately. How did he make so much money in just a year? Your guess is as good as mine. It's honestly baffling. I mean, he was struggling just a while ago. Yeah!",
+   "Do you think that could have a plate apart in his southern wealth? It's possible, but your guess is as good as mine when it comes to the cryptocurrency market. True, I guess we'll never know for sure.",
+   "It's possible, but your guess is as good as mine when it comes to the cryptocurrency market. It's possible. It's possible."
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://www.voakorea.com/a/7330057.html",
+  "link_title": "[VOA 매일 영어] Your guess is as good as mine."
  }
 ]
