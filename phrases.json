@@ -4083,5 +4083,62 @@
     ],
     "dialog_zh": "A：他怎么一年就赚了这么多钱？B：我跟你一样不知道。",
     "tip": "用来表示自己并不比对方更清楚答案，很日常；不要理解成在比较谁猜得更准。"
+  },
+  {
+    "phrase": "The ball is in your court.",
+    "slug": "the-ball-is-in-your-court",
+    "sent_at": "2026-11-14 15:30",
+    "literal": "球在你的半场",
+    "meaning": "轮到你做决定或采取行动了；下一步看你的了",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "I've already sent her the offer."
+      },
+      {
+        "who": "B",
+        "en": "Then the ball is in her court. We just have to wait."
+      }
+    ],
+    "dialog_zh": "A：我已经把报价发给她了。B：那下一步就看她的了，我们只能等。",
+    "tip": "来自网球：球落到你这边，就得由你回球。court 在这里是球场，不是法庭。主语可换成 her/his/their。"
+  },
+  {
+    "phrase": "Beat around the bush.",
+    "slug": "beat-around-the-bush-again",
+    "sent_at": "2026-11-14 15:30",
+    "literal": "在灌木丛周围敲打",
+    "meaning": "说话拐弯抹角，不直入主题",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "So… about this weekend… maybe if you're free…"
+      },
+      {
+        "who": "B",
+        "en": "Stop beating around the bush — do you want to go or not?"
+      }
+    ],
+    "dialog_zh": "A：那个……周末……如果你有空…… B：别拐弯抹角了，你到底去不去？",
+    "tip": "常与 stop 或 don't 连用。英式英语也说 beat about the bush。"
+  },
+  {
+    "phrase": "Off the hook.",
+    "slug": "off-the-hook-again",
+    "sent_at": "2026-11-14 15:30",
+    "literal": "离开钩子",
+    "meaning": "脱身；不必再承担责任或麻烦",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "The meeting got cancelled."
+      },
+      {
+        "who": "B",
+        "en": "Great, I'm off the hook!"
+      }
+    ],
+    "dialog_zh": "A：会取消了。B：太好了，我解脱了！",
+    "tip": "表示不用再做某事，或摆脱了责任。let someone off the hook 是放过某人。另有较旧的俚语用法表示“很棒”，日常更常用的是脱身这层意思。"
   }
 ]
