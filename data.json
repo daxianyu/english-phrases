@@ -6783,5 +6783,96 @@
   "audio": null,
   "link": "https://learningenglish.voanews.com/a/2933299.html",
   "link_title": "English in a Minute: Back to Square One"
+ },
+ {
+  "phrase": "Get cold feet.",
+  "slug": "get-cold-feet-again",
+  "sent_at": "2026-11-15 15:30",
+  "literal": "脚变冷",
+  "meaning": "临时胆怯、临阵退缩，对本来已经决定要做的事突然害怕起来",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Are you still going to quit tomorrow?"
+   },
+   {
+    "who": "B",
+    "en": "I think so. I just hope I don't get cold feet."
+   }
+  ],
+  "dialog_zh": "A：你明天还是要辞职吗？B：我想是的。只是希望自己别临阵退缩。",
+  "tip": "不是真的脚冷。常用 get / got / getting cold feet，多用于结婚、演讲、辞职这类大事前。",
+  "audios": [
+   "media/get-cold-feet-again-1.mp3",
+   "media/get-cold-feet-again-2.mp3",
+   "media/get-cold-feet-again-3.mp3"
+  ],
+  "transcripts": [
+   "Getting cold feet is no fun outdoors or in conversation. To get cold feet means to become afraid to do something you had already decided to do.",
+   "But the night before his business is to open, Sam gets cold feet. He is so nervous that he wants to call everything off.",
+   "I got cold feet. I was nervous and changed my mind at the last minute."
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://learningenglish.voanews.com/a/words-and-their-stories-cold-feet-cold-expressions/4191215.html",
+  "link_title": "'Cold Feet' and Other Cold Body Expressions"
+ },
+ {
+  "phrase": "Spill the beans.",
+  "slug": "spill-the-beans-again",
+  "sent_at": "2026-11-15 15:30",
+  "literal": "把豆子洒出来",
+  "meaning": "泄露秘密，把不该说的话说了出来",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Don't tell anyone about the surprise party."
+   },
+   {
+    "who": "B",
+    "en": "Don't worry. I won't spill the beans."
+   }
+  ],
+  "dialog_zh": "A：别告诉任何人这次惊喜派对。B：放心，我不会泄密的。",
+  "tip": "常用 spill the beans，时态可变：spilled the beans。指把秘密说出去，不是真的把豆子洒了。",
+  "audios": [
+   "media/spill-the-beans-again-1.mp3",
+   "media/spill-the-beans-again-2.mp3",
+   "media/spill-the-beans-again-3.mp3"
+  ],
+  "transcripts": [
+   "What are you talking about? Oh, oh no, I think I just spilled the beans. Forget I said anything.",
+   "Spilling the beans when you communicate with others is also a bad thing. When you spill the beans, you share or make public secret information. You don't mean to do it. The secrets just spill out of you.",
+   "I haven't told anyone that except Anne Marie. Did she spill the beans to you? No, she didn't tell me anything. I just happened to overhear you too."
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://learningenglish.voanews.com/a/english-in-a-minute-spill-the-beans/4882901.html",
+  "link_title": "English in a Minute: Spill the Beans"
+ },
+ {
+  "phrase": "Cut someone some slack.",
+  "slug": "cut-someone-some-slack",
+  "sent_at": "2026-11-15 15:30",
+  "literal": "给某人放出一段松弛的绳子",
+  "meaning": "对某人宽容一些，不要那么苛刻",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "He's late again. I'm getting tired of it."
+   },
+   {
+    "who": "B",
+    "en": "Cut him some slack. His baby was up all night."
+   }
+  ],
+  "dialog_zh": "A：他又迟到了。我有点受不了。B：对他宽容一点吧。他宝宝昨晚闹了一夜。",
+  "tip": "最常说 Cut me some slack。这里的 slack 不加复数，不要写成 slacks（那是裤子）。",
+  "audios": [],
+  "transcripts": [],
+  "video": null,
+  "audio": null,
+  "link": null,
+  "link_title": null
  }
 ]
