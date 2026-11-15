@@ -6684,5 +6684,104 @@
   "audio": null,
   "link": "https://learningenglish.voanews.com/a/7400209.html",
   "link_title": "English in a Minute: Off the Hook"
+ },
+ {
+  "phrase": "Pull someone's leg.",
+  "slug": "pull-someones-leg",
+  "sent_at": "2026-11-15 08:00",
+  "literal": "拉某人的腿",
+  "meaning": "逗某人玩；开玩笑（并不是认真的）",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "I just won a million dollars."
+   },
+   {
+    "who": "B",
+    "en": "Come on, you're pulling my leg."
+   }
+  ],
+  "dialog_zh": "A：我刚赢了一百万美元。B：得了吧，你在逗我。",
+  "tip": "最常说 You're pulling my leg。是善意玩笑，不是恶意骗人。动词随主语变化：he's pulling my leg。",
+  "audios": [
+   "media/pull-someones-leg-1.mp3",
+   "media/pull-someones-leg-2.mp3",
+   "media/pull-someones-leg-3.mp3"
+  ],
+  "transcripts": [
+   "It will come back to light in no time. Right. Wait a minute. You're pulling my leg. There's no such thing as green being cola to pull someone's leg.",
+   "free dinner on a nighttime boat cruise. Do you want to join me? Are you pulling my leg? That sounds too good to be true. It's true. I'll pick you up.",
+   "Is easy office work, they are pulling your leg. To pull someone's leg is to tell a lie, but in a friendly way. You can tell..."
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://learningenglish.voanews.com/a/english-in-a-minute-pull-someones-leg/4467590.html",
+  "link_title": "English in a Minute: Pull Someone's Leg"
+ },
+ {
+  "phrase": "Break the ice.",
+  "slug": "break-the-ice-again",
+  "sent_at": "2026-11-15 08:00",
+  "literal": "打破冰",
+  "meaning": "打破冷场或初次见面的拘谨，让气氛轻松起来",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Everyone looks so nervous at this meetup."
+   },
+   {
+    "who": "B",
+    "en": "I'll tell a short story to break the ice."
+   }
+  ],
+  "dialog_zh": "A：这次见面会上大家看起来都挺紧张。B：我讲个短故事来活跃一下气氛。",
+  "tip": "icebreaker 指破冰活动或开场问题。这里的 ice 不是真的冰，而是拘谨的气氛。",
+  "audios": [
+   "media/break-the-ice-again-1.mp3",
+   "media/break-the-ice-again-2.mp3",
+   "media/break-the-ice-again-3.mp3"
+  ],
+  "transcripts": [
+   "I knew no one and I didn't have the energy to break the ice with a bunch of new people asking questions is a good ice",
+   "Even if I broke the ice, I didn't have the energy to listen. To break the ice means to start a conversation with someone you don't really know.",
+   "Have you met our new teacher, Jennifer? No, not yet. Why don't you break the ice and introduce yourself this afternoon? I certainly will. Ice is not all we've..."
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://learningenglish.voanews.com/a/3406302.html",
+  "link_title": "English in a Minute: Break the Ice"
+ },
+ {
+  "phrase": "Back to square one.",
+  "slug": "back-to-square-one-again",
+  "sent_at": "2026-11-15 08:00",
+  "literal": "回到第一格",
+  "meaning": "计划失败或进展作废，只好从头再来",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "They rejected the whole proposal."
+   },
+   {
+    "who": "B",
+    "en": "So we're back to square one."
+   }
+  ],
+  "dialog_zh": "A：他们把整份方案都否了。B：那我们又回到原点了。",
+  "tip": "常用 we're back to square one 或 go back to square one，带一点无奈或挫败感。",
+  "audios": [
+   "media/back-to-square-one-again-1.mp3",
+   "media/back-to-square-one-again-2.mp3",
+   "media/back-to-square-one-again-3.mp3"
+  ],
+  "transcripts": [
+   "My boss did not like my video project. She told me to redo it, so now I have to go back to square one.",
+   "Start from a clean slate. Learn from the mistakes you made. If not, you may find yourself going back to square one. Some word historians say this expression",
+   "Thankfully, he made it home safely, and he and the woman are back to square one. They are back to where they started, being friends."
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://learningenglish.voanews.com/a/2933299.html",
+  "link_title": "English in a Minute: Back to Square One"
  }
 ]

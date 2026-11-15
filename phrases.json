@@ -4140,5 +4140,62 @@
     ],
     "dialog_zh": "A：会取消了。B：太好了，我解脱了！",
     "tip": "表示不用再做某事，或摆脱了责任。let someone off the hook 是放过某人。另有较旧的俚语用法表示“很棒”，日常更常用的是脱身这层意思。"
+  },
+  {
+    "phrase": "Pull someone's leg.",
+    "slug": "pull-someones-leg",
+    "sent_at": "2026-11-15 08:00",
+    "literal": "拉某人的腿",
+    "meaning": "逗某人玩；开玩笑（并不是认真的）",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "I just won a million dollars."
+      },
+      {
+        "who": "B",
+        "en": "Come on, you're pulling my leg."
+      }
+    ],
+    "dialog_zh": "A：我刚赢了一百万美元。B：得了吧，你在逗我。",
+    "tip": "最常说 You're pulling my leg。是善意玩笑，不是恶意骗人。动词随主语变化：he's pulling my leg。"
+  },
+  {
+    "phrase": "Break the ice.",
+    "slug": "break-the-ice-again",
+    "sent_at": "2026-11-15 08:00",
+    "literal": "打破冰",
+    "meaning": "打破冷场或初次见面的拘谨，让气氛轻松起来",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "Everyone looks so nervous at this meetup."
+      },
+      {
+        "who": "B",
+        "en": "I'll tell a short story to break the ice."
+      }
+    ],
+    "dialog_zh": "A：这次见面会上大家看起来都挺紧张。B：我讲个短故事来活跃一下气氛。",
+    "tip": "icebreaker 指破冰活动或开场问题。这里的 ice 不是真的冰，而是拘谨的气氛。"
+  },
+  {
+    "phrase": "Back to square one.",
+    "slug": "back-to-square-one-again",
+    "sent_at": "2026-11-15 08:00",
+    "literal": "回到第一格",
+    "meaning": "计划失败或进展作废，只好从头再来",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "They rejected the whole proposal."
+      },
+      {
+        "who": "B",
+        "en": "So we're back to square one."
+      }
+    ],
+    "dialog_zh": "A：他们把整份方案都否了。B：那我们又回到原点了。",
+    "tip": "常用 we're back to square one 或 go back to square one，带一点无奈或挫败感。"
   }
 ]
