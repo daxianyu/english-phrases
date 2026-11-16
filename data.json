@@ -6973,5 +6973,104 @@
   "audio": null,
   "link": "https://learningenglish.voanews.com/a/u-s-health-agency-cancels-alcohol-study-financed-by-alcohol-industry/5026992.html",
   "link_title": "US Health Agency Cancels Alcohol Study Financed by Alcohol Industry"
+ },
+ {
+  "phrase": "Wrap your head around something.",
+  "slug": "wrap-your-head-around-something-again",
+  "sent_at": "2026-11-16 15:30",
+  "literal": "用脑袋把某事包起来",
+  "meaning": "弄懂、想明白某个复杂或一下子难以接受的事",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "I still can't wrap my head around why they shut the program down."
+   },
+   {
+    "who": "B",
+    "en": "Me neither. It was working so well."
+   }
+  ],
+  "dialog_zh": "A：我还是想不通他们为什么把这个项目停了。B：我也是。明明一直做得挺好的。",
+  "tip": "最常说 I can't wrap my head around it，表示实在想不明白。主语变化时用 wrap my/your/his head around，不要说 wrap the head。",
+  "audios": [
+   "media/wrap-your-head-around-something-again-1.mp3",
+   "media/wrap-your-head-around-something-again-2.mp3",
+   "media/wrap-your-head-around-something-again-3.mp3"
+  ],
+  "transcripts": [
+   "Driving a luxury car and living in a fancy condo, I cannot wrap my head around it. Maybe he invested in something that took off or he got a hug.",
+   "I'm still processing. I'm still digesting the information. I'm still wrapping my head around it. I'm still trying to absorb everything. I'm still mulling it over.",
+   "And that was really helpful for me to kind of wrap my head around the different ways you can make movies. Before being nominated for a..."
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://www.voakorea.com/a/7330057.html",
+  "link_title": "[VOA 매일 영어] Your guess is as good as mine. (모르긴 나도 마찬가지입니다)"
+ },
+ {
+  "phrase": "Go back to the drawing board.",
+  "slug": "go-back-to-the-drawing-board-again",
+  "sent_at": "2026-11-16 15:30",
+  "literal": "回到绘图板前",
+  "meaning": "计划或方案行不通后，推倒重来、从头再想办法",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "The client rejected all three designs."
+   },
+   {
+    "who": "B",
+    "en": "Then I guess we're going back to the drawing board."
+   }
+  ],
+  "dialog_zh": "A：客户把三个方案全否了。B：那看来我们得推倒重来了。",
+  "tip": "也常直接说 Back to the drawing board。用于计划失败后重来，不是真的回到画图板。不要说成 draw board。",
+  "audios": [
+   "media/go-back-to-the-drawing-board-again-1.mp3",
+   "media/go-back-to-the-drawing-board-again-2.mp3",
+   "media/go-back-to-the-drawing-board-again-3.mp3"
+  ],
+  "transcripts": [
+   "Listen carefully. Hey, we need to go back to the drawing board. What do you mean? Our original plan went terribly wrong, and it was unsuccessful.",
+   "are not working out at all, you may have to go back to the drawing board. This means that your plan or method is not working.",
+   "material coming out of it. To be honest, we are really going back to the drawing-board with this,\" said Steady co-writer Darak Watson of the Cosmo—"
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://www.voakorea.com/a/3014173.html",
+  "link_title": "[English with Yoo] Back to the drawing board"
+ },
+ {
+  "phrase": "Cut corners.",
+  "slug": "cut-corners-again",
+  "sent_at": "2026-11-16 15:30",
+  "literal": "抄近路切过拐角",
+  "meaning": "为了省时、省钱或图省事而偷工减料、走捷径（常影响质量）",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Why is this chair already falling apart?"
+   },
+   {
+    "who": "B",
+    "en": "They probably cut corners to keep the price down."
+   }
+  ],
+  "dialog_zh": "A：这把椅子怎么已经散架了？B：他们大概为了压低价格偷工减料了。",
+  "tip": "多含贬义。corners 要用复数，也可以说 cut a few corners。常见搭配是 cut corners on safety / quality。",
+  "audios": [
+   "media/cut-corners-again-1.mp3",
+   "media/cut-corners-again-2.mp3",
+   "media/cut-corners-again-3.mp3"
+  ],
+  "transcripts": [
+   "Have you finished planning for your vacation? Not quite yet. I'm still looking for ways to cut corners and save money on this vacation. It's a vacation! Don't cut corners, just... ...",
+   "that you can, at least in conversation. When you cut corners, you do something in a cheaper or easier way.",
+   "seven days a week trying to grow the company. I never cut corners or tried to save on expenses. I made many..."
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://www.voakorea.com/a/6748879.html",
+  "link_title": "[VOA 매일 영어] 원칙이나 절차를 무시하다 cut corners"
  }
 ]

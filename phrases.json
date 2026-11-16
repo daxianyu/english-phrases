@@ -4311,5 +4311,62 @@
     ],
     "dialog_zh": "A：这张表我还是不会填。B：这又不是什么难事。按页面上的步骤做就行。",
     "tip": "用来强调某事其实很简单，有时略带不耐烦。不要在真正讨论高难专业问题时用，以免显得讥讽。"
+  },
+  {
+    "phrase": "Wrap your head around something.",
+    "slug": "wrap-your-head-around-something-again",
+    "sent_at": "2026-11-16 15:30",
+    "literal": "用脑袋把某事包起来",
+    "meaning": "弄懂、想明白某个复杂或一下子难以接受的事",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "I still can't wrap my head around why they shut the program down."
+      },
+      {
+        "who": "B",
+        "en": "Me neither. It was working so well."
+      }
+    ],
+    "dialog_zh": "A：我还是想不通他们为什么把这个项目停了。B：我也是。明明一直做得挺好的。",
+    "tip": "最常说 I can't wrap my head around it，表示实在想不明白。主语变化时用 wrap my/your/his head around，不要说 wrap the head。"
+  },
+  {
+    "phrase": "Go back to the drawing board.",
+    "slug": "go-back-to-the-drawing-board-again",
+    "sent_at": "2026-11-16 15:30",
+    "literal": "回到绘图板前",
+    "meaning": "计划或方案行不通后，推倒重来、从头再想办法",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "The client rejected all three designs."
+      },
+      {
+        "who": "B",
+        "en": "Then I guess we're going back to the drawing board."
+      }
+    ],
+    "dialog_zh": "A：客户把三个方案全否了。B：那看来我们得推倒重来了。",
+    "tip": "也常直接说 Back to the drawing board。用于计划失败后重来，不是真的回到画图板。不要说成 draw board。"
+  },
+  {
+    "phrase": "Cut corners.",
+    "slug": "cut-corners-again",
+    "sent_at": "2026-11-16 15:30",
+    "literal": "抄近路切过拐角",
+    "meaning": "为了省时、省钱或图省事而偷工减料、走捷径（常影响质量）",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "Why is this chair already falling apart?"
+      },
+      {
+        "who": "B",
+        "en": "They probably cut corners to keep the price down."
+      }
+    ],
+    "dialog_zh": "A：这把椅子怎么已经散架了？B：他们大概为了压低价格偷工减料了。",
+    "tip": "多含贬义。corners 要用复数，也可以说 cut a few corners。常见搭配是 cut corners on safety / quality。"
   }
 ]
