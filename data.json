@@ -6874,5 +6874,104 @@
   "audio": null,
   "link": null,
   "link_title": null
+ },
+ {
+  "phrase": "Get out of hand.",
+  "slug": "get-out-of-hand-again",
+  "sent_at": "2026-11-16 08:00",
+  "literal": "从手里脱出；脱离掌控",
+  "meaning": "事情失去控制，变得难以收拾",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "How was dinner with your relatives?"
+   },
+   {
+    "who": "B",
+    "en": "Fine at first, but the argument got out of hand."
+   }
+  ],
+  "dialog_zh": "A：和亲戚一起吃饭怎么样？B：一开始还好，后来吵得有点失控了。",
+  "tip": "常说 things got out of hand 或 get out of hand，主语一般是事情、局面、争论等，中间没有 the。",
+  "audios": [
+   "media/get-out-of-hand-again-1.mp3",
+   "media/get-out-of-hand-again-2.mp3",
+   "media/get-out-of-hand-again-3.mp3"
+  ],
+  "transcripts": [
+   "Civil War can still be felt. Things can get out of hand because since the end of the Civil War, the Lebanese never",
+   "were not they have symptoms, provides a way to prevent outbreaks getting out of hand. Prasanti has become well known in Italy for his",
+   "He is concerned about demonstrations at the conventions getting out of hand. Johnson said he will travel to Cleveland."
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://learningenglish.voanews.com/a/oscar-nominated-film-the-insult-shines-light-on-lebanon/4258049.html",
+  "link_title": "Oscar-Nominated Film 'The Insult' Shines Light on Lebanon"
+ },
+ {
+  "phrase": "On the ball.",
+  "slug": "on-the-ball-again",
+  "sent_at": "2026-11-16 08:00",
+  "literal": "在球上",
+  "meaning": "反应快、做事机敏靠谱",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Did anyone catch the typo in today's email?"
+   },
+   {
+    "who": "B",
+    "en": "Jamie did, right away. He's always on the ball."
+   }
+  ],
+  "dialog_zh": "A：有人发现今天邮件里的错字了吗？B：Jamie一下子就看出来了。他做事一向很机敏。",
+  "tip": "用来夸人机灵、靠得住，说 be on the ball，不是字面上和球有关。也可以说 I wasn't on the ball today，表示今天反应慢、状态不好。",
+  "audios": [
+   "media/on-the-ball-again-1.mp3",
+   "media/on-the-ball-again-2.mp3",
+   "media/on-the-ball-again-3.mp3"
+  ],
+  "transcripts": [
+   "Very productive. I finished three reports and have only one more to do. Wow, you are on the ball. How did you do them so fast? Coffee. Lots of coffee.",
+   "Some common expressions from baseball. Someone who is on the ball is intelligent and able to do a good job.",
+   "5. I'm sorry for the mistake. I wasn't on the ball today. In this example, someone apologizes for not being a"
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://learningenglish.voanews.com/a/7990719.html",
+  "link_title": "English in a Minute: On the Ball"
+ },
+ {
+  "phrase": "It's not rocket science.",
+  "slug": "its-not-rocket-science-again",
+  "sent_at": "2026-11-16 08:00",
+  "literal": "这不是火箭科学",
+  "meaning": "这件事并不难，没那么复杂",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "I still don't know how to file this form."
+   },
+   {
+    "who": "B",
+    "en": "It's not rocket science. Just follow the steps on the page."
+   }
+  ],
+  "dialog_zh": "A：这张表我还是不会填。B：这又不是什么难事。按页面上的步骤做就行。",
+  "tip": "用来强调某事其实很简单，有时略带不耐烦。不要在真正讨论高难专业问题时用，以免显得讥讽。",
+  "audios": [
+   "media/its-not-rocket-science-again-1.mp3",
+   "media/its-not-rocket-science-again-2.mp3",
+   "media/its-not-rocket-science-again-3.mp3"
+  ],
+  "transcripts": [
+   "You can reduce alcohol problems. It's not rocket science, and there's a lot of science behind it. However, he's not.",
+   "Please don't forget to turn off the lights. It's not rocket science. You can use this idiom for",
+   "It looks so complicated. B, come on, it's not rocket science. Just swipe up to unlock and tap on the app you want to use."
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://learningenglish.voanews.com/a/u-s-health-agency-cancels-alcohol-study-financed-by-alcohol-industry/5026992.html",
+  "link_title": "US Health Agency Cancels Alcohol Study Financed by Alcohol Industry"
  }
 ]

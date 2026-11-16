@@ -4254,5 +4254,62 @@
     ],
     "dialog_zh": "A：他又迟到了。我有点受不了。B：对他宽容一点吧。他宝宝昨晚闹了一夜。",
     "tip": "最常说 Cut me some slack。这里的 slack 不加复数，不要写成 slacks（那是裤子）。"
+  },
+  {
+    "phrase": "Get out of hand.",
+    "slug": "get-out-of-hand-again",
+    "sent_at": "2026-11-16 08:00",
+    "literal": "从手里脱出；脱离掌控",
+    "meaning": "事情失去控制，变得难以收拾",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "How was dinner with your relatives?"
+      },
+      {
+        "who": "B",
+        "en": "Fine at first, but the argument got out of hand."
+      }
+    ],
+    "dialog_zh": "A：和亲戚一起吃饭怎么样？B：一开始还好，后来吵得有点失控了。",
+    "tip": "常说 things got out of hand 或 get out of hand，主语一般是事情、局面、争论等，中间没有 the。"
+  },
+  {
+    "phrase": "On the ball.",
+    "slug": "on-the-ball-again",
+    "sent_at": "2026-11-16 08:00",
+    "literal": "在球上",
+    "meaning": "反应快、做事机敏靠谱",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "Did anyone catch the typo in today's email?"
+      },
+      {
+        "who": "B",
+        "en": "Jamie did, right away. He's always on the ball."
+      }
+    ],
+    "dialog_zh": "A：有人发现今天邮件里的错字了吗？B：Jamie一下子就看出来了。他做事一向很机敏。",
+    "tip": "用来夸人机灵、靠得住，说 be on the ball，不是字面上和球有关。也可以说 I wasn't on the ball today，表示今天反应慢、状态不好。"
+  },
+  {
+    "phrase": "It's not rocket science.",
+    "slug": "its-not-rocket-science-again",
+    "sent_at": "2026-11-16 08:00",
+    "literal": "这不是火箭科学",
+    "meaning": "这件事并不难，没那么复杂",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "I still don't know how to file this form."
+      },
+      {
+        "who": "B",
+        "en": "It's not rocket science. Just follow the steps on the page."
+      }
+    ],
+    "dialog_zh": "A：这张表我还是不会填。B：这又不是什么难事。按页面上的步骤做就行。",
+    "tip": "用来强调某事其实很简单，有时略带不耐烦。不要在真正讨论高难专业问题时用，以免显得讥讽。"
   }
 ]
