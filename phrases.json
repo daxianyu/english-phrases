@@ -4425,5 +4425,62 @@
     ],
     "dialog_zh": "A：要是客户下个月还要改更多怎么办？B：到时候再说吧。",
     "tip": "语气轻松、劝人别杞人忧天；主语可换成 I’ll，固定用 that bridge 和 come to it，别说成 go to it 或 arrive it。"
+  },
+  {
+    "phrase": "To make matters worse.",
+    "slug": "to-make-matters-worse-again",
+    "sent_at": "2026-11-17 15:30",
+    "literal": "让事情变得更糟",
+    "meaning": "更糟糕的是；雪上加霜的是（引出又一件坏事）",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "How was your trip?"
+      },
+      {
+        "who": "B",
+        "en": "Awful. Our flight was delayed, and to make matters worse, they lost my bag."
+      }
+    ],
+    "dialog_zh": "旅行怎么样？——糟透了。航班延误了，更糟的是，他们还把我的行李弄丢了。",
+    "tip": "放在句首、后面加逗号，用来接着讲第二件坏事；matters 必须用复数，别说成 to make matter worse 或 to make things worser。"
+  },
+  {
+    "phrase": "Get bent out of shape.",
+    "slug": "get-bent-out-of-shape-again",
+    "sent_at": "2026-11-17 15:30",
+    "literal": "被弄弯、变了形",
+    "meaning": "（为小事）生气、恼火、心烦",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "Sorry I'm five minutes late."
+      },
+      {
+        "who": "B",
+        "en": "Relax, I'm not going to get bent out of shape over five minutes."
+      }
+    ],
+    "dialog_zh": "抱歉我迟到了五分钟。——放松，我不会为五分钟就不高兴的。",
+    "tip": "口语、偏随意，常用于劝人别为小事生气：Don't get bent out of shape about it.；搭配 about/over sth，也常说 all bent out of shape（气得不行）。"
+  },
+  {
+    "phrase": "Easy does it.",
+    "slug": "easy-does-it-again",
+    "sent_at": "2026-11-17 15:30",
+    "literal": "轻松地做才行",
+    "meaning": "慢点、小心点、别急、别用力过猛（提醒动作要轻、要稳，也可劝人冷静）",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "Okay, let's lift the TV onto the stand."
+      },
+      {
+        "who": "B",
+        "en": "Easy does it... slowly... perfect."
+      }
+    ],
+    "dialog_zh": "好，我们把电视抬到架子上。——慢点、小心……慢慢来……好了。",
+    "tip": "是固定说法，不随人称变化（不说 Easy do it）；常在搬东西、扶人、倒车时说，也可用来让激动的人冷静下来，相当于 Take it easy / Careful."
   }
 ]
