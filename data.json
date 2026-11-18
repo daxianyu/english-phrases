@@ -7361,5 +7361,104 @@
   "audio": null,
   "link": "https://learningenglish.voanews.com/a/tasty-travels-barbecue-american-food-tradition/3949118.html",
   "link_title": "Barbecue: An American Food Tradition"
+ },
+ {
+  "phrase": "Make sense.",
+  "slug": "make-sense-again",
+  "sent_at": "2026-11-18 15:30",
+  "literal": "制造意义",
+  "meaning": "讲得通；合理；能理解",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "If we leave at seven, we'll miss the rush hour."
+   },
+   {
+    "who": "B",
+    "en": "Yeah, that makes sense."
+   }
+  ],
+  "dialog_zh": "如果我们七点出发，就能避开高峰。——对，这样说得通。",
+  "tip": "第三人称用 makes sense；问对方听懂了常说 Does that make sense?；make sense of something = 弄懂某事。别漏掉第三人称的 s。",
+  "audios": [
+   "media/make-sense-again-1.mp3",
+   "media/make-sense-again-2.mp3",
+   "media/make-sense-again-3.mp3"
+  ],
+  "transcripts": [
+   "So just got a promotion and a raise at her job. It doesn't make sense. Well, whether it makes sense or not, that's what she told me.",
+   "Two questions for the Alaskan tourism industry. Does it make sense to build visitor centers for glaciers if they will not be useful in the",
+   "In the UK, they put in their top pence or two pence worth. Makes sense, they have pence and we don't. Another example."
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://learningenglish.voanews.com/a/straight-from-the-horse-s-mouth-/7335071.html",
+  "link_title": "Straight from the Horse's Mouth"
+ },
+ {
+  "phrase": "In other words.",
+  "slug": "in-other-words-again",
+  "sent_at": "2026-11-18 15:30",
+  "literal": "用别的话",
+  "meaning": "换句话说；也就是说",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "I don't have time to cook tonight."
+   },
+   {
+    "who": "B",
+    "en": "In other words, we're ordering takeout."
+   }
+  ],
+  "dialog_zh": "我今晚没时间做饭。——也就是说，我们叫外卖。",
+  "tip": "用来换一种更直白的说法，或总结、确认对方的意思。words 是复数，不要说 in other word。",
+  "audios": [
+   "media/in-other-words-again-1.mp3",
+   "media/in-other-words-again-2.mp3",
+   "media/in-other-words-again-3.mp3"
+  ],
+  "transcripts": [
+   "Light suggestion. You are making an indirect threat. In other words, if you don't finish the report, you are in trouble.",
+   "We hope it gives you something to think about. In other words, we hope this show gives you some food for thought.",
+   "Reduce the force of a statement or express doubt. In other words, they set the tone of a statement."
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://learningenglish.voanews.com/a/you-really-should-learn-modals-everyday-gramamr/3355517.html",
+  "link_title": "Everyday Grammar: You Really Should Learn Modals!"
+ },
+ {
+  "phrase": "Keep in mind.",
+  "slug": "keep-in-mind-again",
+  "sent_at": "2026-11-18 15:30",
+  "literal": "保持在脑中",
+  "meaning": "记住；别忘了（提醒对方注意某个要点）",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "The meeting starts at nine, not nine thirty."
+   },
+   {
+    "who": "B",
+    "en": "Got it — I'll keep that in mind."
+   }
+  ],
+  "dialog_zh": "会议是九点开始，不是九点半。——知道了，我会记住的。",
+  "tip": "常用 keep in mind that… 或 keep something in mind。比 remember 稍正式一点，常用于提醒注意事项。",
+  "audios": [
+   "media/keep-in-mind-again-1.mp3",
+   "media/keep-in-mind-again-2.mp3",
+   "media/keep-in-mind-again-3.mp3"
+  ],
+  "transcripts": [
+   "also it out and have been active or learning six languages. Another thing to keep in mind is that it is better to find at least two exchange partners.",
+   "is maybe my friends will visit. Keep in mind that using the modal may or might is a more",
+   "Now, keep in mind that people who specialize in a certain area of their work are not"
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://learningenglish.voanews.com/a/five-tips-for-great-language-exchanges/5175780.html",
+  "link_title": "Five Tips for Great Language Exchanges"
  }
 ]

@@ -4539,5 +4539,62 @@
     ],
     "dialog_zh": "我一周两天在家办公，另外三天去公司。——不错啊，两全其美。",
     "tip": "常说 get / have / enjoy the best of both worlds，几乎总带 the；语气积极。反过来说“没法两全”可以用 You can't have the best of both worlds 或 You can't have your cake and eat it too。别说成 the best of two worlds。"
+  },
+  {
+    "phrase": "Make sense.",
+    "slug": "make-sense-again",
+    "sent_at": "2026-11-18 15:30",
+    "literal": "制造意义",
+    "meaning": "讲得通；合理；能理解",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "If we leave at seven, we'll miss the rush hour."
+      },
+      {
+        "who": "B",
+        "en": "Yeah, that makes sense."
+      }
+    ],
+    "dialog_zh": "如果我们七点出发，就能避开高峰。——对，这样说得通。",
+    "tip": "第三人称用 makes sense；问对方听懂了常说 Does that make sense?；make sense of something = 弄懂某事。别漏掉第三人称的 s。"
+  },
+  {
+    "phrase": "In other words.",
+    "slug": "in-other-words-again",
+    "sent_at": "2026-11-18 15:30",
+    "literal": "用别的话",
+    "meaning": "换句话说；也就是说",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "I don't have time to cook tonight."
+      },
+      {
+        "who": "B",
+        "en": "In other words, we're ordering takeout."
+      }
+    ],
+    "dialog_zh": "我今晚没时间做饭。——也就是说，我们叫外卖。",
+    "tip": "用来换一种更直白的说法，或总结、确认对方的意思。words 是复数，不要说 in other word。"
+  },
+  {
+    "phrase": "Keep in mind.",
+    "slug": "keep-in-mind-again",
+    "sent_at": "2026-11-18 15:30",
+    "literal": "保持在脑中",
+    "meaning": "记住；别忘了（提醒对方注意某个要点）",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "The meeting starts at nine, not nine thirty."
+      },
+      {
+        "who": "B",
+        "en": "Got it — I'll keep that in mind."
+      }
+    ],
+    "dialog_zh": "会议是九点开始，不是九点半。——知道了，我会记住的。",
+    "tip": "常用 keep in mind that… 或 keep something in mind。比 remember 稍正式一点，常用于提醒注意事项。"
   }
 ]
