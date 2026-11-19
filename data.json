@@ -7559,5 +7559,104 @@
   "audio": null,
   "link": "https://learningenglish.voanews.com/a/are-you-strong-out-of-the-gate-/7645574.html",
   "link_title": "Are You Strong 'Out of the Gate'?"
+ },
+ {
+  "phrase": "Keep in touch.",
+  "slug": "keep-in-touch-again",
+  "sent_at": "2026-11-19 15:30",
+  "literal": "保持在接触中",
+  "meaning": "保持联系",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "My internship ends this Friday, and then I go back home."
+   },
+   {
+    "who": "B",
+    "en": "I really enjoyed working with you. Keep in touch!"
+   }
+  ],
+  "dialog_zh": "我的实习这周五就结束了，然后就要回家。——跟你一起工作很愉快。保持联系！",
+  "tip": "常用于道别，语气亲切；也可以说 stay in touch。和某人保持联系是 keep in touch with someone。",
+  "audios": [
+   "media/keep-in-touch-again-1.mp3",
+   "media/keep-in-touch-again-2.mp3",
+   "media/keep-in-touch-again-3.mp3"
+  ],
+  "transcripts": [
+   "during his flight. While he was flying, I constantly tried to keep in touch and help him, she said. Our parents called him every day.",
+   "Despite sailing on his own, technology helped him keep in touch with family members and others throughout the trip.",
+   "For the last 9 months, Eileen Nagel has kept in touch with her family through video calls and DR."
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://learningenglish.voanews.com/a/year-old-sets-record-for-flying-alone-around-the-world/6714896.html",
+  "link_title": "17-year-old Sets Record for Flying Alone Around the World"
+ },
+ {
+  "phrase": "Make a difference.",
+  "slug": "make-a-difference-again",
+  "sent_at": "2026-11-19 15:30",
+  "literal": "制造一个差别",
+  "meaning": "产生影响；起作用（多指积极的改变）",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "I don't think one person can change much."
+   },
+   {
+    "who": "B",
+    "en": "I disagree. Showing up consistently can make a difference."
+   }
+  ],
+  "dialog_zh": "我觉得一个人改变不了多少。——我不同意。坚持去做，就能带来改变。",
+  "tip": "多为正面含义。“影响很大”说 make a big difference，“没什么区别”说 It doesn't make any difference。动词用 make，不用 do。",
+  "audios": [
+   "media/make-a-difference-again-1.mp3",
+   "media/make-a-difference-again-2.mp3",
+   "media/make-a-difference-again-3.mp3"
+  ],
+  "transcripts": [
+   "So it's nice to be in a space where like we're uplifted, but also it feels like we're making a difference and I feel like maybe 10-15 years from now, we're going to see a lot more black",
+   "regular people. If your Usain Bolt makes a difference, he said, for the rest of us not so much.",
+   "She saw the business as a chance for average people to make a difference on the climate crisis."
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://learningenglish.voanews.com/a/media-program-helps-young-people-in-washington-dc/7366844.html",
+  "link_title": "Media Program Helps Young People in Washington, DC"
+ },
+ {
+  "phrase": "Back and forth.",
+  "slug": "back-and-forth-again",
+  "sent_at": "2026-11-19 15:30",
+  "literal": "来回往返",
+  "meaning": "来来回回；反复（犹豫、来回沟通）",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Did you two settle the schedule?"
+   },
+   {
+    "who": "B",
+    "en": "Not yet. We've been emailing back and forth all week."
+   }
+  ],
+  "dialog_zh": "你们把时间定下来了吗？——还没有。我们这一周邮件来回发了好多。",
+  "tip": "固定语序是 back and forth，不说 forth and back。go back and forth on/about something 表示反复犹豫，也可指邮件、消息来回往来。",
+  "audios": [
+   "media/back-and-forth-again-1.mp3",
+   "media/back-and-forth-again-2.mp3",
+   "media/back-and-forth-again-3.mp3"
+  ],
+  "transcripts": [
+   "He said, when I speak to my mom, I'm switching back and forth all the time, depending on what we're talking about.",
+   "Really, that's the answer. I just love doing it. You get this back and forth with the audience. You can see they're having a good time.",
+   "Augustine said, kids are resilient. The families are trained in going back and forth between remote and the building. I'm Dan."
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://learningenglish.voanews.com/a/kpop-musical-comes-to-broadway-in-new-york-city/6850246.html",
+  "link_title": "KPOP Musical Comes to Broadway in New York City"
  }
 ]

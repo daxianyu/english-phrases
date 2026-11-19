@@ -4653,5 +4653,62 @@
     ],
     "dialog_zh": "报告写完了吗？——差不多了，我再核对一下数字就行。",
     "tip": "表示大致如此、不完全精确。可单独作答，也可放在句末，如 That's more or less it。"
+  },
+  {
+    "phrase": "Keep in touch.",
+    "slug": "keep-in-touch-again",
+    "sent_at": "2026-11-19 15:30",
+    "literal": "保持在接触中",
+    "meaning": "保持联系",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "My internship ends this Friday, and then I go back home."
+      },
+      {
+        "who": "B",
+        "en": "I really enjoyed working with you. Keep in touch!"
+      }
+    ],
+    "dialog_zh": "我的实习这周五就结束了，然后就要回家。——跟你一起工作很愉快。保持联系！",
+    "tip": "常用于道别，语气亲切；也可以说 stay in touch。和某人保持联系是 keep in touch with someone。"
+  },
+  {
+    "phrase": "Make a difference.",
+    "slug": "make-a-difference-again",
+    "sent_at": "2026-11-19 15:30",
+    "literal": "制造一个差别",
+    "meaning": "产生影响；起作用（多指积极的改变）",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "I don't think one person can change much."
+      },
+      {
+        "who": "B",
+        "en": "I disagree. Showing up consistently can make a difference."
+      }
+    ],
+    "dialog_zh": "我觉得一个人改变不了多少。——我不同意。坚持去做，就能带来改变。",
+    "tip": "多为正面含义。“影响很大”说 make a big difference，“没什么区别”说 It doesn't make any difference。动词用 make，不用 do。"
+  },
+  {
+    "phrase": "Back and forth.",
+    "slug": "back-and-forth-again",
+    "sent_at": "2026-11-19 15:30",
+    "literal": "来回往返",
+    "meaning": "来来回回；反复（犹豫、来回沟通）",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "Did you two settle the schedule?"
+      },
+      {
+        "who": "B",
+        "en": "Not yet. We've been emailing back and forth all week."
+      }
+    ],
+    "dialog_zh": "你们把时间定下来了吗？——还没有。我们这一周邮件来回发了好多。",
+    "tip": "固定语序是 back and forth，不说 forth and back。go back and forth on/about something 表示反复犹豫，也可指邮件、消息来回往来。"
   }
 ]
