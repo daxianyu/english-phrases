@@ -7460,5 +7460,104 @@
   "audio": null,
   "link": "https://learningenglish.voanews.com/a/five-tips-for-great-language-exchanges/5175780.html",
   "link_title": "Five Tips for Great Language Exchanges"
+ },
+ {
+  "phrase": "On the other hand.",
+  "slug": "on-the-other-hand-again",
+  "sent_at": "2026-11-19 08:00",
+  "literal": "在另一只手上",
+  "meaning": "另一方面；反过来说（引出对比或相反的情况）",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "This apartment is cheaper."
+   },
+   {
+    "who": "B",
+    "en": "On the other hand, it's farther from work."
+   }
+  ],
+  "dialog_zh": "这套公寓更便宜。——另一方面，它离公司更远。",
+  "tip": "用来引出与前面相对的观点。固定搭配是 on the other hand，不要漏掉 the，也不要说 on another hand。",
+  "audios": [
+   "media/on-the-other-hand-again-1.mp3",
+   "media/on-the-other-hand-again-2.mp3",
+   "media/on-the-other-hand-again-3.mp3"
+  ],
+  "transcripts": [
+   "of a level of risk. Things could go wrong. On the other hand, things could go very right.",
+   "of direct experience yourself with the teacher. On the other hand, if you say he's obviously not a very good teacher,",
+   "of tax breaks to EV manufacturers and owners. On the other hand, the country heavily taxes gas-powered vehicles."
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://learningenglish.voanews.com/a/expressions-for-new-year-s-resolution/6896754.html",
+  "link_title": "Expressions for New Year's Resolution"
+ },
+ {
+  "phrase": "All of a sudden.",
+  "slug": "all-of-a-sudden-again",
+  "sent_at": "2026-11-19 08:00",
+  "literal": "突然的全部",
+  "meaning": "突然；一下子（事情出乎意料地发生）",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "How did the meeting go?"
+   },
+   {
+    "who": "B",
+    "en": "Fine, until all of a sudden the fire alarm went off."
+   }
+  ],
+  "dialog_zh": "会议怎么样？——本来挺好的，直到突然火警响了。",
+  "tip": "和 suddenly 意思接近，口语里很常用。固定说法是 all of a sudden，不要说 all of the sudden。",
+  "audios": [
+   "media/all-of-a-sudden-again-1.mp3",
+   "media/all-of-a-sudden-again-2.mp3",
+   "media/all-of-a-sudden-again-3.mp3"
+  ],
+  "transcripts": [
+   "The little boy went in and out of view. Then, all of a sudden, he stopped and looked across the tracks directly at the...",
+   "She described a rolling feeling inside the building. And all of a sudden everything started falling off the shelf, she said.",
+   "From being able to see absolutely nothing, it's pitch black, to all of a sudden seeing little flickers of life move around."
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://learningenglish.voanews.com/a/the-boy-on-graves-end-road-caty-weaver/3568894.html",
+  "link_title": "'The Boy on Graves-End Road,' by Caty Weaver"
+ },
+ {
+  "phrase": "More or less.",
+  "slug": "more-or-less-again",
+  "sent_at": "2026-11-19 08:00",
+  "literal": "更多或更少",
+  "meaning": "差不多；大致上；或多或少",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Are you done with the report?"
+   },
+   {
+    "who": "B",
+    "en": "More or less — I just need to check the numbers."
+   }
+  ],
+  "dialog_zh": "报告写完了吗？——差不多了，我再核对一下数字就行。",
+  "tip": "表示大致如此、不完全精确。可单独作答，也可放在句末，如 That's more or less it。",
+  "audios": [
+   "media/more-or-less-again-1.mp3",
+   "media/more-or-less-again-2.mp3",
+   "media/more-or-less-again-3.mp3"
+  ],
+  "transcripts": [
+   "and the actions of the other players begin. They are more or less waiting for that ball to be hit before they have something to do.",
+   "started becoming more common in the 1920s. That trend has more or less continued to the present time. So if you are discussing...",
+   "Chinese winemaker, legacy peak, started producing grapes more or less by accident. Now it wins awards"
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://learningenglish.voanews.com/a/are-you-strong-out-of-the-gate-/7645574.html",
+  "link_title": "Are You Strong 'Out of the Gate'?"
  }
 ]

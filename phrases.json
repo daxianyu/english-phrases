@@ -4596,5 +4596,62 @@
     ],
     "dialog_zh": "会议是九点开始，不是九点半。——知道了，我会记住的。",
     "tip": "常用 keep in mind that… 或 keep something in mind。比 remember 稍正式一点，常用于提醒注意事项。"
+  },
+  {
+    "phrase": "On the other hand.",
+    "slug": "on-the-other-hand-again",
+    "sent_at": "2026-11-19 08:00",
+    "literal": "在另一只手上",
+    "meaning": "另一方面；反过来说（引出对比或相反的情况）",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "This apartment is cheaper."
+      },
+      {
+        "who": "B",
+        "en": "On the other hand, it's farther from work."
+      }
+    ],
+    "dialog_zh": "这套公寓更便宜。——另一方面，它离公司更远。",
+    "tip": "用来引出与前面相对的观点。固定搭配是 on the other hand，不要漏掉 the，也不要说 on another hand。"
+  },
+  {
+    "phrase": "All of a sudden.",
+    "slug": "all-of-a-sudden-again",
+    "sent_at": "2026-11-19 08:00",
+    "literal": "突然的全部",
+    "meaning": "突然；一下子（事情出乎意料地发生）",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "How did the meeting go?"
+      },
+      {
+        "who": "B",
+        "en": "Fine, until all of a sudden the fire alarm went off."
+      }
+    ],
+    "dialog_zh": "会议怎么样？——本来挺好的，直到突然火警响了。",
+    "tip": "和 suddenly 意思接近，口语里很常用。固定说法是 all of a sudden，不要说 all of the sudden。"
+  },
+  {
+    "phrase": "More or less.",
+    "slug": "more-or-less-again",
+    "sent_at": "2026-11-19 08:00",
+    "literal": "更多或更少",
+    "meaning": "差不多；大致上；或多或少",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "Are you done with the report?"
+      },
+      {
+        "who": "B",
+        "en": "More or less — I just need to check the numbers."
+      }
+    ],
+    "dialog_zh": "报告写完了吗？——差不多了，我再核对一下数字就行。",
+    "tip": "表示大致如此、不完全精确。可单独作答，也可放在句末，如 That's more or less it。"
   }
 ]
