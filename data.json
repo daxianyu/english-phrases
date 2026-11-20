@@ -7658,5 +7658,104 @@
   "audio": null,
   "link": "https://learningenglish.voanews.com/a/kpop-musical-comes-to-broadway-in-new-york-city/6850246.html",
   "link_title": "KPOP Musical Comes to Broadway in New York City"
+ },
+ {
+  "phrase": "You can say that again.",
+  "slug": "you-can-say-that-again-again",
+  "sent_at": "2026-11-20 08:00",
+  "literal": "你可以再说一遍",
+  "meaning": "你说得太对了；我完全同意",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "This line is taking forever."
+   },
+   {
+    "who": "B",
+    "en": "You can say that again."
+   }
+  ],
+  "dialog_zh": "这队排得没完没了。——可不是嘛。",
+  "tip": "表示非常强烈的赞同，并不是真的要对方再重复一遍。说的时候重音在 that 上：You can say THAT again.",
+  "audios": [
+   "media/you-can-say-that-again-again-1.mp3",
+   "media/you-can-say-that-again-again-2.mp3",
+   "media/you-can-say-that-again-again-3.mp3"
+  ],
+  "transcripts": [
+   "so much floss them and jack them on their facebook page don't you see me on the scene you can say that again i really don't need to see one hundred photos of a cat wearing a hat or status about",
+   "to be very careful with the internet, especially if you do your banking online. You can say that again. One time I got involved with this online charity to help keep in Africa.",
+   "I'll let you adapt to it. There just isn't any extra money lying around these days. You can say that again. I've been penny-pinching all year. Our family has basically stopped eating out."
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://www.voachinese.com/a/eng25-77/1545296.html",
+  "link_title": "美语训练班第77课"
+ },
+ {
+  "phrase": "Fair enough.",
+  "slug": "fair-enough-again",
+  "sent_at": "2026-11-20 08:00",
+  "literal": "足够公平",
+  "meaning": "有道理；行吧",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "I need to leave early to pick up my kid."
+   },
+   {
+    "who": "B",
+    "en": "Fair enough. I'll finish the rest."
+   }
+  ],
+  "dialog_zh": "我得早点走，去接孩子。——行，理解。剩下的我来收尾。",
+  "tip": "用来接受对方的理由或条件，语气可以很干脆，有时也略带勉强。不是在评价某件事“够公平”的程度。",
+  "audios": [
+   "media/fair-enough-again-1.mp3",
+   "media/fair-enough-again-2.mp3",
+   "media/fair-enough-again-3.mp3"
+  ],
+  "transcripts": [
+   "Alright, fair enough.",
+   "Okay, I'm going to show you how to do it. I'm going to mess with me. Okay, that's fair enough.",
+   "I don't know if I'm going to talk with you. What's this? Ugh. Fair enough. I'd say hugging is not usually appropriate in a business situation. Some people are..."
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://www.voachinese.com/a/wi578/1703875.html",
+  "link_title": "美国习惯用语第578讲"
+ },
+ {
+  "phrase": "No sweat.",
+  "slug": "no-sweat-again",
+  "sent_at": "2026-11-20 08:00",
+  "literal": "没有汗",
+  "meaning": "没问题；小事一桩",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Could you send me the file by tonight?"
+   },
+   {
+    "who": "B",
+    "en": "No sweat."
+   }
+  ],
+  "dialog_zh": "今晚能把文件发给我吗？——没问题。",
+  "tip": "用来回应感谢或请求，口语比较随意，意思接近 no problem / no trouble。不要按字面理解成“没有出汗”。",
+  "audios": [
+   "media/no-sweat-again-1.mp3",
+   "media/no-sweat-again-2.mp3",
+   "media/no-sweat-again-3.mp3"
+  ],
+  "transcripts": [
+   "for you. The person thanks you, and you can say to them, no sweat. This just means it was easy for you to do.",
+   "I know that Joe, my son thinks I should have a phone. I'm not sure if I have a phone. Don't worry about the flat tire. No sweat. I have a car phone and a set of tools in back. Just let me get my jack and...",
+   "No sweat, I'll stop at that gas station and we can get some stuff to clean it up. Oh, no one will get..."
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://learningenglish.voanews.com/a/don-t-sweat-it-and-other-sweaty-expressions/6004902.html",
+  "link_title": "Don't Sweat It and Other Sweaty Expressions"
  }
 ]
