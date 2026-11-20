@@ -7757,5 +7757,104 @@
   "audio": null,
   "link": "https://learningenglish.voanews.com/a/don-t-sweat-it-and-other-sweaty-expressions/6004902.html",
   "link_title": "Don't Sweat It and Other Sweaty Expressions"
+ },
+ {
+  "phrase": "My bad.",
+  "slug": "my-bad-again",
+  "sent_at": "2026-11-20 15:30",
+  "literal": "我的坏",
+  "meaning": "我的错；抱歉，是我弄错了",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Hey, that's my charger."
+   },
+   {
+    "who": "B",
+    "en": "Oh, my bad. Here you go."
+   }
+  ],
+  "dialog_zh": "嘿，那是我的充电器。——哦，我的错。给你。",
+  "tip": "很随意的道歉，多用于朋友或同事之间的小事。正式场合更常用 I'm sorry 或 I apologize。不要按字面理解成“我的坏”。",
+  "audios": [
+   "media/my-bad-again-1.mp3",
+   "media/my-bad-again-2.mp3",
+   "media/my-bad-again-3.mp3"
+  ],
+  "transcripts": [
+   "Friends use expressions like, That was on me, or, my bad. But there is another way to say that you expect",
+   "You could be bigger when you're down tending to the hub of heart. Sure, here's an napkin. Oops, my bad. Still cheap. Whoa, the coffee's sour. Here, let me help you clean that up.",
+   "Oh Mike, you can't tar every government employee with the same brush. Okay, my bad, my bad. But what does tar with the same brush mean? Let's check it out in today's words."
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://learningenglish.voanews.com/a/for-when-you-do-something-wrong-mea-culpa/7846622.html",
+  "link_title": "For When You Do Something Wrong: Mea Culpa"
+ },
+ {
+  "phrase": "I'm all ears.",
+  "slug": "im-all-ears-again",
+  "sent_at": "2026-11-20 15:30",
+  "literal": "我全身都是耳朵",
+  "meaning": "我洗耳恭听；你说，我认真听着",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "I figured out how we can finish this today."
+   },
+   {
+    "who": "B",
+    "en": "I'm all ears."
+   }
+  ],
+  "dialog_zh": "我想到怎么今天就能做完了。——洗耳恭听。",
+  "tip": "表示很想听、正在专心听。语气可以真诚，也可以略带调侃。主语随说话人变化：You're all ears 不常用，一般说 I'm all ears。",
+  "audios": [
+   "media/im-all-ears-again-1.mp3",
+   "media/im-all-ears-again-2.mp3",
+   "media/im-all-ears-again-3.mp3"
+  ],
+  "transcripts": [
+   "Today? I completely forgot. Tell me what I missed. I'm all ears. You missed a lot of drama. Two people quit.",
+   "What about ears? Well, I hope you are all ears, or very interested in hearing more expressions.",
+   "Oh, what is it? I'm all ears. I'm all ears? Is that sashama? I'm all ears means I'm listening attentively. I have all my attention on you now."
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://learningenglish.voanews.com/a/english-in-a-minute-all-ears/4007272.html",
+  "link_title": "English in a Minute: All Ears"
+ },
+ {
+  "phrase": "Long story short.",
+  "slug": "long-story-short-again",
+  "sent_at": "2026-11-20 15:30",
+  "literal": "长故事短说",
+  "meaning": "长话短说；简单说就是",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "So why did you miss the train?"
+   },
+   {
+    "who": "B",
+    "en": "Long story short, my phone died and I got lost."
+   }
+  ],
+  "dialog_zh": "那你怎么误了火车？——长话短说，手机没电了，我还迷了路。",
+  "tip": "多放在句首，用来跳过细节、直接说结果。也可以说 to make a long story short。后面通常接一句结论，而不是继续讲很长的故事。",
+  "audios": [
+   "media/long-story-short-again-1.mp3",
+   "media/long-story-short-again-2.mp3",
+   "media/long-story-short-again-3.mp3"
+  ],
+  "transcripts": [
+   "If they didn't pick her, it wasn't going to be because she wasn't prepared. Well, long story short, they did pick her, which is to say President George Bush picked her to be...",
+   "It's worse. Mind you, my accent is still pretty poor. Long story short. I went in and I auditioned for them, and they said...",
+   "so we can warn the victim or take action to help protect them. Long story short, the only way we'd ever see any information about a US person through a fight"
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://learningenglish.voanews.com/a/what-it-takes---sonia-sotomayor/4448606.html",
+  "link_title": "What It Takes - Sonia Sotomayor"
  }
 ]

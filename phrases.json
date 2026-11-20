@@ -4767,5 +4767,62 @@
     ],
     "dialog_zh": "今晚能把文件发给我吗？——没问题。",
     "tip": "用来回应感谢或请求，口语比较随意，意思接近 no problem / no trouble。不要按字面理解成“没有出汗”。"
+  },
+  {
+    "phrase": "My bad.",
+    "slug": "my-bad-again",
+    "sent_at": "2026-11-20 15:30",
+    "literal": "我的坏",
+    "meaning": "我的错；抱歉，是我弄错了",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "Hey, that's my charger."
+      },
+      {
+        "who": "B",
+        "en": "Oh, my bad. Here you go."
+      }
+    ],
+    "dialog_zh": "嘿，那是我的充电器。——哦，我的错。给你。",
+    "tip": "很随意的道歉，多用于朋友或同事之间的小事。正式场合更常用 I'm sorry 或 I apologize。不要按字面理解成“我的坏”。"
+  },
+  {
+    "phrase": "I'm all ears.",
+    "slug": "im-all-ears-again",
+    "sent_at": "2026-11-20 15:30",
+    "literal": "我全身都是耳朵",
+    "meaning": "我洗耳恭听；你说，我认真听着",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "I figured out how we can finish this today."
+      },
+      {
+        "who": "B",
+        "en": "I'm all ears."
+      }
+    ],
+    "dialog_zh": "我想到怎么今天就能做完了。——洗耳恭听。",
+    "tip": "表示很想听、正在专心听。语气可以真诚，也可以略带调侃。主语随说话人变化：You're all ears 不常用，一般说 I'm all ears。"
+  },
+  {
+    "phrase": "Long story short.",
+    "slug": "long-story-short-again",
+    "sent_at": "2026-11-20 15:30",
+    "literal": "长故事短说",
+    "meaning": "长话短说；简单说就是",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "So why did you miss the train?"
+      },
+      {
+        "who": "B",
+        "en": "Long story short, my phone died and I got lost."
+      }
+    ],
+    "dialog_zh": "那你怎么误了火车？——长话短说，手机没电了，我还迷了路。",
+    "tip": "多放在句首，用来跳过细节、直接说结果。也可以说 to make a long story short。后面通常接一句结论，而不是继续讲很长的故事。"
   }
 ]
