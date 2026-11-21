@@ -7955,5 +7955,104 @@
   "audio": null,
   "link": "https://www.voachinese.com/a/omg-take-your-time/2527869.html",
   "link_title": "OMG!美语 Take Your Time!"
+ },
+ {
+  "phrase": "Hang in there.",
+  "slug": "hang-in-there-again",
+  "sent_at": "2026-11-21 15:30",
+  "literal": "挂在那儿",
+  "meaning": "坚持住；再撑一撑",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "This project is wearing me out."
+   },
+   {
+    "who": "B",
+    "en": "Hang in there. You're almost done."
+   }
+  ],
+  "dialog_zh": "这个项目快把我耗垮了。——坚持住，你就快做完了。",
+  "tip": "用来给正在辛苦坚持的人打气，语气关心、鼓励，不是命令对方继续硬扛。",
+  "audios": [
+   "media/hang-in-there-again-1.mp3",
+   "media/hang-in-there-again-2.mp3",
+   "media/hang-in-there-again-3.mp3"
+  ],
+  "transcripts": [
+   "You hung in there and even managed to get good grades. When things get tough, you just have to hang in there. Ah, we're done and see the challenge with Tinegalyi back. Even Tinegalyi, we only have a career called Sh-",
+   "You do have other words of encouragement. You can say, hang in there. You can do it. Or don't give up.",
+   "were nice. When going to be questioned, they told him to hang in there."
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://www.voachinese.com/a/pa86/1766196.html",
+  "link_title": "流行美语第86课"
+ },
+ {
+  "phrase": "Call it a day.",
+  "slug": "call-it-a-day-again",
+  "sent_at": "2026-11-21 15:30",
+  "literal": "把它叫做一天",
+  "meaning": "今天就到这里；收工",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "We've been at this for six hours."
+   },
+   {
+    "who": "B",
+    "en": "Yeah, let's call it a day and pick it up tomorrow."
+   }
+  ],
+  "dialog_zh": "我们已经干了六个小时了。——是啊，今天就到这儿，明天再继续。",
+  "tip": "指结束当天的工作或活动。常说 Let's call it a day。晚上也可以说 call it a night，但不要理解成“打电话”。",
+  "audios": [
+   "media/call-it-a-day-again-1.mp3",
+   "media/call-it-a-day-again-2.mp3",
+   "media/call-it-a-day-again-3.mp3"
+  ],
+  "transcripts": [
+   "We're hungry, and my eyes are so tired I can hardly see the numbers. Let's call it a day and look for the mistake in the morning after we've had a night's sleep.",
+   "quick work it and to relax or go home. Now, I think we should call it a day and go get something to eat.",
+   "call in many expressions such as call in sick, call it a day, call it quits, call into question,"
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://www.voachinese.com/a/wi541/1702870.html",
+  "link_title": "美国习惯用语第541讲"
+ },
+ {
+  "phrase": "Under the weather.",
+  "slug": "under-the-weather-again",
+  "sent_at": "2026-11-21 15:30",
+  "literal": "在天气底下",
+  "meaning": "身体不太舒服；有点生病",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Are you coming to dinner tonight?"
+   },
+   {
+    "who": "B",
+    "en": "I think I'll stay home. I'm a bit under the weather."
+   }
+  ],
+  "dialog_zh": "今晚来吃饭吗？——我还是待在家吧，有点不舒服。",
+  "tip": "通常指轻微不适，不是病得很重。常说 be/feel under the weather，不要漏掉 the。",
+  "audios": [
+   "media/under-the-weather-again-1.mp3",
+   "media/under-the-weather-again-2.mp3",
+   "media/under-the-weather-again-3.mp3"
+  ],
+  "transcripts": [
+   "long way back to my car in the rain. I think I caught a cold so now I feel under the weather.",
+   "We're under the weather. That's right, she just phoned to tell me she's under the weather today. She's come down with a headache and a bad cough so she can't...",
+   "or just fluids you need to stay hydrated. Right. And so have you ever been under the weather? Yeah, what winter is? I went under..."
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://www.voachinese.com/a/pa49/1761451.html",
+  "link_title": "流行美语第49课"
  }
 ]
