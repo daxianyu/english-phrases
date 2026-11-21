@@ -7856,5 +7856,104 @@
   "audio": null,
   "link": "https://learningenglish.voanews.com/a/what-it-takes---sonia-sotomayor/4448606.html",
   "link_title": "What It Takes - Sonia Sotomayor"
+ },
+ {
+  "phrase": "So far so good.",
+  "slug": "so-far-so-good-again",
+  "sent_at": "2026-11-21 08:00",
+  "literal": "到目前为止这么好",
+  "meaning": "到目前为止还不错",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "How's the new job?"
+   },
+   {
+    "who": "B",
+    "en": "So far so good."
+   }
+  ],
+  "dialog_zh": "新工作怎么样？——目前还不错。",
+  "tip": "表示到现在为止情况还可以，但后面怎么样还不好说。常用来回答 How's it going? 这类问题。",
+  "audios": [
+   "media/so-far-so-good-again-1.mp3",
+   "media/so-far-so-good-again-2.mp3",
+   "media/so-far-so-good-again-3.mp3"
+  ],
+  "transcripts": [
+   "Really? So you must be enjoying your social life. That's so far so good. Let's listen to the next program. Go English. May your son see you.",
+   "A. Jones is an independent space expert from Australia. So far so good we had a live broadcast on Chinese television and the rocket seemed to have formed flawless",
+   "small slope and thus represents a small electrical resistance. So far so good, the slope corresponds to the resistance R. But what effect does"
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://www.voachinese.com/a/eng-25-5/2655583.html",
+  "link_title": "美语训练班第5课"
+ },
+ {
+  "phrase": "It's up to you.",
+  "slug": "its-up-to-you",
+  "sent_at": "2026-11-21 08:00",
+  "literal": "这取决于你",
+  "meaning": "由你决定；你来拿主意",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Should we eat in or go out?"
+   },
+   {
+    "who": "B",
+    "en": "It's up to you."
+   }
+  ],
+  "dialog_zh": "我们在家吃还是出去吃？——你来决定。",
+  "tip": "把选择权交给对方。也可以说 That's up to you。语气中性，不一定是不关心，也可以是尊重对方的选择。",
+  "audios": [
+   "media/its-up-to-you-1.mp3",
+   "media/its-up-to-you-2.mp3",
+   "media/its-up-to-you-3.mp3"
+  ],
+  "transcripts": [
+   "Where do you want to go for lunch? It's up to you! Where do you want to go for lunch? I want to go for lunch. It's up to you! Thanks!",
+   "be hard to provide you with a good education. I don't expect you to be a billionaire, but it's up to you whether you want to live on Easy Street or to be out on the street in the future.",
+   "What you put on your bucket list is totally up to you. However, a bucket list is usually a list of things that are unordered."
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://www.voakorea.com/a/6495091.html",
+  "link_title": "[VOA 매일 영어] 당신 마음대로 하세요. It’s up to you."
+ },
+ {
+  "phrase": "Take your time.",
+  "slug": "take-your-time",
+  "sent_at": "2026-11-21 08:00",
+  "literal": "花你的时间",
+  "meaning": "不着急；慢慢来",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Sorry, I need a minute to finish this email."
+   },
+   {
+    "who": "B",
+    "en": "Take your time."
+   }
+  ],
+  "dialog_zh": "抱歉，我还要一分钟写完这封邮件。——不着急。",
+  "tip": "让对方不必赶时间，和 Hurry up 意思相反。注意是 take your time，不是 take the time（后者是“花时间做某事”）。",
+  "audios": [
+   "media/take-your-time-1.mp3",
+   "media/take-your-time-2.mp3",
+   "media/take-your-time-3.mp3"
+  ],
+  "transcripts": [
+   "e-mail. Mayo. Ojai al faji. From Yo Kid. Okay, take your time. We still have a few minutes before we need to leave. How the men lie, woman?",
+   "So without me. You're right. I need to decide if this is truly what I want. And take your time. You're still young. Maybe there's even a correspondence course you can take during your...",
+   "nice to see that there is a human working at the window. So you take your time to explain what you need and you will know that they will..."
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://www.voachinese.com/a/omg-take-your-time/2527869.html",
+  "link_title": "OMG!美语 Take Your Time!"
  }
 ]

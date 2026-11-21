@@ -4824,5 +4824,62 @@
     ],
     "dialog_zh": "那你怎么误了火车？——长话短说，手机没电了，我还迷了路。",
     "tip": "多放在句首，用来跳过细节、直接说结果。也可以说 to make a long story short。后面通常接一句结论，而不是继续讲很长的故事。"
+  },
+  {
+    "phrase": "So far so good.",
+    "slug": "so-far-so-good-again",
+    "sent_at": "2026-11-21 08:00",
+    "literal": "到目前为止这么好",
+    "meaning": "到目前为止还不错",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "How's the new job?"
+      },
+      {
+        "who": "B",
+        "en": "So far so good."
+      }
+    ],
+    "dialog_zh": "新工作怎么样？——目前还不错。",
+    "tip": "表示到现在为止情况还可以，但后面怎么样还不好说。常用来回答 How's it going? 这类问题。"
+  },
+  {
+    "phrase": "It's up to you.",
+    "slug": "its-up-to-you",
+    "sent_at": "2026-11-21 08:00",
+    "literal": "这取决于你",
+    "meaning": "由你决定；你来拿主意",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "Should we eat in or go out?"
+      },
+      {
+        "who": "B",
+        "en": "It's up to you."
+      }
+    ],
+    "dialog_zh": "我们在家吃还是出去吃？——你来决定。",
+    "tip": "把选择权交给对方。也可以说 That's up to you。语气中性，不一定是不关心，也可以是尊重对方的选择。"
+  },
+  {
+    "phrase": "Take your time.",
+    "slug": "take-your-time",
+    "sent_at": "2026-11-21 08:00",
+    "literal": "花你的时间",
+    "meaning": "不着急；慢慢来",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "Sorry, I need a minute to finish this email."
+      },
+      {
+        "who": "B",
+        "en": "Take your time."
+      }
+    ],
+    "dialog_zh": "抱歉，我还要一分钟写完这封邮件。——不着急。",
+    "tip": "让对方不必赶时间，和 Hurry up 意思相反。注意是 take your time，不是 take the time（后者是“花时间做某事”）。"
   }
 ]
