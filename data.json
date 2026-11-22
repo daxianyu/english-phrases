@@ -8151,5 +8151,104 @@
   "audio": null,
   "link": "https://learningenglish.voanews.com/a/6211294.html",
   "link_title": "English @ the Movies: Give it a Shot"
+ },
+ {
+  "phrase": "On the same page.",
+  "slug": "on-the-same-page-third",
+  "sent_at": "2026-11-22 15:30",
+  "literal": "在同一页上",
+  "meaning": "想法一致；对某事有共识",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Before we start, let's make sure we're all on the same page about the deadline."
+   },
+   {
+    "who": "B",
+    "en": "Sure. Friday at noon, right?"
+   }
+  ],
+  "dialog_zh": "开始之前，先确认一下大家对截止时间的理解一致。——好的，是周五中午，对吧？",
+  "tip": "常说 be on the same page (with someone)，多用于工作、合作场景确认彼此理解一致；别说成 in the same page。",
+  "audios": [
+   "media/on-the-same-page-third-1.mp3",
+   "media/on-the-same-page-third-2.mp3",
+   "media/on-the-same-page-third-3.mp3"
+  ],
+  "transcripts": [
+   "just to wheel and you may be a powerful engine but if you're not all together and on the same page we're not going to accomplish what we're capable of accomplishment",
+   "about what are the expectations. So both of them are in the same page. So that can be sometimes an issue. I think one of the things that many students",
+   "city with finally fans smoking indoors. We're definitely on the same page there. If you're on the same page as someone."
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://learningenglish.voanews.com/a/what-it-takes-coach-john-wooden/4154999.html",
+  "link_title": "What It Takes - Coach John Wooden"
+ },
+ {
+  "phrase": "See eye to eye.",
+  "slug": "see-eye-to-eye-third",
+  "sent_at": "2026-11-22 15:30",
+  "literal": "眼对着眼看",
+  "meaning": "看法一致；意见相同",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Do you get along with your new manager?"
+   },
+   {
+    "who": "B",
+    "en": "Mostly, but we don't always see eye to eye on how to run meetings."
+   }
+  ],
+  "dialog_zh": "你和新经理处得来吗？——大体还行，不过在怎么开会这件事上我们意见不太一致。",
+  "tip": "口语里最常用否定形式 don't see eye to eye (on something)，委婉地表示有分歧；后面接 on + 话题，不接 about 也可以但 on 更常见。",
+  "audios": [
+   "media/see-eye-to-eye-third-1.mp3",
+   "media/see-eye-to-eye-third-2.mp3",
+   "media/see-eye-to-eye-third-3.mp3"
+  ],
+  "transcripts": [
+   "in government. He said, the leaders do not see eye to eye, but they decided to put up with each other out of a concern.",
+   "newspaper in Delhi. India and Pakistan may not see eye to eye, but contact is always good for the sake of the people living.",
+   "discuss many things. They might discover that they see eye to eye or agree on many issues. They share the same belief."
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://learningenglish.voanews.com/a/taliban-divided-as-new-leaders-force-women-to-cover-bodies-/6564184.html",
+  "link_title": "Taliban Divided as New Leaders Force Women to Cover Bodies"
+ },
+ {
+  "phrase": "Off the top of my head.",
+  "slug": "off-the-top-of-my-head-third",
+  "sent_at": "2026-11-22 15:30",
+  "literal": "从我的头顶上",
+  "meaning": "不假思索地；凭印象随口说（不保证准确）",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "How many people are coming to the party?"
+   },
+   {
+    "who": "B",
+    "en": "Off the top of my head, maybe around twenty. I'll check the list."
+   }
+  ],
+  "dialog_zh": "派对来多少人？——我凭印象说大概二十个吧，我再看看名单。",
+  "tip": "常用于给出不确定的估计，或说 I don't know off the top of my head（一时想不起来）；语气是在提醒对方“这不一定准”。",
+  "audios": [
+   "media/off-the-top-of-my-head-third-1.mp3",
+   "media/off-the-top-of-my-head-third-2.mp3",
+   "media/off-the-top-of-my-head-third-3.mp3"
+  ],
+  "transcripts": [
+   "says after briefly examining the damage. Off the top of my head, it should be around $800.",
+   "Do you know Tom's email address? I couldn't tell you off the top of my head, but I have it in my contact list on my computer. Can I turn it to you later? Sure.",
+   "If I say something off the cuff or off the top of my head, I say it without thinking."
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://learningenglish.voanews.com/a/six-american-phrases-for-making-guesses/5040468.html",
+  "link_title": "Six Everyday Phrases for Making Guesses"
  }
 ]

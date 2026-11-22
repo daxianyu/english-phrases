@@ -4995,5 +4995,62 @@
   ],
   "dialog_zh": "我从没攀过岩，不确定能行。——试试看嘛，说不定你会喜欢。",
   "tip": "和 give it a try 意思一样，语气轻松鼓励；shot 这里是“尝试”，和开枪无关。"
+ },
+ {
+  "phrase": "On the same page.",
+  "slug": "on-the-same-page-third",
+  "sent_at": "2026-11-22 15:30",
+  "literal": "在同一页上",
+  "meaning": "想法一致；对某事有共识",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Before we start, let's make sure we're all on the same page about the deadline."
+   },
+   {
+    "who": "B",
+    "en": "Sure. Friday at noon, right?"
+   }
+  ],
+  "dialog_zh": "开始之前，先确认一下大家对截止时间的理解一致。——好的，是周五中午，对吧？",
+  "tip": "常说 be on the same page (with someone)，多用于工作、合作场景确认彼此理解一致；别说成 in the same page。"
+ },
+ {
+  "phrase": "See eye to eye.",
+  "slug": "see-eye-to-eye-third",
+  "sent_at": "2026-11-22 15:30",
+  "literal": "眼对着眼看",
+  "meaning": "看法一致；意见相同",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Do you get along with your new manager?"
+   },
+   {
+    "who": "B",
+    "en": "Mostly, but we don't always see eye to eye on how to run meetings."
+   }
+  ],
+  "dialog_zh": "你和新经理处得来吗？——大体还行，不过在怎么开会这件事上我们意见不太一致。",
+  "tip": "口语里最常用否定形式 don't see eye to eye (on something)，委婉地表示有分歧；后面接 on + 话题，不接 about 也可以但 on 更常见。"
+ },
+ {
+  "phrase": "Off the top of my head.",
+  "slug": "off-the-top-of-my-head-third",
+  "sent_at": "2026-11-22 15:30",
+  "literal": "从我的头顶上",
+  "meaning": "不假思索地；凭印象随口说（不保证准确）",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "How many people are coming to the party?"
+   },
+   {
+    "who": "B",
+    "en": "Off the top of my head, maybe around twenty. I'll check the list."
+   }
+  ],
+  "dialog_zh": "派对来多少人？——我凭印象说大概二十个吧，我再看看名单。",
+  "tip": "常用于给出不确定的估计，或说 I don't know off the top of my head（一时想不起来）；语气是在提醒对方“这不一定准”。"
  }
 ]
