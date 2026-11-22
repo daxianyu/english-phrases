@@ -8054,5 +8054,102 @@
   "audio": null,
   "link": "https://www.voachinese.com/a/pa49/1761451.html",
   "link_title": "流行美语第49课"
+ },
+ {
+  "phrase": "Piece of cake.",
+  "slug": "piece-of-cake-third",
+  "sent_at": "2026-11-22 08:00",
+  "literal": "一块蛋糕",
+  "meaning": "小菜一碟；非常容易",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "How was the driving test?"
+   },
+   {
+    "who": "B",
+    "en": "Piece of cake. I passed on my first try."
+   }
+  ],
+  "dialog_zh": "驾照考试怎么样？——小菜一碟，我一次就过了。",
+  "tip": "口语里常单独说 Piece of cake! 或 It's a piece of cake；用来说事情容易，别用来形容人。",
+  "audios": [
+   "media/piece-of-cake-third-1.mp3",
+   "media/piece-of-cake-third-2.mp3",
+   "media/piece-of-cake-third-3.mp3"
+  ],
+  "transcripts": [
+   "Peace of cake means this is easy. If something is a piece of cake, there are no problems getting it done.",
+   "In American English, when you say something is a piece of cake, it means it is very easy to do.",
+   "between two good things. Another expression is a piece of cake. This describes something that is very easy to do."
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://learningenglish.voanews.com/a/3725681.html",
+  "link_title": "English @ the Movies: 'Piece Of Cake'"
+ },
+ {
+  "phrase": "Hit the sack.",
+  "slug": "hit-the-sack-third",
+  "sent_at": "2026-11-22 08:00",
+  "literal": "撞到麻袋",
+  "meaning": "上床睡觉",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "You look exhausted."
+   },
+   {
+    "who": "B",
+    "en": "I am. I'm going to hit the sack early tonight."
+   }
+  ],
+  "dialog_zh": "你看起来累坏了。——是啊，我今晚要早点睡。",
+  "tip": "很随意的说法，常说 I'm going to hit the sack，和 hit the hay 同义；正式场合用 go to bed。",
+  "audios": [
+   "media/hit-the-sack-third-1.mp3",
+   "media/hit-the-sack-third-2.mp3"
+  ],
+  "transcripts": [
+   "I'm exhausted and can't stay up another minute. I'm gonna go hit the sack. I probably should do the same. It's been a long day. It sounds like they are tired.",
+   "young people are very fond of this expression. If you hit the sack or hit the hay, you are officially going to bed for the night."
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://learningenglish.voanews.com/a/2933528.html",
+  "link_title": "English in a Minute: Hit The Sack"
+ },
+ {
+  "phrase": "Give it a shot.",
+  "slug": "give-it-a-shot-third",
+  "sent_at": "2026-11-22 08:00",
+  "literal": "给它一枪",
+  "meaning": "试一试",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "I've never tried rock climbing. I'm not sure I can do it."
+   },
+   {
+    "who": "B",
+    "en": "Just give it a shot. You might love it."
+   }
+  ],
+  "dialog_zh": "我从没攀过岩，不确定能行。——试试看嘛，说不定你会喜欢。",
+  "tip": "和 give it a try 意思一样，语气轻松鼓励；shot 这里是“尝试”，和开枪无关。",
+  "audios": [
+   "media/give-it-a-shot-third-1.mp3",
+   "media/give-it-a-shot-third-2.mp3",
+   "media/give-it-a-shot-third-3.mp3"
+  ],
+  "transcripts": [
+   "The answer is B, to attempt something. Give it a shot, is similar to saying, give it a try.",
+   "get a great deal,\" said Ju. They think, why not give it a shot? He said the number of zers' consigners.",
+   "Any box that I'm like, I bet you that fits with the tapes. And 20 bucks might as well give it a shot. He bought the tape player from the store. Then."
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://learningenglish.voanews.com/a/6211294.html",
+  "link_title": "English @ the Movies: Give it a Shot"
  }
 ]
