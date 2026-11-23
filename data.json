@@ -8250,5 +8250,102 @@
   "audio": null,
   "link": "https://learningenglish.voanews.com/a/six-american-phrases-for-making-guesses/5040468.html",
   "link_title": "Six Everyday Phrases for Making Guesses"
+ },
+ {
+  "phrase": "I'll pass.",
+  "slug": "ill-pass-third",
+  "sent_at": "2026-11-23 08:00",
+  "literal": "我会经过 / 我会通过",
+  "meaning": "我就不了（婉拒邀请或提议）",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Want some dessert?"
+   },
+   {
+    "who": "B",
+    "en": "Thanks, I'll pass. I'm full."
+   }
+  ],
+  "dialog_zh": "要来点甜点吗？——谢谢，我就不了，已经吃饱了。",
+  "tip": "口语里用来礼貌拒绝，不是考试“通过”的意思；也可以说 I'll pass on + 事物，如 I'll pass on dessert。",
+  "audios": [
+   "media/ill-pass-third-1.mp3",
+   "media/ill-pass-third-2.mp3"
+  ],
+  "transcripts": [
+   "Should do something more strenuous. I think I'll pass. You say this when you don't want to accept an offer or participate.",
+   "I think I'll pass on this one. Oh hey, I think he likes you. No."
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://www.youtube.com/watch?v=phXLZquEfDM",
+  "link_title": "Walkie Talkie Wednesday Ep 03 Real Everyday English Conversations w/ Idioms, Expressions, & Phrases"
+ },
+ {
+  "phrase": "Play it by ear.",
+  "slug": "play-it-by-ear-third",
+  "sent_at": "2026-11-23 08:00",
+  "literal": "凭耳朵演奏",
+  "meaning": "走一步看一步；到时候再决定（先不做详细计划）",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "What's the plan after dinner?"
+   },
+   {
+    "who": "B",
+    "en": "I'm not sure yet. Let's just play it by ear."
+   }
+  ],
+  "dialog_zh": "晚饭后做什么？——还不确定，到时候再说吧。",
+  "tip": "原指不看乐谱即兴演奏，现在多用于说先不做好计划；常说 let's play it by ear。",
+  "audios": [
+   "media/play-it-by-ear-third-1.mp3",
+   "media/play-it-by-ear-third-2.mp3",
+   "media/play-it-by-ear-third-3.mp3"
+  ],
+  "transcripts": [
+   "Are you coming on the camping trip? I'm going to have to play it by ear. I might have to work. You work on weekends? No.",
+   "Hey, what do you want to do this weekend? I don't know, we could see a movie or have dinner. Why don't we play it by ear? Sure. Play it by ear means you aren't going to make a firm plan.",
+   "the tune and not by reading the music. Play it by ear also means to decide what to do at the last minute."
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://learningenglish.voanews.com/a/english-in-a-minute-play-it-by-ear/3923133.html",
+  "link_title": "English in a Minute: Play it by Ear"
+ },
+ {
+  "phrase": "Bite the bullet.",
+  "slug": "bite-the-bullet-third",
+  "sent_at": "2026-11-23 08:00",
+  "literal": "咬子弹",
+  "meaning": "硬着头皮做不愿做但必须做的事",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "I really don't want to go to the dentist."
+   },
+   {
+    "who": "B",
+    "en": "I know, but you'll have to bite the bullet and go."
+   }
+  ],
+  "dialog_zh": "我真的不想去看牙。——我知道，但你还是得硬着头皮去。",
+  "tip": "用于面对不愉快但必须做的事，不要按字面理解成真的去咬子弹；常说 bite the bullet and + 动词。",
+  "audios": [
+   "media/bite-the-bullet-third-1.mp3",
+   "media/bite-the-bullet-third-2.mp3",
+   "media/bite-the-bullet-third-3.mp3"
+  ],
+  "transcripts": [
+   "To ease the pain of a difficult situation, people are sometimes asked to bite the bullet. This actually sounds like really bad advice.",
+   "My car needs some expensive repairs. That's tough, but you'll have to bite the bullet and get it fixed. I know, it's just frustrating.",
+   "But that is in the movies. In modern conversation, biting the bullet means to accept a difficult decision or situation."
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://learningenglish.voanews.com/a/sometimes-you-have-to-bite-the-bullet/3490217.html",
+  "link_title": "Sometimes You Have to ‘Bite the Bullet’"
  }
 ]

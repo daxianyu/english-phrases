@@ -5052,5 +5052,62 @@
   ],
   "dialog_zh": "派对来多少人？——我凭印象说大概二十个吧，我再看看名单。",
   "tip": "常用于给出不确定的估计，或说 I don't know off the top of my head（一时想不起来）；语气是在提醒对方“这不一定准”。"
+ },
+ {
+  "phrase": "I'll pass.",
+  "slug": "ill-pass-third",
+  "sent_at": "2026-11-23 08:00",
+  "literal": "我会经过 / 我会通过",
+  "meaning": "我就不了（婉拒邀请或提议）",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Want some dessert?"
+   },
+   {
+    "who": "B",
+    "en": "Thanks, I'll pass. I'm full."
+   }
+  ],
+  "dialog_zh": "要来点甜点吗？——谢谢，我就不了，已经吃饱了。",
+  "tip": "口语里用来礼貌拒绝，不是考试“通过”的意思；也可以说 I'll pass on + 事物，如 I'll pass on dessert。"
+ },
+ {
+  "phrase": "Play it by ear.",
+  "slug": "play-it-by-ear-third",
+  "sent_at": "2026-11-23 08:00",
+  "literal": "凭耳朵演奏",
+  "meaning": "走一步看一步；到时候再决定（先不做详细计划）",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "What's the plan after dinner?"
+   },
+   {
+    "who": "B",
+    "en": "I'm not sure yet. Let's just play it by ear."
+   }
+  ],
+  "dialog_zh": "晚饭后做什么？——还不确定，到时候再说吧。",
+  "tip": "原指不看乐谱即兴演奏，现在多用于说先不做好计划；常说 let's play it by ear。"
+ },
+ {
+  "phrase": "Bite the bullet.",
+  "slug": "bite-the-bullet-third",
+  "sent_at": "2026-11-23 08:00",
+  "literal": "咬子弹",
+  "meaning": "硬着头皮做不愿做但必须做的事",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "I really don't want to go to the dentist."
+   },
+   {
+    "who": "B",
+    "en": "I know, but you'll have to bite the bullet and go."
+   }
+  ],
+  "dialog_zh": "我真的不想去看牙。——我知道，但你还是得硬着头皮去。",
+  "tip": "用于面对不愉快但必须做的事，不要按字面理解成真的去咬子弹；常说 bite the bullet and + 动词。"
  }
 ]
