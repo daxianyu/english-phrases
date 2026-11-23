@@ -8347,5 +8347,104 @@
   "audio": null,
   "link": "https://learningenglish.voanews.com/a/sometimes-you-have-to-bite-the-bullet/3490217.html",
   "link_title": "Sometimes You Have to ‘Bite the Bullet’"
+ },
+ {
+  "phrase": "Out of the blue.",
+  "slug": "out-of-the-blue-third",
+  "sent_at": "2026-11-23 15:30",
+  "literal": "从蓝色里出来",
+  "meaning": "突如其来；毫无预兆地发生",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "I just got a message from my old classmate."
+   },
+   {
+    "who": "B",
+    "en": "Wow, that was out of the blue. You haven't talked in years."
+   }
+  ],
+  "dialog_zh": "我刚收到老同学的消息。——哇，真是太突然了，你们好几年没联系了。",
+  "tip": "用来形容事情突然发生、事先没有迹象；不要按字面理解成颜色。常说 it came out of the blue，或 somebody called/texted me out of the blue。",
+  "audios": [
+   "media/out-of-the-blue-third-1.mp3",
+   "media/out-of-the-blue-third-2.mp3",
+   "media/out-of-the-blue-third-3.mp3"
+  ],
+  "transcripts": [
+   "If someone springs big news on you without warning, the news comes to you from out of the blue. When people break news to you this way, it can leave you speechless.",
+   "have realized how surprised I was. So she apologized for springing her happy news on me out of the blue like that. Now her happy news is private.",
+   "The expression out of the blue is used to describe any event that happens unexpectedly. There is no warning or time to prepare."
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://learningenglish.voanews.com/a/spring-up-like-mushrooms-/5410436.html",
+  "link_title": "Spring Up Like Mushrooms!"
+ },
+ {
+  "phrase": "Hit the nail on the head.",
+  "slug": "hit-the-nail-on-the-head-third",
+  "sent_at": "2026-11-23 15:30",
+  "literal": "正好砸在钉子上",
+  "meaning": "说得完全正确；一针见血",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "I think the real problem is we don't have a clear plan."
+   },
+   {
+    "who": "B",
+    "en": "You hit the nail on the head."
+   }
+  ],
+  "dialog_zh": "我觉得真正的问题是我们没有一个明确的计划。——你说得太对了。",
+  "tip": "用来表示对方说得完全正确，不是真的在钉钉子。注意是 hit the nail on the head，不要改成别的介词。",
+  "audios": [
+   "media/hit-the-nail-on-the-head-third-1.mp3",
+   "media/hit-the-nail-on-the-head-third-2.mp3",
+   "media/hit-the-nail-on-the-head-third-3.mp3"
+  ],
+  "transcripts": [
+   "Yes, she said it was heaven, with lots of outdoor activities, and she really hit the nail on the head. We stayed for four days and loved every minute.",
+   "For example, you could say that the reporter hit the nail on the head in her explanation of current budget debates in the city.",
+   "into the pieces of wood to hold them together. When you hit the nail on the head, exactly on its top, it goes into the wood perfectly."
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://learningenglish.voanews.com/a/what-does-it-mean-to-hit-the-nail-on-the-head-/6548950.html",
+  "link_title": "What Does It Mean to 'Hit the Nail on the Head'?"
+ },
+ {
+  "phrase": "Speak of the devil.",
+  "slug": "speak-of-the-devil-third",
+  "sent_at": "2026-11-23 15:30",
+  "literal": "说到魔鬼",
+  "meaning": "正说着某人，那人就出现了（语气轻松，一般没有恶意）",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "I wonder if Jake is coming today."
+   },
+   {
+    "who": "B",
+    "en": "Speak of the devil — here he is."
+   }
+  ],
+  "dialog_zh": "不知道杰克今天来不来。——说曹操，曹操到——他来了。",
+  "tip": "当正在谈论的人刚好出现时说，语气轻松，一般没有贬义；完整说法也可以是 speak of the devil and he appears，但日常常只说 Speak of the devil。",
+  "audios": [
+   "media/speak-of-the-devil-third-1.mp3",
+   "media/speak-of-the-devil-third-2.mp3",
+   "media/speak-of-the-devil-third-3.mp3"
+  ],
+  "transcripts": [
+   "I haven't seen Lewis for weeks. Look, here comes Lewis right now. Ah, speak of the devil. Hello, I was just talking about you.",
+   "Speak of the devil. Speak of the devil. The phrase speak of the devil is used when the person you are just talking about appears unexpected.",
+   "No, he's not in yet. Oh, speak of the devil. I can see him in the hallway now No, he's not in yet. Oh speak of the devil. I can see him in the hallway now"
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://www.voakorea.com/a/2730065.html",
+  "link_title": "[English with Yoo] Speak of the devil"
  }
 ]

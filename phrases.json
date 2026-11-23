@@ -5109,5 +5109,62 @@
   ],
   "dialog_zh": "我真的不想去看牙。——我知道，但你还是得硬着头皮去。",
   "tip": "用于面对不愉快但必须做的事，不要按字面理解成真的去咬子弹；常说 bite the bullet and + 动词。"
+ },
+ {
+  "phrase": "Out of the blue.",
+  "slug": "out-of-the-blue-third",
+  "sent_at": "2026-11-23 15:30",
+  "literal": "从蓝色里出来",
+  "meaning": "突如其来；毫无预兆地发生",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "I just got a message from my old classmate."
+   },
+   {
+    "who": "B",
+    "en": "Wow, that was out of the blue. You haven't talked in years."
+   }
+  ],
+  "dialog_zh": "我刚收到老同学的消息。——哇，真是太突然了，你们好几年没联系了。",
+  "tip": "用来形容事情突然发生、事先没有迹象；不要按字面理解成颜色。常说 it came out of the blue，或 somebody called/texted me out of the blue。"
+ },
+ {
+  "phrase": "Hit the nail on the head.",
+  "slug": "hit-the-nail-on-the-head-third",
+  "sent_at": "2026-11-23 15:30",
+  "literal": "正好砸在钉子上",
+  "meaning": "说得完全正确；一针见血",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "I think the real problem is we don't have a clear plan."
+   },
+   {
+    "who": "B",
+    "en": "You hit the nail on the head."
+   }
+  ],
+  "dialog_zh": "我觉得真正的问题是我们没有一个明确的计划。——你说得太对了。",
+  "tip": "用来表示对方说得完全正确，不是真的在钉钉子。注意是 hit the nail on the head，不要改成别的介词。"
+ },
+ {
+  "phrase": "Speak of the devil.",
+  "slug": "speak-of-the-devil-third",
+  "sent_at": "2026-11-23 15:30",
+  "literal": "说到魔鬼",
+  "meaning": "正说着某人，那人就出现了（语气轻松，一般没有恶意）",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "I wonder if Jake is coming today."
+   },
+   {
+    "who": "B",
+    "en": "Speak of the devil — here he is."
+   }
+  ],
+  "dialog_zh": "不知道杰克今天来不来。——说曹操，曹操到——他来了。",
+  "tip": "当正在谈论的人刚好出现时说，语气轻松，一般没有贬义；完整说法也可以是 speak of the devil and he appears，但日常常只说 Speak of the devil。"
  }
 ]
