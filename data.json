@@ -8545,5 +8545,104 @@
   "audio": null,
   "link": "https://www.voakorea.com/a/7902719.html",
   "link_title": "[VOA 매일 영어] 그의 모습을 참을 수가 없어요."
+ },
+ {
+  "phrase": "Beats me.",
+  "slug": "beats-me-third",
+  "sent_at": "2026-11-24 15:30",
+  "literal": "打败我了",
+  "meaning": "我也不知道；难倒我了",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "How did they finish so early?"
+   },
+   {
+    "who": "B",
+    "en": "Beats me. I just got here."
+   }
+  ],
+  "dialog_zh": "A：他们怎么这么早就做完了？B：我也不知道，我刚到。",
+  "tip": "口语里用来表示完全不知道，语气比较随意；不要按字面理解成“打败我了”。也可以说 It beats me。",
+  "audios": [
+   "media/beats-me-third-1.mp3",
+   "media/beats-me-third-2.mp3",
+   "media/beats-me-third-3.mp3"
+  ],
+  "transcripts": [
+   "I don't mean you would beat me. The expression beats me means that I have no idea what the answer is.",
+   "Ok, that really beats me. You don't really need to know the answer to that question for your history test.",
+   "By the way, what time is your history exam? Oh, it beats me. I'm not going to do it. I'm not going to do it. You left the schedule at your..."
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://www.voachinese.com/a/pa75/1764544.html",
+  "link_title": "流行美语第75课"
+ },
+ {
+  "phrase": "Your guess is as good as mine.",
+  "slug": "your-guess-is-as-good-as-mine-again",
+  "sent_at": "2026-11-24 15:30",
+  "literal": "你的猜测和我的一样好",
+  "meaning": "我跟你一样不知道；谁也说不准",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Do you think the meeting will be canceled?"
+   },
+   {
+    "who": "B",
+    "en": "Your guess is as good as mine."
+   }
+  ],
+  "dialog_zh": "A：你觉得会取消吗？B：我跟你一样不知道。",
+  "tip": "表示两边掌握的信息差不多，都说不准；比单纯说 I don't know 多一层“咱俩半斤八两”的口气。",
+  "audios": [
+   "media/your-guess-is-as-good-as-mine-again-1.mp3",
+   "media/your-guess-is-as-good-as-mine-again-2.mp3",
+   "media/your-guess-is-as-good-as-mine-again-3.mp3"
+  ],
+  "transcripts": [
+   "and we'll get it on November 13th. As for the next Drake album, well, your guess is as good as mine, but he will figure in another upcoming release, I'll have more after Hotline",
+   "He went on Twitter to deny reports that his new album would drop in August, so your guess is as good as mine. Holding in second place is Fettie Wap with his debut single Trap Queen.",
+   "I know you're successful lately. How did he make so much money in just a year? Your guess is as good as mine. It's honestly baffling. I mean, he was struggling just a while ago. Yeah!"
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://www.voanews.com/a/top-5-songs-for-week-ending-november-7/3039984.html",
+  "link_title": "Top 5 Songs for Week Ending Nov. 7"
+ },
+ {
+  "phrase": "The ball is in your court.",
+  "slug": "the-ball-is-in-your-court-again",
+  "sent_at": "2026-11-24 15:30",
+  "literal": "球在你的场地里",
+  "meaning": "下一步看你的了；该你做决定或采取行动了",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "I sent them the contract last week."
+   },
+   {
+    "who": "B",
+    "en": "Then the ball is in their court."
+   }
+  ],
+  "dialog_zh": "A：合同我上周就发给他们了。B：那就看他们怎么回应了。",
+  "tip": "来自网球，强调已经轮到对方行动；也可以说 The ball is in her/their court，或缩成 The ball's in your court。",
+  "audios": [
+   "media/the-ball-is-in-your-court-again-1.mp3",
+   "media/the-ball-is-in-your-court-again-2.mp3",
+   "media/the-ball-is-in-your-court-again-3.mp3"
+  ],
+  "transcripts": [
+   "Mr. Brown's offer to pay your client $1,000 a month for child support. Now the ball's in your court. Let me know whether Mrs. Brown agrees to this amount.",
+   "But after leaving her messages and sending her emails to apologize, there's nothing else I can do. At this point, the ball is in her court. She has to take the next step and let me know if...",
+   "I've emailed you my half of the report, Michelle. Now the ball is in your court. Yes, you're right. It's my turn to finish it up. I'll complete the video."
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://www.voachinese.com/a/wi136/1685718.html",
+  "link_title": "美国习惯用语第136讲"
  }
 ]
