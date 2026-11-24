@@ -8446,5 +8446,104 @@
   "audio": null,
   "link": "https://www.voakorea.com/a/2730065.html",
   "link_title": "[English with Yoo] Speak of the devil"
+ },
+ {
+  "phrase": "Keep me posted.",
+  "slug": "keep-me-posted-third",
+  "sent_at": "2026-11-24 08:00",
+  "literal": "让我保持被张贴",
+  "meaning": "随时告诉我进展",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "The client should reply this afternoon."
+   },
+   {
+    "who": "B",
+    "en": "Thanks, keep me posted."
+   }
+  ],
+  "dialog_zh": "A：客户今天下午应该会回话。B：好，有消息随时告诉我。",
+  "tip": "职场和日常都常用，意思是有新进展就告诉我；也可以说 I'll keep you posted。",
+  "audios": [
+   "media/keep-me-posted-third-1.mp3",
+   "media/keep-me-posted-third-2.mp3",
+   "media/keep-me-posted-third-3.mp3"
+  ],
+  "transcripts": [
+   "Use the new vehicle in future human travel to the red planet. We will keep you posted when we get more news on that. In the meantime, we can all",
+   "Listen carefully. I need to leave now, but keep me posted on anything that happens while I'm awake. Sure. I will...",
+   "Don't worry, I'll keep you posted."
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://learningenglish.voanews.com/a/1950115.html",
+  "link_title": "NASA Turns Latest Failure into Success"
+ },
+ {
+  "phrase": "Don't sweat it.",
+  "slug": "dont-sweat-it-third",
+  "sent_at": "2026-11-24 08:00",
+  "literal": "别为它出汗",
+  "meaning": "别担心；没关系",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "I think I messed up the spreadsheet."
+   },
+   {
+    "who": "B",
+    "en": "Don't sweat it, we can fix it together."
+   }
+  ],
+  "dialog_zh": "A：我觉得我把表格弄乱了。B：别担心，我们一起改就行。",
+  "tip": "用来回应道歉或安慰别人别在意，语气比较随意。",
+  "audios": [
+   "media/dont-sweat-it-third-1.mp3",
+   "media/dont-sweat-it-third-2.mp3",
+   "media/dont-sweat-it-third-3.mp3"
+  ],
+  "transcripts": [
+   "But no one quite wants to pay me. Pay me out, push it that way. Expensive? Nah, don't sweat it. A cheap mouse like this only costs around $10. Anyway, I'm...",
+   "Why don't you let me check my phone? Hey, don't sweat it. You're a good friend and you've loaned me money when I needed it. You can pay the money.",
+   "Hey, I'm not a baby. Man, don't sweat it. I keep an eye on my watch and still have 30 minutes before taking my..."
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://www.voachinese.com/a/pa103/1767723.html",
+  "link_title": "流行美语第103课"
+ },
+ {
+  "phrase": "Tell me about it.",
+  "slug": "tell-me-about-it-third",
+  "sent_at": "2026-11-24 08:00",
+  "literal": "给我讲讲这件事",
+  "meaning": "可不是嘛；我深有同感（不是真让对方讲）",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "This week has been exhausting."
+   },
+   {
+    "who": "B",
+    "en": "Tell me about it. I haven't had a free evening."
+   }
+  ],
+  "dialog_zh": "A：这周累死了。B：可不是嘛，我晚上都没闲过。",
+  "tip": "语调通常往下走，表示同感或共鸣，并不是真的请对方把事情讲一遍。",
+  "audios": [
+   "media/tell-me-about-it-third-1.mp3",
+   "media/tell-me-about-it-third-2.mp3",
+   "media/tell-me-about-it-third-3.mp3"
+  ],
+  "transcripts": [
+   "John, I cannot stand the sight of David at the office. Tell me about it. Every time he walks by, I feel my blood pressure going up. So it's not...",
+   "John, how's it going? I'm itching for a vacation. I need a break from the daily grind. Oh, tell me about it. Where would you go if you could pick any place right now? I think I'd love to go overseas.",
+   "deal. I mean, we've all been working from home for more than a year. Tell me about it. It feels strange to wear a suit. But with my new job..."
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://www.voakorea.com/a/7902719.html",
+  "link_title": "[VOA 매일 영어] 그의 모습을 참을 수가 없어요."
  }
 ]

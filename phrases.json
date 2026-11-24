@@ -5166,5 +5166,62 @@
   ],
   "dialog_zh": "不知道杰克今天来不来。——说曹操，曹操到——他来了。",
   "tip": "当正在谈论的人刚好出现时说，语气轻松，一般没有贬义；完整说法也可以是 speak of the devil and he appears，但日常常只说 Speak of the devil。"
+ },
+ {
+  "phrase": "Keep me posted.",
+  "slug": "keep-me-posted-third",
+  "sent_at": "2026-11-24 08:00",
+  "literal": "让我保持被张贴",
+  "meaning": "随时告诉我进展",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "The client should reply this afternoon."
+   },
+   {
+    "who": "B",
+    "en": "Thanks, keep me posted."
+   }
+  ],
+  "dialog_zh": "A：客户今天下午应该会回话。B：好，有消息随时告诉我。",
+  "tip": "职场和日常都常用，意思是有新进展就告诉我；也可以说 I'll keep you posted。"
+ },
+ {
+  "phrase": "Don't sweat it.",
+  "slug": "dont-sweat-it-third",
+  "sent_at": "2026-11-24 08:00",
+  "literal": "别为它出汗",
+  "meaning": "别担心；没关系",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "I think I messed up the spreadsheet."
+   },
+   {
+    "who": "B",
+    "en": "Don't sweat it, we can fix it together."
+   }
+  ],
+  "dialog_zh": "A：我觉得我把表格弄乱了。B：别担心，我们一起改就行。",
+  "tip": "用来回应道歉或安慰别人别在意，语气比较随意。"
+ },
+ {
+  "phrase": "Tell me about it.",
+  "slug": "tell-me-about-it-third",
+  "sent_at": "2026-11-24 08:00",
+  "literal": "给我讲讲这件事",
+  "meaning": "可不是嘛；我深有同感（不是真让对方讲）",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "This week has been exhausting."
+   },
+   {
+    "who": "B",
+    "en": "Tell me about it. I haven't had a free evening."
+   }
+  ],
+  "dialog_zh": "A：这周累死了。B：可不是嘛，我晚上都没闲过。",
+  "tip": "语调通常往下走，表示同感或共鸣，并不是真的请对方把事情讲一遍。"
  }
 ]
