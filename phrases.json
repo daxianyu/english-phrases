@@ -5337,5 +5337,62 @@
     ],
     "dialog_zh": "A：我刚中彩票了。B：得了吧，你在逗我。",
     "tip": "常用 You're pulling my leg 或 Are you pulling my leg? 表示“你在开玩笑吧”。没有恶意，只是逗对方；所有格随对象变，如 pulling my/your/his leg。"
+  },
+  {
+    "phrase": "Break the ice.",
+    "slug": "break-the-ice-third",
+    "sent_at": "2026-11-25 15:30",
+    "literal": "打破冰",
+    "meaning": "打破冷场或初次见面的拘谨，让气氛轻松起来",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "I don't know anyone at this party."
+      },
+      {
+        "who": "B",
+        "en": "Just introduce yourself. That's a good way to break the ice."
+      }
+    ],
+    "dialog_zh": "A：这场派对上我一个人都不认识。B：先自我介绍一下，这是很好的破冰办法。",
+    "tip": "常用 break / broke / breaking the ice。icebreaker 指破冰活动或开场问题。这里的 ice 不是真的冰，而是拘谨的气氛。"
+  },
+  {
+    "phrase": "Back to square one.",
+    "slug": "back-to-square-one-third",
+    "sent_at": "2026-11-25 15:30",
+    "literal": "回到第一格",
+    "meaning": "计划失败或进展作废，只好从头再来",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "The backup file is corrupted too."
+      },
+      {
+        "who": "B",
+        "en": "Then we're back to square one."
+      }
+    ],
+    "dialog_zh": "A：备份文件也坏了。B：那我们又得从头来了。",
+    "tip": "常用 we're back to square one 或 go back to square one，带一点无奈。square one 来自棋盘游戏的第一格，不是数学上的平方。"
+  },
+  {
+    "phrase": "Get cold feet.",
+    "slug": "get-cold-feet-third",
+    "sent_at": "2026-11-25 15:30",
+    "literal": "脚变冷",
+    "meaning": "临时胆怯、临阵退缩，对本来已经决定要做的事突然害怕起来",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "Are you still coming skydiving with us?"
+      },
+      {
+        "who": "B",
+        "en": "I want to, but I'm starting to get cold feet."
+      }
+    ],
+    "dialog_zh": "A：你还跟我们一起去跳伞吗？B：我想去，但开始有点打退堂鼓了。",
+    "tip": "不是真的脚冷。常用 get / got / getting cold feet，多用于婚礼、演讲、辞职这类大事前。"
   }
 ]

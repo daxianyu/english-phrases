@@ -8743,5 +8743,102 @@
   "audio": null,
   "link": "https://www.voakorea.com/a/7844606.html",
   "link_title": "[VOA 매일 영어] 저를 놀리시는 겁니까?"
+ },
+ {
+  "phrase": "Break the ice.",
+  "slug": "break-the-ice-third",
+  "sent_at": "2026-11-25 15:30",
+  "literal": "打破冰",
+  "meaning": "打破冷场或初次见面的拘谨，让气氛轻松起来",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "I don't know anyone at this party."
+   },
+   {
+    "who": "B",
+    "en": "Just introduce yourself. That's a good way to break the ice."
+   }
+  ],
+  "dialog_zh": "A：这场派对上我一个人都不认识。B：先自我介绍一下，这是很好的破冰办法。",
+  "tip": "常用 break / broke / breaking the ice。icebreaker 指破冰活动或开场问题。这里的 ice 不是真的冰，而是拘谨的气氛。",
+  "audios": [
+   "media/break-the-ice-third-1.mp3",
+   "media/break-the-ice-third-2.mp3",
+   "media/break-the-ice-third-3.mp3"
+  ],
+  "transcripts": [
+   "And I said, \"Does this happen in every Apple interview? Is this how you do closing?\" So it broke the ice, and everybody was, like, chuckling under their breath because they were also shocked and stunned because they didn't know what was going on.",
+   "Finally, Sylvia, the actress, breaks the ice by talking about the winter storm raging outside.",
+   "We didn't know what to say to each other, but finally we managed to break the ice by talking about the movies, and now I'm taking her to..."
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://learningenglish.voanews.com/a/what-it-takes-steve-jobs/4154992.html",
+  "link_title": "What It Takes - Steve Jobs"
+ },
+ {
+  "phrase": "Back to square one.",
+  "slug": "back-to-square-one-third",
+  "sent_at": "2026-11-25 15:30",
+  "literal": "回到第一格",
+  "meaning": "计划失败或进展作废，只好从头再来",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "The backup file is corrupted too."
+   },
+   {
+    "who": "B",
+    "en": "Then we're back to square one."
+   }
+  ],
+  "dialog_zh": "A：备份文件也坏了。B：那我们又得从头来了。",
+  "tip": "常用 we're back to square one 或 go back to square one，带一点无奈。square one 来自棋盘游戏的第一格，不是数学上的平方。",
+  "audios": [
+   "media/back-to-square-one-third-1.mp3",
+   "media/back-to-square-one-third-2.mp3"
+  ],
+  "transcripts": [
+   "By the time we settle in, they shuffle everything again, and it's back to square one.",
+   "It fell through. Oh, I'm sorry to hear that. Then that means you're back to square one, right? Yes, I'm back to square one. I have to start searching for..."
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://www.voakorea.com/a/7201962.html",
+  "link_title": "[VOA 매일 영어] 의자 먼저 앉기 게임, 무의미한 변경 musical chairs"
+ },
+ {
+  "phrase": "Get cold feet.",
+  "slug": "get-cold-feet-third",
+  "sent_at": "2026-11-25 15:30",
+  "literal": "脚变冷",
+  "meaning": "临时胆怯、临阵退缩，对本来已经决定要做的事突然害怕起来",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Are you still coming skydiving with us?"
+   },
+   {
+    "who": "B",
+    "en": "I want to, but I'm starting to get cold feet."
+   }
+  ],
+  "dialog_zh": "A：你还跟我们一起去跳伞吗？B：我想去，但开始有点打退堂鼓了。",
+  "tip": "不是真的脚冷。常用 get / got / getting cold feet，多用于婚礼、演讲、辞职这类大事前。",
+  "audios": [
+   "media/get-cold-feet-third-1.mp3",
+   "media/get-cold-feet-third-2.mp3",
+   "media/get-cold-feet-third-3.mp3"
+  ],
+  "transcripts": [
+   "You're so talented. Your pictures are beautiful. You're just being nice. But I'm getting cold feet. I don't know if I'm good enough.",
+   "All the work of the organization will be your responsibility. You are likely to get cold feet about being president when you understand the situation.",
+   "What? Don't tell me you're getting cold feet. You told me last week you wanted to come along."
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://learningenglish.voanews.com/a/1684043.html",
+  "link_title": "English in a Minute: Get Cold Feet"
  }
 ]
