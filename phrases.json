@@ -5280,5 +5280,62 @@
     ],
     "dialog_zh": "A：合同我上周就发给他们了。B：那就看他们怎么回应了。",
     "tip": "来自网球，强调已经轮到对方行动；也可以说 The ball is in her/their court，或缩成 The ball's in your court。"
+  },
+  {
+    "phrase": "Beat around the bush.",
+    "slug": "beat-around-the-bush-third",
+    "sent_at": "2026-11-25 08:00",
+    "literal": "在灌木丛周围拍打",
+    "meaning": "说话兜圈子，不直说重点",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "Just tell me the news. Don't beat around the bush."
+      },
+      {
+        "who": "B",
+        "en": "Okay, I didn't get the job."
+      }
+    ],
+    "dialog_zh": "A：直接说吧，别兜圈子。B：好吧，我没得到那份工作。",
+    "tip": "常用 Don't beat around the bush 催对方直说；beat 随主语变化，如 He's beating around the bush。不要按字面理解成去打灌木。"
+  },
+  {
+    "phrase": "Off the hook.",
+    "slug": "off-the-hook-third",
+    "sent_at": "2026-11-25 08:00",
+    "literal": "从钩子上取下来",
+    "meaning": "摆脱麻烦或责任；不用再承担责任了",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "Do I still have to present tomorrow?"
+      },
+      {
+        "who": "B",
+        "en": "No, you're off the hook. They canceled the meeting."
+      }
+    ],
+    "dialog_zh": "A：我明天还要做汇报吗？B：不用了，你解脱了。会议取消了。",
+    "tip": "口语里常说 you're off the hook（你没事了）或 let someone off the hook（放过某人）。这是最常用的意思；另有“很精彩/很火”的俚语用法，但日常更常表示解脱。"
+  },
+  {
+    "phrase": "Pull someone's leg.",
+    "slug": "pull-someones-leg-again",
+    "sent_at": "2026-11-25 08:00",
+    "literal": "拉某人的腿",
+    "meaning": "逗别人、开玩笑（不是认真的）",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "I just won the lottery."
+      },
+      {
+        "who": "B",
+        "en": "Yeah, right. You're pulling my leg."
+      }
+    ],
+    "dialog_zh": "A：我刚中彩票了。B：得了吧，你在逗我。",
+    "tip": "常用 You're pulling my leg 或 Are you pulling my leg? 表示“你在开玩笑吧”。没有恶意，只是逗对方；所有格随对象变，如 pulling my/your/his leg。"
   }
 ]

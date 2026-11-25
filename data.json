@@ -8644,5 +8644,104 @@
   "audio": null,
   "link": "https://www.voachinese.com/a/wi136/1685718.html",
   "link_title": "美国习惯用语第136讲"
+ },
+ {
+  "phrase": "Beat around the bush.",
+  "slug": "beat-around-the-bush-third",
+  "sent_at": "2026-11-25 08:00",
+  "literal": "在灌木丛周围拍打",
+  "meaning": "说话兜圈子，不直说重点",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Just tell me the news. Don't beat around the bush."
+   },
+   {
+    "who": "B",
+    "en": "Okay, I didn't get the job."
+   }
+  ],
+  "dialog_zh": "A：直接说吧，别兜圈子。B：好吧，我没得到那份工作。",
+  "tip": "常用 Don't beat around the bush 催对方直说；beat 随主语变化，如 He's beating around the bush。不要按字面理解成去打灌木。",
+  "audios": [
+   "media/beat-around-the-bush-third-1.mp3",
+   "media/beat-around-the-bush-third-2.mp3",
+   "media/beat-around-the-bush-third-3.mp3"
+  ],
+  "transcripts": [
+   "Yes, why? Do you like Italian food? Yes, why? Quit beating around the bush! Are you trying to ask me out on the date? Sorry about not asking...",
+   "anybody else yet. Okay? And promise will still remain friends. Stop beating around the bush and just tell me what it is. Okay. So I get promoted.",
+   "Maybe I should talk to you after I have solid proof. Come on, don't beat around the bush. Tell me now."
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://www.voakorea.com/a/1848081.html",
+  "link_title": "Beating around the bush (English with Yoo)"
+ },
+ {
+  "phrase": "Off the hook.",
+  "slug": "off-the-hook-third",
+  "sent_at": "2026-11-25 08:00",
+  "literal": "从钩子上取下来",
+  "meaning": "摆脱麻烦或责任；不用再承担责任了",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Do I still have to present tomorrow?"
+   },
+   {
+    "who": "B",
+    "en": "No, you're off the hook. They canceled the meeting."
+   }
+  ],
+  "dialog_zh": "A：我明天还要做汇报吗？B：不用了，你解脱了。会议取消了。",
+  "tip": "口语里常说 you're off the hook（你没事了）或 let someone off the hook（放过某人）。这是最常用的意思；另有“很精彩/很火”的俚语用法，但日常更常表示解脱。",
+  "audios": [
+   "media/off-the-hook-third-1.mp3",
+   "media/off-the-hook-third-2.mp3",
+   "media/off-the-hook-third-3.mp3"
+  ],
+  "transcripts": [
+   "to let me off the hook Jessica could you please let me off the hook just this one I'm begging you hmm that's really cute",
+   "Sangela set the time of the murder, sir. So as far as we're concerned, he is off the hook, and no further investigation is required. Well, man, you can't answer it.",
+   "by the police because my car brake lights were out, but instead of giving me a ticket, he lit me off the hook. Really? He just let you go? Yes, but he did tell me to get the light fixed right-"
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://www.voachinese.com/a/how-to-say-it31/1248786.html",
+  "link_title": "美语怎么说031讲: 放我一马"
+ },
+ {
+  "phrase": "Pull someone's leg.",
+  "slug": "pull-someones-leg-again",
+  "sent_at": "2026-11-25 08:00",
+  "literal": "拉某人的腿",
+  "meaning": "逗别人、开玩笑（不是认真的）",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "I just won the lottery."
+   },
+   {
+    "who": "B",
+    "en": "Yeah, right. You're pulling my leg."
+   }
+  ],
+  "dialog_zh": "A：我刚中彩票了。B：得了吧，你在逗我。",
+  "tip": "常用 You're pulling my leg 或 Are you pulling my leg? 表示“你在开玩笑吧”。没有恶意，只是逗对方；所有格随对象变，如 pulling my/your/his leg。",
+  "audios": [
+   "media/pull-someones-leg-again-1.mp3",
+   "media/pull-someones-leg-again-2.mp3",
+   "media/pull-someones-leg-again-3.mp3"
+  ],
+  "transcripts": [
+   "But wait, why do you say I look like Amy? Are you pulling my leg?",
+   "was April Fool's Day and realized my friends were pulling my leg.",
+   "Chicken feet chicken feet Who would eat that? Lehwa are you pulling my leg? Shumah pulling your leg. Well, I need a toy. No"
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://www.voakorea.com/a/7844606.html",
+  "link_title": "[VOA 매일 영어] 저를 놀리시는 겁니까?"
  }
 ]
