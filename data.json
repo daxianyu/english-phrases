@@ -8939,5 +8939,104 @@
   "audio": null,
   "link": "https://www.voachinese.com/a/eng25-130/1798917.html",
   "link_title": "美语训练班第130课 (American English Mosaic)"
+ },
+ {
+  "phrase": "On the ball.",
+  "slug": "on-the-ball-third",
+  "sent_at": "2026-11-26 15:30",
+  "literal": "在球上",
+  "meaning": "机灵、反应快，做事到位靠谱",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "I already sent the client the updated numbers."
+   },
+   {
+    "who": "B",
+    "en": "Nice, you're really on the ball today."
+   }
+  ],
+  "dialog_zh": "A：我已经把更新后的数据发给客户了。B：不错，你今天效率真高。",
+  "tip": "常说 be on the ball 夸人做事利落；催人抓紧用 Get on the ball!；I wasn't on the ball today 表示今天状态不好、反应慢。",
+  "audios": [
+   "media/on-the-ball-third-1.mp3",
+   "media/on-the-ball-third-2.mp3",
+   "media/on-the-ball-third-3.mp3"
+  ],
+  "transcripts": [
+   "Very productive. I finished three reports and have only one more to do. Wow, you are on the ball. How did you do them so fast? Coffee. Lots of coffee.",
+   "That reporter is about the best we have on the paper. He's always on the ball, and brings back stories that most other reporters would miss.",
+   "Say, that new saleswoman doesn't seem to pay much attention to her work. You tell her she'd better get on the ball and start taking care of customers, or we'll have to let her go."
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://learningenglish.voanews.com/a/7990719.html",
+  "link_title": "English in a Minute: On the Ball"
+ },
+ {
+  "phrase": "It's not rocket science.",
+  "slug": "its-not-rocket-science-third",
+  "sent_at": "2026-11-26 15:30",
+  "literal": "这不是火箭科学",
+  "meaning": "这没那么难，很简单",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "How do I change the password on this thing?"
+   },
+   {
+    "who": "B",
+    "en": "It's not rocket science. Just go to Settings and tap Security."
+   }
+  ],
+  "dialog_zh": "A：这个东西的密码怎么改？B：又不难，进设置点安全就行。",
+  "tip": "用来说某事其实很简单，语气可以是鼓励也可能略带不耐烦；对上级或客户说时注意语气。同义说法 It's not brain surgery。",
+  "audios": [
+   "media/its-not-rocket-science-third-1.mp3",
+   "media/its-not-rocket-science-third-2.mp3",
+   "media/its-not-rocket-science-third-3.mp3"
+  ],
+  "transcripts": [
+   "You can reduce alcohol problems. It's not rocket science, and there's a lot of science behind it. However, he's not.",
+   "Please don't forget to turn off the lights. It's not rocket science. You can use this idiom for",
+   "It looks so complicated. B, come on, it's not rocket science. Just swipe up to unlock and tap on the app you want to use."
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://learningenglish.voanews.com/a/u-s-health-agency-cancels-alcohol-study-financed-by-alcohol-industry/5026992.html",
+  "link_title": "US Health Agency Cancels Alcohol Study Financed by Alcohol Industry"
+ },
+ {
+  "phrase": "Wrap your head around something.",
+  "slug": "wrap-your-head-around-something-third",
+  "sent_at": "2026-11-26 15:30",
+  "literal": "用脑袋把某事包起来",
+  "meaning": "理解、想明白（复杂或难以接受的事）",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "They're moving the whole team to another city next month."
+   },
+   {
+    "who": "B",
+    "en": "Wow. I need a minute to wrap my head around that."
+   }
+  ],
+  "dialog_zh": "A：下个月他们要把整个团队调到另一个城市。B：哇，我得缓一缓才能消化这件事。",
+  "tip": "最常见 I can't wrap my head around it（实在想不通）和 I'm still wrapping my head around it（还在消化）；物主代词随主语变：my/your/his head。",
+  "audios": [
+   "media/wrap-your-head-around-something-third-1.mp3",
+   "media/wrap-your-head-around-something-third-2.mp3",
+   "media/wrap-your-head-around-something-third-3.mp3"
+  ],
+  "transcripts": [
+   "Driving a luxury car and living in a fancy condo, I cannot wrap my head around it. Maybe he invested in something that took off or he got a hug.",
+   "I'm still processing. I'm still digesting the information. I'm still wrapping my head around it. I'm still trying to absorb everything. I'm still mulling it over.",
+   "And that was really helpful for me to kind of wrap my head around the different ways you can make movies. Before being nominated for a..."
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://www.voakorea.com/a/7330057.html",
+  "link_title": "[VOA 매일 영어] Your guess is as good as mine. (모르긴 나도 마찬가지입니다)"
  }
 ]
