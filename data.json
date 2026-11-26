@@ -8840,5 +8840,104 @@
   "audio": null,
   "link": "https://learningenglish.voanews.com/a/1684043.html",
   "link_title": "English in a Minute: Get Cold Feet"
+ },
+ {
+  "phrase": "Spill the beans.",
+  "slug": "spill-the-beans-third",
+  "sent_at": "2026-11-26 08:00",
+  "literal": "把豆子撒出来",
+  "meaning": "泄露秘密、说漏嘴；也可用来催对方“快说吧”",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "How did Katie find out about the surprise party?"
+   },
+   {
+    "who": "B",
+    "en": "Jim spilled the beans."
+   }
+  ],
+  "dialog_zh": "A：凯蒂怎么知道惊喜派对的？B：吉姆说漏嘴了。",
+  "tip": "常用 spill the beans (about sth) 或 spill the beans to sb；朋友间说 Come on, spill the beans! 是“快从实招来”，语气轻松，不用于严肃的泄密。",
+  "audios": [
+   "media/spill-the-beans-third-1.mp3",
+   "media/spill-the-beans-third-2.mp3",
+   "media/spill-the-beans-third-3.mp3"
+  ],
+  "transcripts": [
+   "I'm upset. Do you remember I was planning a surprise party for Katie? Jim spilled the beans about it and Katie knows everything now. Oh boy. Well...",
+   "Yeah, I've been hearing them too, and I'd like to set the record straight. Alright, spill the beans. It's all a misunderstanding. I wasn't the one who spread that c-",
+   "of shut. I invited her to our surprise party for Mary, and she went and spilled the beans to Mary. She says she's sorry, but she certainly spoiled the"
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://www.voakorea.com/a/1812711.html",
+  "link_title": "Spill the beans (English with Yoo)"
+ },
+ {
+  "phrase": "Cut someone some slack.",
+  "slug": "cut-someone-some-slack-again",
+  "sent_at": "2026-11-26 08:00",
+  "literal": "给某人剪一些松弛的绳子",
+  "meaning": "体谅一下某人、别对某人太苛刻，放他一马",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "You're late again!"
+   },
+   {
+    "who": "B",
+    "en": "Cut me some slack. I was up all night with the baby."
+   }
+  ],
+  "dialog_zh": "A：你又迟到了！B：体谅一下嘛，我照顾宝宝一整夜没睡。",
+  "tip": "实际说时 someone 要换成 me / him / her，如 Cut me some slack、Let's cut her some slack；slack 是不可数名词，不说 a slack。",
+  "audios": [
+   "media/cut-someone-some-slack-again-1.mp3",
+   "media/cut-someone-some-slack-again-2.mp3",
+   "media/cut-someone-some-slack-again-3.mp3"
+  ],
+  "transcripts": [
+   "The basketball game started an hour ago! Sorry, Mike. But cut me some slack. I have a one-year-old daughter at home, and my wife needed some lah-",
+   "Jane has had a lot of problems lately with her family. Let's cut her some slack. She is a paid professional. So no. No slack will be cut.",
+   "Please cut me some slack. Give me some slack, please. Please go easy on me."
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://www.voakorea.com/a/1955755.html",
+  "link_title": "Cut somebody some slack (English with Yoo)"
+ },
+ {
+  "phrase": "Get out of hand.",
+  "slug": "get-out-of-hand-third",
+  "sent_at": "2026-11-26 08:00",
+  "literal": "脱离了手",
+  "meaning": "（局面、情绪、开销等）失控、闹大了",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "How was the party last night?"
+   },
+   {
+    "who": "B",
+    "en": "It got out of hand. The neighbors called the police."
+   }
+  ],
+  "dialog_zh": "A：昨晚派对怎么样？B：闹得失控了，邻居都报警了。",
+  "tip": "主语通常是事情或局面（things / the situation / it），常说 things got out of hand 或 before it gets out of hand；说人失控更常用 lose control。",
+  "audios": [
+   "media/get-out-of-hand-third-1.mp3",
+   "media/get-out-of-hand-third-2.mp3",
+   "media/get-out-of-hand-third-3.mp3"
+  ],
+  "transcripts": [
+   "A lot of times you don't even have to pay for shipping. But it's also really easy to let things get out of hand. Sometimes when you're shopping online you feel like you're not spending very much, but you",
+   "Then, then some idiot threw a chair through a window. It really got out of hand. The police had to come by and break it up.",
+   "You mean I shouldn't discipline her at all? No, don't try to discipline her. If things get out of hand, just call my cell phone. What time will you be home? Very soon, I hope."
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://www.voachinese.com/a/eng25-130/1798917.html",
+  "link_title": "美语训练班第130课 (American English Mosaic)"
  }
 ]

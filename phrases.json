@@ -5394,5 +5394,62 @@
     ],
     "dialog_zh": "A：你还跟我们一起去跳伞吗？B：我想去，但开始有点打退堂鼓了。",
     "tip": "不是真的脚冷。常用 get / got / getting cold feet，多用于婚礼、演讲、辞职这类大事前。"
+  },
+  {
+    "phrase": "Spill the beans.",
+    "slug": "spill-the-beans-third",
+    "sent_at": "2026-11-26 08:00",
+    "literal": "把豆子撒出来",
+    "meaning": "泄露秘密、说漏嘴；也可用来催对方“快说吧”",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "How did Katie find out about the surprise party?"
+      },
+      {
+        "who": "B",
+        "en": "Jim spilled the beans."
+      }
+    ],
+    "dialog_zh": "A：凯蒂怎么知道惊喜派对的？B：吉姆说漏嘴了。",
+    "tip": "常用 spill the beans (about sth) 或 spill the beans to sb；朋友间说 Come on, spill the beans! 是“快从实招来”，语气轻松，不用于严肃的泄密。"
+  },
+  {
+    "phrase": "Cut someone some slack.",
+    "slug": "cut-someone-some-slack-again",
+    "sent_at": "2026-11-26 08:00",
+    "literal": "给某人剪一些松弛的绳子",
+    "meaning": "体谅一下某人、别对某人太苛刻，放他一马",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "You're late again!"
+      },
+      {
+        "who": "B",
+        "en": "Cut me some slack. I was up all night with the baby."
+      }
+    ],
+    "dialog_zh": "A：你又迟到了！B：体谅一下嘛，我照顾宝宝一整夜没睡。",
+    "tip": "实际说时 someone 要换成 me / him / her，如 Cut me some slack、Let's cut her some slack；slack 是不可数名词，不说 a slack。"
+  },
+  {
+    "phrase": "Get out of hand.",
+    "slug": "get-out-of-hand-third",
+    "sent_at": "2026-11-26 08:00",
+    "literal": "脱离了手",
+    "meaning": "（局面、情绪、开销等）失控、闹大了",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "How was the party last night?"
+      },
+      {
+        "who": "B",
+        "en": "It got out of hand. The neighbors called the police."
+      }
+    ],
+    "dialog_zh": "A：昨晚派对怎么样？B：闹得失控了，邻居都报警了。",
+    "tip": "主语通常是事情或局面（things / the situation / it），常说 things got out of hand 或 before it gets out of hand；说人失控更常用 lose control。"
   }
 ]
