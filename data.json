@@ -9038,5 +9038,104 @@
   "audio": null,
   "link": "https://www.voakorea.com/a/7330057.html",
   "link_title": "[VOA 매일 영어] Your guess is as good as mine. (모르긴 나도 마찬가지입니다)"
+ },
+ {
+  "phrase": "Go back to the drawing board.",
+  "slug": "go-back-to-the-drawing-board-third",
+  "sent_at": "2026-11-27 08:00",
+  "literal": "回到绘图板前",
+  "meaning": "计划或方案行不通，只能推倒重来、从头再想",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Nobody signed up for the new app after the launch."
+   },
+   {
+    "who": "B",
+    "en": "Okay, looks like we need to go back to the drawing board."
+   }
+  ],
+  "dialog_zh": "A：新应用上线后根本没人注册。B：好吧，看来我们得推倒重来了。",
+  "tip": "口语里常只说 Back to the drawing board.，带点无奈但不放弃的语气；drawing 不能说成 draw。",
+  "audios": [
+   "media/go-back-to-the-drawing-board-third-1.mp3",
+   "media/go-back-to-the-drawing-board-third-2.mp3",
+   "media/go-back-to-the-drawing-board-third-3.mp3"
+  ],
+  "transcripts": [
+   "Listen carefully. Hey, we need to go back to the drawing board. What do you mean? Our original plan went terribly wrong, and it was unsuccessful.",
+   "are not working out at all, you may have to go back to the drawing board. This means that your plan or method is not working.",
+   "material coming out of it. To be honest, we are really going back to the drawing-board with this,\" said Steady co-writer Darak Watson of the Cosmo—"
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://www.voakorea.com/a/3014173.html",
+  "link_title": "[English with Yoo] Back to the drawing board"
+ },
+ {
+  "phrase": "Cut corners.",
+  "slug": "cut-corners-third",
+  "sent_at": "2026-11-27 08:00",
+  "literal": "抄近路切过拐角",
+  "meaning": "为省时省钱而偷工减料、图省事走捷径",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "The contractor says he can finish the kitchen in a week."
+   },
+   {
+    "who": "B",
+    "en": "That fast? I hope he's not cutting corners."
+   }
+  ],
+  "dialog_zh": "A：装修师傅说一周就能把厨房弄完。B：这么快？希望他别偷工减料。",
+  "tip": "多含贬义，corners 用复数；常见 cut corners on quality/safety；中性说法可用 take a shortcut。",
+  "audios": [
+   "media/cut-corners-third-1.mp3",
+   "media/cut-corners-third-2.mp3",
+   "media/cut-corners-third-3.mp3"
+  ],
+  "transcripts": [
+   "Have you finished planning for your vacation? Not quite yet. I'm still looking for ways to cut corners and save money on this vacation. It's a vacation! Don't cut corners, just... ...",
+   "that you can, at least in conversation. When you cut corners, you do something in a cheaper or easier way.",
+   "seven days a week trying to grow the company. I never cut corners or tried to save on expenses. I made many..."
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://www.voakorea.com/a/6748879.html",
+  "link_title": "[VOA 매일 영어] 원칙이나 절차를 무시하다 cut corners"
+ },
+ {
+  "phrase": "Give someone the benefit of the doubt.",
+  "slug": "give-someone-the-benefit-of-the-doubt-third",
+  "sent_at": "2026-11-27 08:00",
+  "literal": "把“存疑”的好处给某人",
+  "meaning": "没有确凿证据时，姑且相信某人、往好处想",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "She still hasn't replied to my message. Do you think she's ignoring me?"
+   },
+   {
+    "who": "B",
+    "en": "Give her the benefit of the doubt. She's probably just busy."
+   }
+  ],
+  "dialog_zh": "A：她还没回我消息，你觉得她是不是故意不理我？B：往好处想吧，她可能只是忙。",
+  "tip": "doubt 用单数；常说 I'll give you the benefit of the doubt（这次先信你）；被动 be given the benefit of the doubt。",
+  "audios": [
+   "media/give-someone-the-benefit-of-the-doubt-third-1.mp3",
+   "media/give-someone-the-benefit-of-the-doubt-third-2.mp3",
+   "media/give-someone-the-benefit-of-the-doubt-third-3.mp3"
+  ],
+  "transcripts": [
+   "...law says that if someone could be a refugee, you basically have to give them the benefit of the doubt and not send them back. The experts say the way to reduce the...",
+   "Cream will reduce your wrinkles in no time. You should give it a try. I'll give you the benefit of the doubt. But you know, if something goes wrong with my skin, you'll hear from my lawyer.",
+   "Kreuz wrote that professors suspected of plagiarism may be given the benefit of the doubt by their schools. They may also be given the chance to make corrections"
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://learningenglish.voanews.com/a/what-makes-refugee/1969302.html",
+  "link_title": "What Makes a Refugee?"
  }
 ]
