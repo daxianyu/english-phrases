@@ -9137,5 +9137,104 @@
   "audio": null,
   "link": "https://learningenglish.voanews.com/a/what-makes-refugee/1969302.html",
   "link_title": "What Makes a Refugee?"
+ },
+ {
+  "phrase": "That's the last straw.",
+  "slug": "thats-the-last-straw-third",
+  "sent_at": "2026-11-27 15:30",
+  "literal": "那是最后一根稻草",
+  "meaning": "忍耐到了极限，这件事让人再也受不了了（压垮骆驼的最后一根稻草）",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Your roommate left the dishes in the sink again?"
+   },
+   {
+    "who": "B",
+    "en": "Third time this week. That's the last straw. I'm talking to him tonight."
+   }
+  ],
+  "dialog_zh": "A：你室友又把碗堆在水槽里了？B：这周第三次了，我真忍无可忍了，今晚就找他谈。",
+  "tip": "说过去的事常用 That was the last straw.；完整源自 the straw that broke the camel's back；语气是“受够了”，后面常接要采取的行动。",
+  "audios": [
+   "media/thats-the-last-straw-third-1.mp3",
+   "media/thats-the-last-straw-third-2.mp3",
+   "media/thats-the-last-straw-third-3.mp3"
+  ],
+  "transcripts": [
+   "Okay. And all the food is going to be vegetarian. That's the last straw. I'm just staying home and watching TV tonight.",
+   "The price almost doubled. That was the last straw. I decided just to do yoga at home with a",
+   "all kinds of strange people to the apartment. That was the last straw. I had had enough. I told her she had to..."
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://learningenglish.voanews.com/a/english-in-a-minute-the-last-straw/3240181.html",
+  "link_title": "English in a Minute: The Last Straw"
+ },
+ {
+  "phrase": "We'll cross that bridge when we come to it.",
+  "slug": "well-cross-that-bridge-when-we-come-to-it-third",
+  "sent_at": "2026-11-27 15:30",
+  "literal": "等走到桥边再过桥",
+  "meaning": "到时候再说、车到山前必有路，现在先不为还没发生的问题操心",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "What if the landlord raises the rent next year?"
+   },
+   {
+    "who": "B",
+    "en": "We'll cross that bridge when we come to it. Let's just enjoy the place for now."
+   }
+  ],
+  "dialog_zh": "A：要是房东明年涨房租怎么办？B：到时候再说吧，现在先好好享受这房子。",
+  "tip": "主语可换成 I'll / You'll；口语也常简说 Let's cross that bridge when we get there.；come to it 不说 arrive it。",
+  "audios": [
+   "media/well-cross-that-bridge-when-we-come-to-it-third-1.mp3",
+   "media/well-cross-that-bridge-when-we-come-to-it-third-2.mp3",
+   "media/well-cross-that-bridge-when-we-come-to-it-third-3.mp3"
+  ],
+  "transcripts": [
+   "This brings us to another common expression using bridge. I will cross that bridge when I come to it. This expression means to not worry.",
+   "Your flight. It'll be alright. If I miss my flight, I miss my flight. I'll cross that bridge when I come to it. Let's review.",
+   "might happen in the future. We could tell them, do not cross that bridge until you come to it. It is usually much better..."
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://learningenglish.voanews.com/a/burning-bridges-words-and-their-stories/3097483.html",
+  "link_title": "Burning Bridges Is a Bold Move in War and in Life"
+ },
+ {
+  "phrase": "To make matters worse.",
+  "slug": "to-make-matters-worse-third",
+  "sent_at": "2026-11-27 15:30",
+  "literal": "使事情更糟",
+  "meaning": "更糟的是……；雪上加霜的是……（引出让情况更坏的事）",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "How was your trip back?"
+   },
+   {
+    "who": "B",
+    "en": "Awful. My flight got delayed, and to make matters worse, they lost my suitcase."
+   }
+  ],
+  "dialog_zh": "A：回来路上怎么样？B：糟透了。航班延误，更糟的是他们还把我的行李箱弄丢了。",
+  "tip": "常放句首、后接逗号；matters 用复数；同义口语说法 What's worse, ... / On top of that, ...。",
+  "audios": [
+   "media/to-make-matters-worse-third-1.mp3",
+   "media/to-make-matters-worse-third-2.mp3",
+   "media/to-make-matters-worse-third-3.mp3"
+  ],
+  "transcripts": [
+   "Gorman's home is downhill from the bonds home. To make matters worse, the chemical began to spread into a neighboring park and the",
+   "or houses because snow drifts block doorways. To make matters worse, high winds and heavy snow can break limbs off trees.",
+   "and not on less serious cases. To make matters worse, everybody is telling everybody about it."
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://learningenglish.voanews.com/a/summer-visitors-poison-trees-to-see-ocean-better/7664556.html",
+  "link_title": "Summer Visitors Poison Trees to See Ocean Better"
  }
 ]

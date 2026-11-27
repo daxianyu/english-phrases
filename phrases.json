@@ -5565,5 +5565,62 @@
     ],
     "dialog_zh": "A：她还没回我消息，你觉得她是不是故意不理我？B：往好处想吧，她可能只是忙。",
     "tip": "doubt 用单数；常说 I'll give you the benefit of the doubt（这次先信你）；被动 be given the benefit of the doubt。"
+  },
+  {
+    "phrase": "That's the last straw.",
+    "slug": "thats-the-last-straw-third",
+    "sent_at": "2026-11-27 15:30",
+    "literal": "那是最后一根稻草",
+    "meaning": "忍耐到了极限，这件事让人再也受不了了（压垮骆驼的最后一根稻草）",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "Your roommate left the dishes in the sink again?"
+      },
+      {
+        "who": "B",
+        "en": "Third time this week. That's the last straw. I'm talking to him tonight."
+      }
+    ],
+    "dialog_zh": "A：你室友又把碗堆在水槽里了？B：这周第三次了，我真忍无可忍了，今晚就找他谈。",
+    "tip": "说过去的事常用 That was the last straw.；完整源自 the straw that broke the camel's back；语气是“受够了”，后面常接要采取的行动。"
+  },
+  {
+    "phrase": "We'll cross that bridge when we come to it.",
+    "slug": "well-cross-that-bridge-when-we-come-to-it-third",
+    "sent_at": "2026-11-27 15:30",
+    "literal": "等走到桥边再过桥",
+    "meaning": "到时候再说、车到山前必有路，现在先不为还没发生的问题操心",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "What if the landlord raises the rent next year?"
+      },
+      {
+        "who": "B",
+        "en": "We'll cross that bridge when we come to it. Let's just enjoy the place for now."
+      }
+    ],
+    "dialog_zh": "A：要是房东明年涨房租怎么办？B：到时候再说吧，现在先好好享受这房子。",
+    "tip": "主语可换成 I'll / You'll；口语也常简说 Let's cross that bridge when we get there.；come to it 不说 arrive it。"
+  },
+  {
+    "phrase": "To make matters worse.",
+    "slug": "to-make-matters-worse-third",
+    "sent_at": "2026-11-27 15:30",
+    "literal": "使事情更糟",
+    "meaning": "更糟的是……；雪上加霜的是……（引出让情况更坏的事）",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "How was your trip back?"
+      },
+      {
+        "who": "B",
+        "en": "Awful. My flight got delayed, and to make matters worse, they lost my suitcase."
+      }
+    ],
+    "dialog_zh": "A：回来路上怎么样？B：糟透了。航班延误，更糟的是他们还把我的行李箱弄丢了。",
+    "tip": "常放句首、后接逗号；matters 用复数；同义口语说法 What's worse, ... / On top of that, ...。"
   }
 ]
