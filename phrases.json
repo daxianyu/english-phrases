@@ -5679,5 +5679,62 @@
     ],
     "dialog_zh": "A：我就是止不住哭，面试还有十分钟就开始了！B：好了，控制一下情绪。擦擦眼泪，深呼吸几次。",
     "tip": "针对情绪失控时说，语气可能显得生硬，安慰人时先表示理解再说；反身代词随人称变：pull myself / ourselves together。与 Get your act together（别散漫、把事做好）不同。"
+  },
+  {
+    "phrase": "The best of both worlds.",
+    "slug": "the-best-of-both-worlds-third",
+    "sent_at": "2026-11-28 15:30",
+    "literal": "两个世界中最好的",
+    "meaning": "两全其美；同时享有两种不同事物的好处",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "We live in a small town, but the city's only twenty minutes away."
+      },
+      {
+        "who": "B",
+        "en": "So you get the best of both worlds — peace and quiet, plus everything the city has."
+      }
+    ],
+    "dialog_zh": "A：我们住在小镇上，不过离市区只有二十分钟。B：那你们两全其美啊——既清静，又能享受城里的一切。",
+    "tip": "常用 get / have / enjoy the best of both worlds，几乎总带 the；别说成 the best of two worlds。想说“没法两全”可以用 You can't have it both ways。"
+  },
+  {
+    "phrase": "Jump the gun.",
+    "slug": "jump-the-gun-again",
+    "sent_at": "2026-11-28 15:30",
+    "literal": "抢在发令枪之前起跑",
+    "meaning": "操之过急，条件还没成熟就抢先行动",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "I already told everyone I got the job."
+      },
+      {
+        "who": "B",
+        "en": "Didn't they say they'd call you next week? Don't jump the gun."
+      }
+    ],
+    "dialog_zh": "A：我已经跟所有人说我拿到那份工作了。B：他们不是说下周才给你打电话吗？别太心急了。",
+    "tip": "常见说法 Let's not jump the gun（先别急）和 I jumped the gun（我太心急了）；带有轻微批评意味，后面可接 on：jump the gun on the announcement。"
+  },
+  {
+    "phrase": "Don't push your luck.",
+    "slug": "dont-push-your-luck-again",
+    "sent_at": "2026-11-28 15:30",
+    "literal": "别推你的运气",
+    "meaning": "别得寸进尺，见好就收，别再冒险了",
+    "dialog": [
+      {
+        "who": "A",
+        "en": "You let me leave early yesterday. Can I take tomorrow off too?"
+      },
+      {
+        "who": "B",
+        "en": "Don't push your luck."
+      }
+    ],
+    "dialog_zh": "A：你昨天让我早走了，明天能再放我一天假吗？B：别得寸进尺了。",
+    "tip": "常带半开玩笑的警告语气，熟人之间用很自然，对上级慎用；说自己见好就收用 I won't push my luck。也可说 Don't press your luck。"
   }
 ]
