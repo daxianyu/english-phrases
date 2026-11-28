@@ -9236,5 +9236,96 @@
   "audio": null,
   "link": "https://learningenglish.voanews.com/a/summer-visitors-poison-trees-to-see-ocean-better/7664556.html",
   "link_title": "Summer Visitors Poison Trees to See Ocean Better"
+ },
+ {
+  "phrase": "Easy does it.",
+  "slug": "easy-does-it-third",
+  "sent_at": "2026-11-28 08:00",
+  "literal": "轻松地做才行",
+  "meaning": "慢点、小心点、悠着点（提醒动作要轻要稳，也可劝人别激动）",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "Can you help me get Grandpa out of the car?"
+   },
+   {
+    "who": "B",
+    "en": "Sure. Easy does it, Grandpa... one foot down... there you go."
+   }
+  ],
+  "dialog_zh": "A：能帮我把爷爷扶下车吗？B：当然。爷爷，慢点……先放一只脚……好了。",
+  "tip": "固定说法，不变形（不说 Easy do it）；多用于搬东西、扶人、倒车等需要小心的场合，劝人冷静时也可说，类似 Careful / Take it easy。",
+  "audios": [],
+  "transcripts": [],
+  "video": null,
+  "audio": null,
+  "link": null,
+  "link_title": null
+ },
+ {
+  "phrase": "Get your act together.",
+  "slug": "get-your-act-together-third",
+  "sent_at": "2026-11-28 08:00",
+  "literal": "把你的表演整理好",
+  "meaning": "别再散漫，把状态和事情理顺、振作起来好好干",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "My boss says if I'm late one more time, I'm out."
+   },
+   {
+    "who": "B",
+    "en": "Then you'd better get your act together. Set two alarms!"
+   }
+  ],
+  "dialog_zh": "A：老板说我再迟到一次就让我走人。B：那你可得振作起来、别再散漫了。定两个闹钟吧！",
+  "tip": "带批评/催促语气，对长辈或上级慎用；代词随主语变：get my / his act together；说自己改好了常用 I finally got my act together.",
+  "audios": [
+   "media/get-your-act-together-third-1.mp3",
+   "media/get-your-act-together-third-2.mp3",
+   "media/get-your-act-together-third-3.mp3"
+  ],
+  "transcripts": [
+   "You can't live with us the rest of your life. It's time to get your act together. Settle down and get married and start living your own...",
+   "In college, I didn't work hard to plan for the future for several years. But finally, I got my act together and got accepted into graduate school. That should be a whole ocean, seeing it.",
+   "Souls make the most noise. That's all my sound. Hopefully, he will get his act together soon. Hey, why is it that he's in the end? Hell's..."
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://www.voachinese.com/a/wi293/1691110.html",
+  "link_title": "美国习惯用语第293讲"
+ },
+ {
+  "phrase": "Pull yourself together.",
+  "slug": "pull-yourself-together-third",
+  "sent_at": "2026-11-28 08:00",
+  "literal": "把你自己拉到一起",
+  "meaning": "控制住情绪、冷静下来、振作起来（别慌、别哭、别崩溃）",
+  "dialog": [
+   {
+    "who": "A",
+    "en": "I just can't stop crying. The interview is in ten minutes!"
+   },
+   {
+    "who": "B",
+    "en": "Okay, pull yourself together. Wipe your eyes and take a few deep breaths."
+   }
+  ],
+  "dialog_zh": "A：我就是止不住哭，面试还有十分钟就开始了！B：好了，控制一下情绪。擦擦眼泪，深呼吸几次。",
+  "tip": "针对情绪失控时说，语气可能显得生硬，安慰人时先表示理解再说；反身代词随人称变：pull myself / ourselves together。与 Get your act together（别散漫、把事做好）不同。",
+  "audios": [
+   "media/pull-yourself-together-third-1.mp3",
+   "media/pull-yourself-together-third-2.mp3",
+   "media/pull-yourself-together-third-3.mp3"
+  ],
+  "transcripts": [
+   "You did not help Anna. You did not help. Pete, Pete, pull yourself together man. Give me the keys. I must feel the key in the",
+   "Compurian wha-pis tama-ding-dah. Get a grip on yourself. Get a grip. Pull yourself together. Pull. Tang-dah. Yourself. Tang-shinta-shin-neh. Together. C-t-",
+   "It should cause the rest of us, the survivors, as it were, to pull ourselves together and see that we can act together.\""
+  ],
+  "video": null,
+  "audio": null,
+  "link": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-47-how-can-i-help/3737352.html",
+  "link_title": "Let's Learn English Lesson 47: How Can I Help?"
  }
 ]
